@@ -1,0 +1,8502 @@
+[
+  {
+    "date": "2024-01-01",
+    "source": "subscription",
+    "revenue": 26767
+  },
+  {
+    "date": "2024-01-01",
+    "source": "advertisement",
+    "revenue": 16362
+  },
+  {
+    "date": "2024-01-01",
+    "source": "merchandise",
+    "revenue": 5424
+  },
+  {
+    "date": "2024-01-01",
+    "source": "licensing",
+    "revenue": 5601
+  },
+  {
+    "date": "2024-01-02",
+    "source": "subscription",
+    "revenue": 20489
+  },
+  {
+    "date": "2024-01-02",
+    "source": "advertisement",
+    "revenue": 11917
+  },
+  {
+    "date": "2024-01-02",
+    "source": "merchandise",
+    "revenue": 4708
+  },
+  {
+    "date": "2024-01-02",
+    "source": "licensing",
+    "revenue": 4208
+  },
+  {
+    "date": "2024-01-03",
+    "source": "subscription",
+    "revenue": 12715
+  },
+  {
+    "date": "2024-01-03",
+    "source": "advertisement",
+    "revenue": 7758
+  },
+  {
+    "date": "2024-01-03",
+    "source": "merchandise",
+    "revenue": 2498
+  },
+  {
+    "date": "2024-01-03",
+    "source": "licensing",
+    "revenue": 2804
+  },
+  {
+    "date": "2024-01-04",
+    "source": "subscription",
+    "revenue": 29348
+  },
+  {
+    "date": "2024-01-04",
+    "source": "advertisement",
+    "revenue": 17824
+  },
+  {
+    "date": "2024-01-04",
+    "source": "merchandise",
+    "revenue": 5054
+  },
+  {
+    "date": "2024-01-04",
+    "source": "licensing",
+    "revenue": 5593
+  },
+  {
+    "date": "2024-01-05",
+    "source": "subscription",
+    "revenue": 33681
+  },
+  {
+    "date": "2024-01-05",
+    "source": "advertisement",
+    "revenue": 20020
+  },
+  {
+    "date": "2024-01-05",
+    "source": "merchandise",
+    "revenue": 6666
+  },
+  {
+    "date": "2024-01-05",
+    "source": "licensing",
+    "revenue": 6686
+  },
+  {
+    "date": "2024-01-06",
+    "source": "subscription",
+    "revenue": 23616
+  },
+  {
+    "date": "2024-01-06",
+    "source": "advertisement",
+    "revenue": 14104
+  },
+  {
+    "date": "2024-01-06",
+    "source": "merchandise",
+    "revenue": 4553
+  },
+  {
+    "date": "2024-01-06",
+    "source": "licensing",
+    "revenue": 5050
+  },
+  {
+    "date": "2024-01-07",
+    "source": "subscription",
+    "revenue": 45486
+  },
+  {
+    "date": "2024-01-07",
+    "source": "advertisement",
+    "revenue": 28231
+  },
+  {
+    "date": "2024-01-07",
+    "source": "merchandise",
+    "revenue": 7674
+  },
+  {
+    "date": "2024-01-07",
+    "source": "licensing",
+    "revenue": 9430
+  },
+  {
+    "date": "2024-01-08",
+    "source": "subscription",
+    "revenue": 44859
+  },
+  {
+    "date": "2024-01-08",
+    "source": "advertisement",
+    "revenue": 26042
+  },
+  {
+    "date": "2024-01-08",
+    "source": "merchandise",
+    "revenue": 8943
+  },
+  {
+    "date": "2024-01-08",
+    "source": "licensing",
+    "revenue": 10363
+  },
+  {
+    "date": "2024-01-09",
+    "source": "subscription",
+    "revenue": 26207
+  },
+  {
+    "date": "2024-01-09",
+    "source": "advertisement",
+    "revenue": 16744
+  },
+  {
+    "date": "2024-01-09",
+    "source": "merchandise",
+    "revenue": 5234
+  },
+  {
+    "date": "2024-01-09",
+    "source": "licensing",
+    "revenue": 5508
+  },
+  {
+    "date": "2024-01-10",
+    "source": "subscription",
+    "revenue": 11471
+  },
+  {
+    "date": "2024-01-10",
+    "source": "advertisement",
+    "revenue": 7047
+  },
+  {
+    "date": "2024-01-10",
+    "source": "merchandise",
+    "revenue": 2351
+  },
+  {
+    "date": "2024-01-10",
+    "source": "licensing",
+    "revenue": 2392
+  },
+  {
+    "date": "2024-01-11",
+    "source": "subscription",
+    "revenue": 24355
+  },
+  {
+    "date": "2024-01-11",
+    "source": "advertisement",
+    "revenue": 15093
+  },
+  {
+    "date": "2024-01-11",
+    "source": "merchandise",
+    "revenue": 4498
+  },
+  {
+    "date": "2024-01-11",
+    "source": "licensing",
+    "revenue": 4625
+  },
+  {
+    "date": "2024-01-12",
+    "source": "subscription",
+    "revenue": 12590
+  },
+  {
+    "date": "2024-01-12",
+    "source": "advertisement",
+    "revenue": 6966
+  },
+  {
+    "date": "2024-01-12",
+    "source": "merchandise",
+    "revenue": 2446
+  },
+  {
+    "date": "2024-01-12",
+    "source": "licensing",
+    "revenue": 2567
+  },
+  {
+    "date": "2024-01-13",
+    "source": "subscription",
+    "revenue": 15222
+  },
+  {
+    "date": "2024-01-13",
+    "source": "advertisement",
+    "revenue": 8663
+  },
+  {
+    "date": "2024-01-13",
+    "source": "merchandise",
+    "revenue": 2877
+  },
+  {
+    "date": "2024-01-13",
+    "source": "licensing",
+    "revenue": 2483
+  },
+  {
+    "date": "2024-01-14",
+    "source": "subscription",
+    "revenue": 16314
+  },
+  {
+    "date": "2024-01-14",
+    "source": "advertisement",
+    "revenue": 9822
+  },
+  {
+    "date": "2024-01-14",
+    "source": "merchandise",
+    "revenue": 3402
+  },
+  {
+    "date": "2024-01-14",
+    "source": "licensing",
+    "revenue": 2956
+  },
+  {
+    "date": "2024-01-15",
+    "source": "subscription",
+    "revenue": 28871
+  },
+  {
+    "date": "2024-01-15",
+    "source": "advertisement",
+    "revenue": 17307
+  },
+  {
+    "date": "2024-01-15",
+    "source": "merchandise",
+    "revenue": 5797
+  },
+  {
+    "date": "2024-01-15",
+    "source": "licensing",
+    "revenue": 6255
+  },
+  {
+    "date": "2024-01-16",
+    "source": "subscription",
+    "revenue": 42141
+  },
+  {
+    "date": "2024-01-16",
+    "source": "advertisement",
+    "revenue": 25327
+  },
+  {
+    "date": "2024-01-16",
+    "source": "merchandise",
+    "revenue": 8401
+  },
+  {
+    "date": "2024-01-16",
+    "source": "licensing",
+    "revenue": 8125
+  },
+  {
+    "date": "2024-01-17",
+    "source": "subscription",
+    "revenue": 18407
+  },
+  {
+    "date": "2024-01-17",
+    "source": "advertisement",
+    "revenue": 11345
+  },
+  {
+    "date": "2024-01-17",
+    "source": "merchandise",
+    "revenue": 4368
+  },
+  {
+    "date": "2024-01-17",
+    "source": "licensing",
+    "revenue": 3732
+  },
+  {
+    "date": "2024-01-18",
+    "source": "subscription",
+    "revenue": 23024
+  },
+  {
+    "date": "2024-01-18",
+    "source": "advertisement",
+    "revenue": 13496
+  },
+  {
+    "date": "2024-01-18",
+    "source": "merchandise",
+    "revenue": 4145
+  },
+  {
+    "date": "2024-01-18",
+    "source": "licensing",
+    "revenue": 4268
+  },
+  {
+    "date": "2024-01-19",
+    "source": "subscription",
+    "revenue": 43138
+  },
+  {
+    "date": "2024-01-19",
+    "source": "advertisement",
+    "revenue": 25844
+  },
+  {
+    "date": "2024-01-19",
+    "source": "merchandise",
+    "revenue": 7930
+  },
+  {
+    "date": "2024-01-19",
+    "source": "licensing",
+    "revenue": 9778
+  },
+  {
+    "date": "2024-01-20",
+    "source": "subscription",
+    "revenue": 6309
+  },
+  {
+    "date": "2024-01-20",
+    "source": "advertisement",
+    "revenue": 3984
+  },
+  {
+    "date": "2024-01-20",
+    "source": "merchandise",
+    "revenue": 1334
+  },
+  {
+    "date": "2024-01-20",
+    "source": "licensing",
+    "revenue": 1450
+  },
+  {
+    "date": "2024-01-21",
+    "source": "subscription",
+    "revenue": 7013
+  },
+  {
+    "date": "2024-01-21",
+    "source": "advertisement",
+    "revenue": 4189
+  },
+  {
+    "date": "2024-01-21",
+    "source": "merchandise",
+    "revenue": 1426
+  },
+  {
+    "date": "2024-01-21",
+    "source": "licensing",
+    "revenue": 1449
+  },
+  {
+    "date": "2024-01-22",
+    "source": "subscription",
+    "revenue": 12088
+  },
+  {
+    "date": "2024-01-22",
+    "source": "advertisement",
+    "revenue": 7042
+  },
+  {
+    "date": "2024-01-22",
+    "source": "merchandise",
+    "revenue": 2597
+  },
+  {
+    "date": "2024-01-22",
+    "source": "licensing",
+    "revenue": 2291
+  },
+  {
+    "date": "2024-01-23",
+    "source": "subscription",
+    "revenue": 35587
+  },
+  {
+    "date": "2024-01-23",
+    "source": "advertisement",
+    "revenue": 21975
+  },
+  {
+    "date": "2024-01-23",
+    "source": "merchandise",
+    "revenue": 6289
+  },
+  {
+    "date": "2024-01-23",
+    "source": "licensing",
+    "revenue": 6815
+  },
+  {
+    "date": "2024-01-24",
+    "source": "subscription",
+    "revenue": 29999
+  },
+  {
+    "date": "2024-01-24",
+    "source": "advertisement",
+    "revenue": 18521
+  },
+  {
+    "date": "2024-01-24",
+    "source": "merchandise",
+    "revenue": 6202
+  },
+  {
+    "date": "2024-01-24",
+    "source": "licensing",
+    "revenue": 6135
+  },
+  {
+    "date": "2024-01-25",
+    "source": "subscription",
+    "revenue": 17812
+  },
+  {
+    "date": "2024-01-25",
+    "source": "advertisement",
+    "revenue": 10967
+  },
+  {
+    "date": "2024-01-25",
+    "source": "merchandise",
+    "revenue": 3759
+  },
+  {
+    "date": "2024-01-25",
+    "source": "licensing",
+    "revenue": 3691
+  },
+  {
+    "date": "2024-01-26",
+    "source": "subscription",
+    "revenue": 14141
+  },
+  {
+    "date": "2024-01-26",
+    "source": "advertisement",
+    "revenue": 8420
+  },
+  {
+    "date": "2024-01-26",
+    "source": "merchandise",
+    "revenue": 2371
+  },
+  {
+    "date": "2024-01-26",
+    "source": "licensing",
+    "revenue": 2781
+  },
+  {
+    "date": "2024-01-27",
+    "source": "subscription",
+    "revenue": 39919
+  },
+  {
+    "date": "2024-01-27",
+    "source": "advertisement",
+    "revenue": 24857
+  },
+  {
+    "date": "2024-01-27",
+    "source": "merchandise",
+    "revenue": 9839
+  },
+  {
+    "date": "2024-01-27",
+    "source": "licensing",
+    "revenue": 7764
+  },
+  {
+    "date": "2024-01-28",
+    "source": "subscription",
+    "revenue": 15440
+  },
+  {
+    "date": "2024-01-28",
+    "source": "advertisement",
+    "revenue": 9322
+  },
+  {
+    "date": "2024-01-28",
+    "source": "merchandise",
+    "revenue": 3147
+  },
+  {
+    "date": "2024-01-28",
+    "source": "licensing",
+    "revenue": 3159
+  },
+  {
+    "date": "2024-01-29",
+    "source": "subscription",
+    "revenue": 30824
+  },
+  {
+    "date": "2024-01-29",
+    "source": "advertisement",
+    "revenue": 18419
+  },
+  {
+    "date": "2024-01-29",
+    "source": "merchandise",
+    "revenue": 6356
+  },
+  {
+    "date": "2024-01-29",
+    "source": "licensing",
+    "revenue": 6782
+  },
+  {
+    "date": "2024-01-30",
+    "source": "subscription",
+    "revenue": 42230
+  },
+  {
+    "date": "2024-01-30",
+    "source": "advertisement",
+    "revenue": 27239
+  },
+  {
+    "date": "2024-01-30",
+    "source": "merchandise",
+    "revenue": 8482
+  },
+  {
+    "date": "2024-01-30",
+    "source": "licensing",
+    "revenue": 8619
+  },
+  {
+    "date": "2024-01-31",
+    "source": "subscription",
+    "revenue": 50565
+  },
+  {
+    "date": "2024-01-31",
+    "source": "advertisement",
+    "revenue": 29118
+  },
+  {
+    "date": "2024-01-31",
+    "source": "merchandise",
+    "revenue": 9814
+  },
+  {
+    "date": "2024-01-31",
+    "source": "licensing",
+    "revenue": 9937
+  },
+  {
+    "date": "2024-02-01",
+    "source": "subscription",
+    "revenue": 24253
+  },
+  {
+    "date": "2024-02-01",
+    "source": "advertisement",
+    "revenue": 14378
+  },
+  {
+    "date": "2024-02-01",
+    "source": "merchandise",
+    "revenue": 4857
+  },
+  {
+    "date": "2024-02-01",
+    "source": "licensing",
+    "revenue": 4671
+  },
+  {
+    "date": "2024-02-02",
+    "source": "subscription",
+    "revenue": 23011
+  },
+  {
+    "date": "2024-02-02",
+    "source": "advertisement",
+    "revenue": 13492
+  },
+  {
+    "date": "2024-02-02",
+    "source": "merchandise",
+    "revenue": 5388
+  },
+  {
+    "date": "2024-02-02",
+    "source": "licensing",
+    "revenue": 4442
+  },
+  {
+    "date": "2024-02-03",
+    "source": "subscription",
+    "revenue": 33175
+  },
+  {
+    "date": "2024-02-03",
+    "source": "advertisement",
+    "revenue": 19492
+  },
+  {
+    "date": "2024-02-03",
+    "source": "merchandise",
+    "revenue": 6807
+  },
+  {
+    "date": "2024-02-03",
+    "source": "licensing",
+    "revenue": 6805
+  },
+  {
+    "date": "2024-02-04",
+    "source": "subscription",
+    "revenue": 8014
+  },
+  {
+    "date": "2024-02-04",
+    "source": "advertisement",
+    "revenue": 4657
+  },
+  {
+    "date": "2024-02-04",
+    "source": "merchandise",
+    "revenue": 1436
+  },
+  {
+    "date": "2024-02-04",
+    "source": "licensing",
+    "revenue": 1606
+  },
+  {
+    "date": "2024-02-05",
+    "source": "subscription",
+    "revenue": 31088
+  },
+  {
+    "date": "2024-02-05",
+    "source": "advertisement",
+    "revenue": 18279
+  },
+  {
+    "date": "2024-02-05",
+    "source": "merchandise",
+    "revenue": 5774
+  },
+  {
+    "date": "2024-02-05",
+    "source": "licensing",
+    "revenue": 6228
+  },
+  {
+    "date": "2024-02-06",
+    "source": "subscription",
+    "revenue": 35775
+  },
+  {
+    "date": "2024-02-06",
+    "source": "advertisement",
+    "revenue": 21419
+  },
+  {
+    "date": "2024-02-06",
+    "source": "merchandise",
+    "revenue": 6983
+  },
+  {
+    "date": "2024-02-06",
+    "source": "licensing",
+    "revenue": 7165
+  },
+  {
+    "date": "2024-02-07",
+    "source": "subscription",
+    "revenue": 13215
+  },
+  {
+    "date": "2024-02-07",
+    "source": "advertisement",
+    "revenue": 8410
+  },
+  {
+    "date": "2024-02-07",
+    "source": "merchandise",
+    "revenue": 2657
+  },
+  {
+    "date": "2024-02-07",
+    "source": "licensing",
+    "revenue": 2554
+  },
+  {
+    "date": "2024-02-08",
+    "source": "subscription",
+    "revenue": 33413
+  },
+  {
+    "date": "2024-02-08",
+    "source": "advertisement",
+    "revenue": 19742
+  },
+  {
+    "date": "2024-02-08",
+    "source": "merchandise",
+    "revenue": 5848
+  },
+  {
+    "date": "2024-02-08",
+    "source": "licensing",
+    "revenue": 7063
+  },
+  {
+    "date": "2024-02-09",
+    "source": "subscription",
+    "revenue": 26298
+  },
+  {
+    "date": "2024-02-09",
+    "source": "advertisement",
+    "revenue": 15786
+  },
+  {
+    "date": "2024-02-09",
+    "source": "merchandise",
+    "revenue": 4952
+  },
+  {
+    "date": "2024-02-09",
+    "source": "licensing",
+    "revenue": 4849
+  },
+  {
+    "date": "2024-02-10",
+    "source": "subscription",
+    "revenue": 31095
+  },
+  {
+    "date": "2024-02-10",
+    "source": "advertisement",
+    "revenue": 18644
+  },
+  {
+    "date": "2024-02-10",
+    "source": "merchandise",
+    "revenue": 5615
+  },
+  {
+    "date": "2024-02-10",
+    "source": "licensing",
+    "revenue": 6508
+  },
+  {
+    "date": "2024-02-11",
+    "source": "subscription",
+    "revenue": 30075
+  },
+  {
+    "date": "2024-02-11",
+    "source": "advertisement",
+    "revenue": 19018
+  },
+  {
+    "date": "2024-02-11",
+    "source": "merchandise",
+    "revenue": 6055
+  },
+  {
+    "date": "2024-02-11",
+    "source": "licensing",
+    "revenue": 5598
+  },
+  {
+    "date": "2024-02-12",
+    "source": "subscription",
+    "revenue": 40010
+  },
+  {
+    "date": "2024-02-12",
+    "source": "advertisement",
+    "revenue": 24100
+  },
+  {
+    "date": "2024-02-12",
+    "source": "merchandise",
+    "revenue": 8545
+  },
+  {
+    "date": "2024-02-12",
+    "source": "licensing",
+    "revenue": 7882
+  },
+  {
+    "date": "2024-02-13",
+    "source": "subscription",
+    "revenue": 5987
+  },
+  {
+    "date": "2024-02-13",
+    "source": "advertisement",
+    "revenue": 3814
+  },
+  {
+    "date": "2024-02-13",
+    "source": "merchandise",
+    "revenue": 1287
+  },
+  {
+    "date": "2024-02-13",
+    "source": "licensing",
+    "revenue": 1171
+  },
+  {
+    "date": "2024-02-14",
+    "source": "subscription",
+    "revenue": 38934
+  },
+  {
+    "date": "2024-02-14",
+    "source": "advertisement",
+    "revenue": 23655
+  },
+  {
+    "date": "2024-02-14",
+    "source": "merchandise",
+    "revenue": 7951
+  },
+  {
+    "date": "2024-02-14",
+    "source": "licensing",
+    "revenue": 7864
+  },
+  {
+    "date": "2024-02-15",
+    "source": "subscription",
+    "revenue": 37739
+  },
+  {
+    "date": "2024-02-15",
+    "source": "advertisement",
+    "revenue": 23240
+  },
+  {
+    "date": "2024-02-15",
+    "source": "merchandise",
+    "revenue": 8275
+  },
+  {
+    "date": "2024-02-15",
+    "source": "licensing",
+    "revenue": 7456
+  },
+  {
+    "date": "2024-02-16",
+    "source": "subscription",
+    "revenue": 24563
+  },
+  {
+    "date": "2024-02-16",
+    "source": "advertisement",
+    "revenue": 15339
+  },
+  {
+    "date": "2024-02-16",
+    "source": "merchandise",
+    "revenue": 5303
+  },
+  {
+    "date": "2024-02-16",
+    "source": "licensing",
+    "revenue": 4639
+  },
+  {
+    "date": "2024-02-17",
+    "source": "subscription",
+    "revenue": 14766
+  },
+  {
+    "date": "2024-02-17",
+    "source": "advertisement",
+    "revenue": 8943
+  },
+  {
+    "date": "2024-02-17",
+    "source": "merchandise",
+    "revenue": 2724
+  },
+  {
+    "date": "2024-02-17",
+    "source": "licensing",
+    "revenue": 2869
+  },
+  {
+    "date": "2024-02-18",
+    "source": "subscription",
+    "revenue": 40613
+  },
+  {
+    "date": "2024-02-18",
+    "source": "advertisement",
+    "revenue": 25583
+  },
+  {
+    "date": "2024-02-18",
+    "source": "merchandise",
+    "revenue": 7952
+  },
+  {
+    "date": "2024-02-18",
+    "source": "licensing",
+    "revenue": 8267
+  },
+  {
+    "date": "2024-02-19",
+    "source": "subscription",
+    "revenue": 48993
+  },
+  {
+    "date": "2024-02-19",
+    "source": "advertisement",
+    "revenue": 27920
+  },
+  {
+    "date": "2024-02-19",
+    "source": "merchandise",
+    "revenue": 10419
+  },
+  {
+    "date": "2024-02-19",
+    "source": "licensing",
+    "revenue": 9808
+  },
+  {
+    "date": "2024-02-20",
+    "source": "subscription",
+    "revenue": 31141
+  },
+  {
+    "date": "2024-02-20",
+    "source": "advertisement",
+    "revenue": 18023
+  },
+  {
+    "date": "2024-02-20",
+    "source": "merchandise",
+    "revenue": 5944
+  },
+  {
+    "date": "2024-02-20",
+    "source": "licensing",
+    "revenue": 5597
+  },
+  {
+    "date": "2024-02-21",
+    "source": "subscription",
+    "revenue": 25052
+  },
+  {
+    "date": "2024-02-21",
+    "source": "advertisement",
+    "revenue": 14716
+  },
+  {
+    "date": "2024-02-21",
+    "source": "merchandise",
+    "revenue": 4846
+  },
+  {
+    "date": "2024-02-21",
+    "source": "licensing",
+    "revenue": 5496
+  },
+  {
+    "date": "2024-02-22",
+    "source": "subscription",
+    "revenue": 43054
+  },
+  {
+    "date": "2024-02-22",
+    "source": "advertisement",
+    "revenue": 28261
+  },
+  {
+    "date": "2024-02-22",
+    "source": "merchandise",
+    "revenue": 8315
+  },
+  {
+    "date": "2024-02-22",
+    "source": "licensing",
+    "revenue": 8683
+  },
+  {
+    "date": "2024-02-23",
+    "source": "subscription",
+    "revenue": 35928
+  },
+  {
+    "date": "2024-02-23",
+    "source": "advertisement",
+    "revenue": 21341
+  },
+  {
+    "date": "2024-02-23",
+    "source": "merchandise",
+    "revenue": 6284
+  },
+  {
+    "date": "2024-02-23",
+    "source": "licensing",
+    "revenue": 7085
+  },
+  {
+    "date": "2024-02-24",
+    "source": "subscription",
+    "revenue": 20673
+  },
+  {
+    "date": "2024-02-24",
+    "source": "advertisement",
+    "revenue": 12277
+  },
+  {
+    "date": "2024-02-24",
+    "source": "merchandise",
+    "revenue": 4013
+  },
+  {
+    "date": "2024-02-24",
+    "source": "licensing",
+    "revenue": 4004
+  },
+  {
+    "date": "2024-02-25",
+    "source": "subscription",
+    "revenue": 34067
+  },
+  {
+    "date": "2024-02-25",
+    "source": "advertisement",
+    "revenue": 20104
+  },
+  {
+    "date": "2024-02-25",
+    "source": "merchandise",
+    "revenue": 7114
+  },
+  {
+    "date": "2024-02-25",
+    "source": "licensing",
+    "revenue": 6410
+  },
+  {
+    "date": "2024-02-26",
+    "source": "subscription",
+    "revenue": 8691
+  },
+  {
+    "date": "2024-02-26",
+    "source": "advertisement",
+    "revenue": 5534
+  },
+  {
+    "date": "2024-02-26",
+    "source": "merchandise",
+    "revenue": 1721
+  },
+  {
+    "date": "2024-02-26",
+    "source": "licensing",
+    "revenue": 1740
+  },
+  {
+    "date": "2024-02-27",
+    "source": "subscription",
+    "revenue": 28407
+  },
+  {
+    "date": "2024-02-27",
+    "source": "advertisement",
+    "revenue": 17370
+  },
+  {
+    "date": "2024-02-27",
+    "source": "merchandise",
+    "revenue": 6155
+  },
+  {
+    "date": "2024-02-27",
+    "source": "licensing",
+    "revenue": 5838
+  },
+  {
+    "date": "2024-02-28",
+    "source": "subscription",
+    "revenue": 46398
+  },
+  {
+    "date": "2024-02-28",
+    "source": "advertisement",
+    "revenue": 28390
+  },
+  {
+    "date": "2024-02-28",
+    "source": "merchandise",
+    "revenue": 9008
+  },
+  {
+    "date": "2024-02-28",
+    "source": "licensing",
+    "revenue": 8536
+  },
+  {
+    "date": "2024-02-29",
+    "source": "subscription",
+    "revenue": 9236
+  },
+  {
+    "date": "2024-02-29",
+    "source": "advertisement",
+    "revenue": 5903
+  },
+  {
+    "date": "2024-02-29",
+    "source": "merchandise",
+    "revenue": 2119
+  },
+  {
+    "date": "2024-02-29",
+    "source": "licensing",
+    "revenue": 1911
+  },
+  {
+    "date": "2024-03-01",
+    "source": "subscription",
+    "revenue": 29908
+  },
+  {
+    "date": "2024-03-01",
+    "source": "advertisement",
+    "revenue": 18001
+  },
+  {
+    "date": "2024-03-01",
+    "source": "merchandise",
+    "revenue": 6418
+  },
+  {
+    "date": "2024-03-01",
+    "source": "licensing",
+    "revenue": 5477
+  },
+  {
+    "date": "2024-03-02",
+    "source": "subscription",
+    "revenue": 35827
+  },
+  {
+    "date": "2024-03-02",
+    "source": "advertisement",
+    "revenue": 20131
+  },
+  {
+    "date": "2024-03-02",
+    "source": "merchandise",
+    "revenue": 6706
+  },
+  {
+    "date": "2024-03-02",
+    "source": "licensing",
+    "revenue": 7285
+  },
+  {
+    "date": "2024-03-03",
+    "source": "subscription",
+    "revenue": 30603
+  },
+  {
+    "date": "2024-03-03",
+    "source": "advertisement",
+    "revenue": 18170
+  },
+  {
+    "date": "2024-03-03",
+    "source": "merchandise",
+    "revenue": 6479
+  },
+  {
+    "date": "2024-03-03",
+    "source": "licensing",
+    "revenue": 5943
+  },
+  {
+    "date": "2024-03-04",
+    "source": "subscription",
+    "revenue": 36139
+  },
+  {
+    "date": "2024-03-04",
+    "source": "advertisement",
+    "revenue": 21132
+  },
+  {
+    "date": "2024-03-04",
+    "source": "merchandise",
+    "revenue": 7105
+  },
+  {
+    "date": "2024-03-04",
+    "source": "licensing",
+    "revenue": 6602
+  },
+  {
+    "date": "2024-03-05",
+    "source": "subscription",
+    "revenue": 16984
+  },
+  {
+    "date": "2024-03-05",
+    "source": "advertisement",
+    "revenue": 10241
+  },
+  {
+    "date": "2024-03-05",
+    "source": "merchandise",
+    "revenue": 2958
+  },
+  {
+    "date": "2024-03-05",
+    "source": "licensing",
+    "revenue": 3346
+  },
+  {
+    "date": "2024-03-06",
+    "source": "subscription",
+    "revenue": 34197
+  },
+  {
+    "date": "2024-03-06",
+    "source": "advertisement",
+    "revenue": 21190
+  },
+  {
+    "date": "2024-03-06",
+    "source": "merchandise",
+    "revenue": 6007
+  },
+  {
+    "date": "2024-03-06",
+    "source": "licensing",
+    "revenue": 7084
+  },
+  {
+    "date": "2024-03-07",
+    "source": "subscription",
+    "revenue": 6808
+  },
+  {
+    "date": "2024-03-07",
+    "source": "advertisement",
+    "revenue": 4071
+  },
+  {
+    "date": "2024-03-07",
+    "source": "merchandise",
+    "revenue": 1478
+  },
+  {
+    "date": "2024-03-07",
+    "source": "licensing",
+    "revenue": 1463
+  },
+  {
+    "date": "2024-03-08",
+    "source": "subscription",
+    "revenue": 28618
+  },
+  {
+    "date": "2024-03-08",
+    "source": "advertisement",
+    "revenue": 16795
+  },
+  {
+    "date": "2024-03-08",
+    "source": "merchandise",
+    "revenue": 4444
+  },
+  {
+    "date": "2024-03-08",
+    "source": "licensing",
+    "revenue": 5898
+  },
+  {
+    "date": "2024-03-09",
+    "source": "subscription",
+    "revenue": 19318
+  },
+  {
+    "date": "2024-03-09",
+    "source": "advertisement",
+    "revenue": 11355
+  },
+  {
+    "date": "2024-03-09",
+    "source": "merchandise",
+    "revenue": 3582
+  },
+  {
+    "date": "2024-03-09",
+    "source": "licensing",
+    "revenue": 3934
+  },
+  {
+    "date": "2024-03-10",
+    "source": "subscription",
+    "revenue": 16293
+  },
+  {
+    "date": "2024-03-10",
+    "source": "advertisement",
+    "revenue": 9659
+  },
+  {
+    "date": "2024-03-10",
+    "source": "merchandise",
+    "revenue": 3427
+  },
+  {
+    "date": "2024-03-10",
+    "source": "licensing",
+    "revenue": 3172
+  },
+  {
+    "date": "2024-03-11",
+    "source": "subscription",
+    "revenue": 18343
+  },
+  {
+    "date": "2024-03-11",
+    "source": "advertisement",
+    "revenue": 11173
+  },
+  {
+    "date": "2024-03-11",
+    "source": "merchandise",
+    "revenue": 3247
+  },
+  {
+    "date": "2024-03-11",
+    "source": "licensing",
+    "revenue": 3750
+  },
+  {
+    "date": "2024-03-12",
+    "source": "subscription",
+    "revenue": 34926
+  },
+  {
+    "date": "2024-03-12",
+    "source": "advertisement",
+    "revenue": 21301
+  },
+  {
+    "date": "2024-03-12",
+    "source": "merchandise",
+    "revenue": 6537
+  },
+  {
+    "date": "2024-03-12",
+    "source": "licensing",
+    "revenue": 8224
+  },
+  {
+    "date": "2024-03-13",
+    "source": "subscription",
+    "revenue": 41332
+  },
+  {
+    "date": "2024-03-13",
+    "source": "advertisement",
+    "revenue": 23569
+  },
+  {
+    "date": "2024-03-13",
+    "source": "merchandise",
+    "revenue": 7372
+  },
+  {
+    "date": "2024-03-13",
+    "source": "licensing",
+    "revenue": 8271
+  },
+  {
+    "date": "2024-03-14",
+    "source": "subscription",
+    "revenue": 9151
+  },
+  {
+    "date": "2024-03-14",
+    "source": "advertisement",
+    "revenue": 5512
+  },
+  {
+    "date": "2024-03-14",
+    "source": "merchandise",
+    "revenue": 1862
+  },
+  {
+    "date": "2024-03-14",
+    "source": "licensing",
+    "revenue": 1874
+  },
+  {
+    "date": "2024-03-15",
+    "source": "subscription",
+    "revenue": 36362
+  },
+  {
+    "date": "2024-03-15",
+    "source": "advertisement",
+    "revenue": 21508
+  },
+  {
+    "date": "2024-03-15",
+    "source": "merchandise",
+    "revenue": 7106
+  },
+  {
+    "date": "2024-03-15",
+    "source": "licensing",
+    "revenue": 6988
+  },
+  {
+    "date": "2024-03-16",
+    "source": "subscription",
+    "revenue": 5426
+  },
+  {
+    "date": "2024-03-16",
+    "source": "advertisement",
+    "revenue": 3470
+  },
+  {
+    "date": "2024-03-16",
+    "source": "merchandise",
+    "revenue": 1118
+  },
+  {
+    "date": "2024-03-16",
+    "source": "licensing",
+    "revenue": 1240
+  },
+  {
+    "date": "2024-03-17",
+    "source": "subscription",
+    "revenue": 20956
+  },
+  {
+    "date": "2024-03-17",
+    "source": "advertisement",
+    "revenue": 12620
+  },
+  {
+    "date": "2024-03-17",
+    "source": "merchandise",
+    "revenue": 3895
+  },
+  {
+    "date": "2024-03-17",
+    "source": "licensing",
+    "revenue": 4529
+  },
+  {
+    "date": "2024-03-18",
+    "source": "subscription",
+    "revenue": 35490
+  },
+  {
+    "date": "2024-03-18",
+    "source": "advertisement",
+    "revenue": 20221
+  },
+  {
+    "date": "2024-03-18",
+    "source": "merchandise",
+    "revenue": 7151
+  },
+  {
+    "date": "2024-03-18",
+    "source": "licensing",
+    "revenue": 6105
+  },
+  {
+    "date": "2024-03-19",
+    "source": "subscription",
+    "revenue": 34406
+  },
+  {
+    "date": "2024-03-19",
+    "source": "advertisement",
+    "revenue": 20981
+  },
+  {
+    "date": "2024-03-19",
+    "source": "merchandise",
+    "revenue": 7476
+  },
+  {
+    "date": "2024-03-19",
+    "source": "licensing",
+    "revenue": 6794
+  },
+  {
+    "date": "2024-03-20",
+    "source": "subscription",
+    "revenue": 16167
+  },
+  {
+    "date": "2024-03-20",
+    "source": "advertisement",
+    "revenue": 9998
+  },
+  {
+    "date": "2024-03-20",
+    "source": "merchandise",
+    "revenue": 3220
+  },
+  {
+    "date": "2024-03-20",
+    "source": "licensing",
+    "revenue": 3192
+  },
+  {
+    "date": "2024-03-21",
+    "source": "subscription",
+    "revenue": 27147
+  },
+  {
+    "date": "2024-03-21",
+    "source": "advertisement",
+    "revenue": 16313
+  },
+  {
+    "date": "2024-03-21",
+    "source": "merchandise",
+    "revenue": 5202
+  },
+  {
+    "date": "2024-03-21",
+    "source": "licensing",
+    "revenue": 6027
+  },
+  {
+    "date": "2024-03-22",
+    "source": "subscription",
+    "revenue": 8174
+  },
+  {
+    "date": "2024-03-22",
+    "source": "advertisement",
+    "revenue": 5081
+  },
+  {
+    "date": "2024-03-22",
+    "source": "merchandise",
+    "revenue": 1398
+  },
+  {
+    "date": "2024-03-22",
+    "source": "licensing",
+    "revenue": 1799
+  },
+  {
+    "date": "2024-03-23",
+    "source": "subscription",
+    "revenue": 28972
+  },
+  {
+    "date": "2024-03-23",
+    "source": "advertisement",
+    "revenue": 17518
+  },
+  {
+    "date": "2024-03-23",
+    "source": "merchandise",
+    "revenue": 5554
+  },
+  {
+    "date": "2024-03-23",
+    "source": "licensing",
+    "revenue": 6149
+  },
+  {
+    "date": "2024-03-24",
+    "source": "subscription",
+    "revenue": 6365
+  },
+  {
+    "date": "2024-03-24",
+    "source": "advertisement",
+    "revenue": 3732
+  },
+  {
+    "date": "2024-03-24",
+    "source": "merchandise",
+    "revenue": 1376
+  },
+  {
+    "date": "2024-03-24",
+    "source": "licensing",
+    "revenue": 1109
+  },
+  {
+    "date": "2024-03-25",
+    "source": "subscription",
+    "revenue": 41846
+  },
+  {
+    "date": "2024-03-25",
+    "source": "advertisement",
+    "revenue": 24204
+  },
+  {
+    "date": "2024-03-25",
+    "source": "merchandise",
+    "revenue": 8360
+  },
+  {
+    "date": "2024-03-25",
+    "source": "licensing",
+    "revenue": 8338
+  },
+  {
+    "date": "2024-03-26",
+    "source": "subscription",
+    "revenue": 7327
+  },
+  {
+    "date": "2024-03-26",
+    "source": "advertisement",
+    "revenue": 4400
+  },
+  {
+    "date": "2024-03-26",
+    "source": "merchandise",
+    "revenue": 1515
+  },
+  {
+    "date": "2024-03-26",
+    "source": "licensing",
+    "revenue": 1471
+  },
+  {
+    "date": "2024-03-27",
+    "source": "subscription",
+    "revenue": 14811
+  },
+  {
+    "date": "2024-03-27",
+    "source": "advertisement",
+    "revenue": 8795
+  },
+  {
+    "date": "2024-03-27",
+    "source": "merchandise",
+    "revenue": 2909
+  },
+  {
+    "date": "2024-03-27",
+    "source": "licensing",
+    "revenue": 2880
+  },
+  {
+    "date": "2024-03-28",
+    "source": "subscription",
+    "revenue": 39534
+  },
+  {
+    "date": "2024-03-28",
+    "source": "advertisement",
+    "revenue": 23502
+  },
+  {
+    "date": "2024-03-28",
+    "source": "merchandise",
+    "revenue": 6926
+  },
+  {
+    "date": "2024-03-28",
+    "source": "licensing",
+    "revenue": 7831
+  },
+  {
+    "date": "2024-03-29",
+    "source": "subscription",
+    "revenue": 6458
+  },
+  {
+    "date": "2024-03-29",
+    "source": "advertisement",
+    "revenue": 3804
+  },
+  {
+    "date": "2024-03-29",
+    "source": "merchandise",
+    "revenue": 1066
+  },
+  {
+    "date": "2024-03-29",
+    "source": "licensing",
+    "revenue": 1464
+  },
+  {
+    "date": "2024-03-30",
+    "source": "subscription",
+    "revenue": 12307
+  },
+  {
+    "date": "2024-03-30",
+    "source": "advertisement",
+    "revenue": 7407
+  },
+  {
+    "date": "2024-03-30",
+    "source": "merchandise",
+    "revenue": 2026
+  },
+  {
+    "date": "2024-03-30",
+    "source": "licensing",
+    "revenue": 2581
+  },
+  {
+    "date": "2024-03-31",
+    "source": "subscription",
+    "revenue": 40338
+  },
+  {
+    "date": "2024-03-31",
+    "source": "advertisement",
+    "revenue": 24145
+  },
+  {
+    "date": "2024-03-31",
+    "source": "merchandise",
+    "revenue": 8296
+  },
+  {
+    "date": "2024-03-31",
+    "source": "licensing",
+    "revenue": 9045
+  },
+  {
+    "date": "2024-04-01",
+    "source": "subscription",
+    "revenue": 5323
+  },
+  {
+    "date": "2024-04-01",
+    "source": "advertisement",
+    "revenue": 3100
+  },
+  {
+    "date": "2024-04-01",
+    "source": "merchandise",
+    "revenue": 1082
+  },
+  {
+    "date": "2024-04-01",
+    "source": "licensing",
+    "revenue": 1293
+  },
+  {
+    "date": "2024-04-02",
+    "source": "subscription",
+    "revenue": 24017
+  },
+  {
+    "date": "2024-04-02",
+    "source": "advertisement",
+    "revenue": 13845
+  },
+  {
+    "date": "2024-04-02",
+    "source": "merchandise",
+    "revenue": 4859
+  },
+  {
+    "date": "2024-04-02",
+    "source": "licensing",
+    "revenue": 5329
+  },
+  {
+    "date": "2024-04-03",
+    "source": "subscription",
+    "revenue": 43581
+  },
+  {
+    "date": "2024-04-03",
+    "source": "advertisement",
+    "revenue": 26251
+  },
+  {
+    "date": "2024-04-03",
+    "source": "merchandise",
+    "revenue": 8690
+  },
+  {
+    "date": "2024-04-03",
+    "source": "licensing",
+    "revenue": 10942
+  },
+  {
+    "date": "2024-04-04",
+    "source": "subscription",
+    "revenue": 35737
+  },
+  {
+    "date": "2024-04-04",
+    "source": "advertisement",
+    "revenue": 21902
+  },
+  {
+    "date": "2024-04-04",
+    "source": "merchandise",
+    "revenue": 7771
+  },
+  {
+    "date": "2024-04-04",
+    "source": "licensing",
+    "revenue": 6436
+  },
+  {
+    "date": "2024-04-05",
+    "source": "subscription",
+    "revenue": 10550
+  },
+  {
+    "date": "2024-04-05",
+    "source": "advertisement",
+    "revenue": 6104
+  },
+  {
+    "date": "2024-04-05",
+    "source": "merchandise",
+    "revenue": 2193
+  },
+  {
+    "date": "2024-04-05",
+    "source": "licensing",
+    "revenue": 1940
+  },
+  {
+    "date": "2024-04-06",
+    "source": "subscription",
+    "revenue": 40771
+  },
+  {
+    "date": "2024-04-06",
+    "source": "advertisement",
+    "revenue": 24510
+  },
+  {
+    "date": "2024-04-06",
+    "source": "merchandise",
+    "revenue": 9372
+  },
+  {
+    "date": "2024-04-06",
+    "source": "licensing",
+    "revenue": 8559
+  },
+  {
+    "date": "2024-04-07",
+    "source": "subscription",
+    "revenue": 7378
+  },
+  {
+    "date": "2024-04-07",
+    "source": "advertisement",
+    "revenue": 4416
+  },
+  {
+    "date": "2024-04-07",
+    "source": "merchandise",
+    "revenue": 1415
+  },
+  {
+    "date": "2024-04-07",
+    "source": "licensing",
+    "revenue": 1498
+  },
+  {
+    "date": "2024-04-08",
+    "source": "subscription",
+    "revenue": 8481
+  },
+  {
+    "date": "2024-04-08",
+    "source": "advertisement",
+    "revenue": 4979
+  },
+  {
+    "date": "2024-04-08",
+    "source": "merchandise",
+    "revenue": 1456
+  },
+  {
+    "date": "2024-04-08",
+    "source": "licensing",
+    "revenue": 1796
+  },
+  {
+    "date": "2024-04-09",
+    "source": "subscription",
+    "revenue": 27330
+  },
+  {
+    "date": "2024-04-09",
+    "source": "advertisement",
+    "revenue": 16540
+  },
+  {
+    "date": "2024-04-09",
+    "source": "merchandise",
+    "revenue": 6633
+  },
+  {
+    "date": "2024-04-09",
+    "source": "licensing",
+    "revenue": 5054
+  },
+  {
+    "date": "2024-04-10",
+    "source": "subscription",
+    "revenue": 37034
+  },
+  {
+    "date": "2024-04-10",
+    "source": "advertisement",
+    "revenue": 21732
+  },
+  {
+    "date": "2024-04-10",
+    "source": "merchandise",
+    "revenue": 5920
+  },
+  {
+    "date": "2024-04-10",
+    "source": "licensing",
+    "revenue": 7190
+  },
+  {
+    "date": "2024-04-11",
+    "source": "subscription",
+    "revenue": 24355
+  },
+  {
+    "date": "2024-04-11",
+    "source": "advertisement",
+    "revenue": 14989
+  },
+  {
+    "date": "2024-04-11",
+    "source": "merchandise",
+    "revenue": 5218
+  },
+  {
+    "date": "2024-04-11",
+    "source": "licensing",
+    "revenue": 4613
+  },
+  {
+    "date": "2024-04-12",
+    "source": "subscription",
+    "revenue": 41182
+  },
+  {
+    "date": "2024-04-12",
+    "source": "advertisement",
+    "revenue": 24475
+  },
+  {
+    "date": "2024-04-12",
+    "source": "merchandise",
+    "revenue": 8524
+  },
+  {
+    "date": "2024-04-12",
+    "source": "licensing",
+    "revenue": 7345
+  },
+  {
+    "date": "2024-04-13",
+    "source": "subscription",
+    "revenue": 37827
+  },
+  {
+    "date": "2024-04-13",
+    "source": "advertisement",
+    "revenue": 22865
+  },
+  {
+    "date": "2024-04-13",
+    "source": "merchandise",
+    "revenue": 6832
+  },
+  {
+    "date": "2024-04-13",
+    "source": "licensing",
+    "revenue": 8302
+  },
+  {
+    "date": "2024-04-14",
+    "source": "subscription",
+    "revenue": 39705
+  },
+  {
+    "date": "2024-04-14",
+    "source": "advertisement",
+    "revenue": 24167
+  },
+  {
+    "date": "2024-04-14",
+    "source": "merchandise",
+    "revenue": 8304
+  },
+  {
+    "date": "2024-04-14",
+    "source": "licensing",
+    "revenue": 8375
+  },
+  {
+    "date": "2024-04-15",
+    "source": "subscription",
+    "revenue": 43464
+  },
+  {
+    "date": "2024-04-15",
+    "source": "advertisement",
+    "revenue": 24524
+  },
+  {
+    "date": "2024-04-15",
+    "source": "merchandise",
+    "revenue": 8608
+  },
+  {
+    "date": "2024-04-15",
+    "source": "licensing",
+    "revenue": 7967
+  },
+  {
+    "date": "2024-04-16",
+    "source": "subscription",
+    "revenue": 14599
+  },
+  {
+    "date": "2024-04-16",
+    "source": "advertisement",
+    "revenue": 9227
+  },
+  {
+    "date": "2024-04-16",
+    "source": "merchandise",
+    "revenue": 3417
+  },
+  {
+    "date": "2024-04-16",
+    "source": "licensing",
+    "revenue": 2983
+  },
+  {
+    "date": "2024-04-17",
+    "source": "subscription",
+    "revenue": 19360
+  },
+  {
+    "date": "2024-04-17",
+    "source": "advertisement",
+    "revenue": 11438
+  },
+  {
+    "date": "2024-04-17",
+    "source": "merchandise",
+    "revenue": 4051
+  },
+  {
+    "date": "2024-04-17",
+    "source": "licensing",
+    "revenue": 3565
+  },
+  {
+    "date": "2024-04-18",
+    "source": "subscription",
+    "revenue": 40552
+  },
+  {
+    "date": "2024-04-18",
+    "source": "advertisement",
+    "revenue": 23667
+  },
+  {
+    "date": "2024-04-18",
+    "source": "merchandise",
+    "revenue": 7400
+  },
+  {
+    "date": "2024-04-18",
+    "source": "licensing",
+    "revenue": 8239
+  },
+  {
+    "date": "2024-04-19",
+    "source": "subscription",
+    "revenue": 22005
+  },
+  {
+    "date": "2024-04-19",
+    "source": "advertisement",
+    "revenue": 13669
+  },
+  {
+    "date": "2024-04-19",
+    "source": "merchandise",
+    "revenue": 4325
+  },
+  {
+    "date": "2024-04-19",
+    "source": "licensing",
+    "revenue": 4016
+  },
+  {
+    "date": "2024-04-20",
+    "source": "subscription",
+    "revenue": 7207
+  },
+  {
+    "date": "2024-04-20",
+    "source": "advertisement",
+    "revenue": 4406
+  },
+  {
+    "date": "2024-04-20",
+    "source": "merchandise",
+    "revenue": 1511
+  },
+  {
+    "date": "2024-04-20",
+    "source": "licensing",
+    "revenue": 1261
+  },
+  {
+    "date": "2024-04-21",
+    "source": "subscription",
+    "revenue": 6013
+  },
+  {
+    "date": "2024-04-21",
+    "source": "advertisement",
+    "revenue": 3779
+  },
+  {
+    "date": "2024-04-21",
+    "source": "merchandise",
+    "revenue": 1127
+  },
+  {
+    "date": "2024-04-21",
+    "source": "licensing",
+    "revenue": 1092
+  },
+  {
+    "date": "2024-04-22",
+    "source": "subscription",
+    "revenue": 47706
+  },
+  {
+    "date": "2024-04-22",
+    "source": "advertisement",
+    "revenue": 29855
+  },
+  {
+    "date": "2024-04-22",
+    "source": "merchandise",
+    "revenue": 9562
+  },
+  {
+    "date": "2024-04-22",
+    "source": "licensing",
+    "revenue": 9173
+  },
+  {
+    "date": "2024-04-23",
+    "source": "subscription",
+    "revenue": 17211
+  },
+  {
+    "date": "2024-04-23",
+    "source": "advertisement",
+    "revenue": 9668
+  },
+  {
+    "date": "2024-04-23",
+    "source": "merchandise",
+    "revenue": 3925
+  },
+  {
+    "date": "2024-04-23",
+    "source": "licensing",
+    "revenue": 3426
+  },
+  {
+    "date": "2024-04-24",
+    "source": "subscription",
+    "revenue": 21619
+  },
+  {
+    "date": "2024-04-24",
+    "source": "advertisement",
+    "revenue": 12994
+  },
+  {
+    "date": "2024-04-24",
+    "source": "merchandise",
+    "revenue": 4216
+  },
+  {
+    "date": "2024-04-24",
+    "source": "licensing",
+    "revenue": 5145
+  },
+  {
+    "date": "2024-04-25",
+    "source": "subscription",
+    "revenue": 36703
+  },
+  {
+    "date": "2024-04-25",
+    "source": "advertisement",
+    "revenue": 22272
+  },
+  {
+    "date": "2024-04-25",
+    "source": "merchandise",
+    "revenue": 6588
+  },
+  {
+    "date": "2024-04-25",
+    "source": "licensing",
+    "revenue": 6680
+  },
+  {
+    "date": "2024-04-26",
+    "source": "subscription",
+    "revenue": 11653
+  },
+  {
+    "date": "2024-04-26",
+    "source": "advertisement",
+    "revenue": 7221
+  },
+  {
+    "date": "2024-04-26",
+    "source": "merchandise",
+    "revenue": 2494
+  },
+  {
+    "date": "2024-04-26",
+    "source": "licensing",
+    "revenue": 2090
+  },
+  {
+    "date": "2024-04-27",
+    "source": "subscription",
+    "revenue": 21031
+  },
+  {
+    "date": "2024-04-27",
+    "source": "advertisement",
+    "revenue": 13236
+  },
+  {
+    "date": "2024-04-27",
+    "source": "merchandise",
+    "revenue": 4836
+  },
+  {
+    "date": "2024-04-27",
+    "source": "licensing",
+    "revenue": 4716
+  },
+  {
+    "date": "2024-04-28",
+    "source": "subscription",
+    "revenue": 7102
+  },
+  {
+    "date": "2024-04-28",
+    "source": "advertisement",
+    "revenue": 4237
+  },
+  {
+    "date": "2024-04-28",
+    "source": "merchandise",
+    "revenue": 1537
+  },
+  {
+    "date": "2024-04-28",
+    "source": "licensing",
+    "revenue": 1326
+  },
+  {
+    "date": "2024-04-29",
+    "source": "subscription",
+    "revenue": 19808
+  },
+  {
+    "date": "2024-04-29",
+    "source": "advertisement",
+    "revenue": 11607
+  },
+  {
+    "date": "2024-04-29",
+    "source": "merchandise",
+    "revenue": 3757
+  },
+  {
+    "date": "2024-04-29",
+    "source": "licensing",
+    "revenue": 3861
+  },
+  {
+    "date": "2024-04-30",
+    "source": "subscription",
+    "revenue": 44140
+  },
+  {
+    "date": "2024-04-30",
+    "source": "advertisement",
+    "revenue": 26690
+  },
+  {
+    "date": "2024-04-30",
+    "source": "merchandise",
+    "revenue": 8370
+  },
+  {
+    "date": "2024-04-30",
+    "source": "licensing",
+    "revenue": 8230
+  },
+  {
+    "date": "2024-05-01",
+    "source": "subscription",
+    "revenue": 40663
+  },
+  {
+    "date": "2024-05-01",
+    "source": "advertisement",
+    "revenue": 23798
+  },
+  {
+    "date": "2024-05-01",
+    "source": "merchandise",
+    "revenue": 8628
+  },
+  {
+    "date": "2024-05-01",
+    "source": "licensing",
+    "revenue": 7941
+  },
+  {
+    "date": "2024-05-02",
+    "source": "subscription",
+    "revenue": 36903
+  },
+  {
+    "date": "2024-05-02",
+    "source": "advertisement",
+    "revenue": 21753
+  },
+  {
+    "date": "2024-05-02",
+    "source": "merchandise",
+    "revenue": 7491
+  },
+  {
+    "date": "2024-05-02",
+    "source": "licensing",
+    "revenue": 8037
+  },
+  {
+    "date": "2024-05-03",
+    "source": "subscription",
+    "revenue": 19425
+  },
+  {
+    "date": "2024-05-03",
+    "source": "advertisement",
+    "revenue": 12578
+  },
+  {
+    "date": "2024-05-03",
+    "source": "merchandise",
+    "revenue": 4185
+  },
+  {
+    "date": "2024-05-03",
+    "source": "licensing",
+    "revenue": 3985
+  },
+  {
+    "date": "2024-05-04",
+    "source": "subscription",
+    "revenue": 33470
+  },
+  {
+    "date": "2024-05-04",
+    "source": "advertisement",
+    "revenue": 19199
+  },
+  {
+    "date": "2024-05-04",
+    "source": "merchandise",
+    "revenue": 7558
+  },
+  {
+    "date": "2024-05-04",
+    "source": "licensing",
+    "revenue": 6560
+  },
+  {
+    "date": "2024-05-05",
+    "source": "subscription",
+    "revenue": 19120
+  },
+  {
+    "date": "2024-05-05",
+    "source": "advertisement",
+    "revenue": 11703
+  },
+  {
+    "date": "2024-05-05",
+    "source": "merchandise",
+    "revenue": 3758
+  },
+  {
+    "date": "2024-05-05",
+    "source": "licensing",
+    "revenue": 3708
+  },
+  {
+    "date": "2024-05-06",
+    "source": "subscription",
+    "revenue": 40715
+  },
+  {
+    "date": "2024-05-06",
+    "source": "advertisement",
+    "revenue": 25261
+  },
+  {
+    "date": "2024-05-06",
+    "source": "merchandise",
+    "revenue": 8078
+  },
+  {
+    "date": "2024-05-06",
+    "source": "licensing",
+    "revenue": 8033
+  },
+  {
+    "date": "2024-05-07",
+    "source": "subscription",
+    "revenue": 34152
+  },
+  {
+    "date": "2024-05-07",
+    "source": "advertisement",
+    "revenue": 19811
+  },
+  {
+    "date": "2024-05-07",
+    "source": "merchandise",
+    "revenue": 6974
+  },
+  {
+    "date": "2024-05-07",
+    "source": "licensing",
+    "revenue": 6677
+  },
+  {
+    "date": "2024-05-08",
+    "source": "subscription",
+    "revenue": 17797
+  },
+  {
+    "date": "2024-05-08",
+    "source": "advertisement",
+    "revenue": 10975
+  },
+  {
+    "date": "2024-05-08",
+    "source": "merchandise",
+    "revenue": 3421
+  },
+  {
+    "date": "2024-05-08",
+    "source": "licensing",
+    "revenue": 3767
+  },
+  {
+    "date": "2024-05-09",
+    "source": "subscription",
+    "revenue": 25808
+  },
+  {
+    "date": "2024-05-09",
+    "source": "advertisement",
+    "revenue": 15986
+  },
+  {
+    "date": "2024-05-09",
+    "source": "merchandise",
+    "revenue": 4651
+  },
+  {
+    "date": "2024-05-09",
+    "source": "licensing",
+    "revenue": 5524
+  },
+  {
+    "date": "2024-05-10",
+    "source": "subscription",
+    "revenue": 42344
+  },
+  {
+    "date": "2024-05-10",
+    "source": "advertisement",
+    "revenue": 26513
+  },
+  {
+    "date": "2024-05-10",
+    "source": "merchandise",
+    "revenue": 8296
+  },
+  {
+    "date": "2024-05-10",
+    "source": "licensing",
+    "revenue": 8501
+  },
+  {
+    "date": "2024-05-11",
+    "source": "subscription",
+    "revenue": 33924
+  },
+  {
+    "date": "2024-05-11",
+    "source": "advertisement",
+    "revenue": 19267
+  },
+  {
+    "date": "2024-05-11",
+    "source": "merchandise",
+    "revenue": 6140
+  },
+  {
+    "date": "2024-05-11",
+    "source": "licensing",
+    "revenue": 6814
+  },
+  {
+    "date": "2024-05-12",
+    "source": "subscription",
+    "revenue": 30934
+  },
+  {
+    "date": "2024-05-12",
+    "source": "advertisement",
+    "revenue": 17714
+  },
+  {
+    "date": "2024-05-12",
+    "source": "merchandise",
+    "revenue": 6477
+  },
+  {
+    "date": "2024-05-12",
+    "source": "licensing",
+    "revenue": 6214
+  },
+  {
+    "date": "2024-05-13",
+    "source": "subscription",
+    "revenue": 16482
+  },
+  {
+    "date": "2024-05-13",
+    "source": "advertisement",
+    "revenue": 10185
+  },
+  {
+    "date": "2024-05-13",
+    "source": "merchandise",
+    "revenue": 3582
+  },
+  {
+    "date": "2024-05-13",
+    "source": "licensing",
+    "revenue": 3202
+  },
+  {
+    "date": "2024-05-14",
+    "source": "subscription",
+    "revenue": 7920
+  },
+  {
+    "date": "2024-05-14",
+    "source": "advertisement",
+    "revenue": 4675
+  },
+  {
+    "date": "2024-05-14",
+    "source": "merchandise",
+    "revenue": 1483
+  },
+  {
+    "date": "2024-05-14",
+    "source": "licensing",
+    "revenue": 1549
+  },
+  {
+    "date": "2024-05-15",
+    "source": "subscription",
+    "revenue": 32377
+  },
+  {
+    "date": "2024-05-15",
+    "source": "advertisement",
+    "revenue": 19837
+  },
+  {
+    "date": "2024-05-15",
+    "source": "merchandise",
+    "revenue": 6039
+  },
+  {
+    "date": "2024-05-15",
+    "source": "licensing",
+    "revenue": 6365
+  },
+  {
+    "date": "2024-05-16",
+    "source": "subscription",
+    "revenue": 5671
+  },
+  {
+    "date": "2024-05-16",
+    "source": "advertisement",
+    "revenue": 3462
+  },
+  {
+    "date": "2024-05-16",
+    "source": "merchandise",
+    "revenue": 1181
+  },
+  {
+    "date": "2024-05-16",
+    "source": "licensing",
+    "revenue": 964
+  },
+  {
+    "date": "2024-05-17",
+    "source": "subscription",
+    "revenue": 43986
+  },
+  {
+    "date": "2024-05-17",
+    "source": "advertisement",
+    "revenue": 25938
+  },
+  {
+    "date": "2024-05-17",
+    "source": "merchandise",
+    "revenue": 9100
+  },
+  {
+    "date": "2024-05-17",
+    "source": "licensing",
+    "revenue": 8066
+  },
+  {
+    "date": "2024-05-18",
+    "source": "subscription",
+    "revenue": 25693
+  },
+  {
+    "date": "2024-05-18",
+    "source": "advertisement",
+    "revenue": 16965
+  },
+  {
+    "date": "2024-05-18",
+    "source": "merchandise",
+    "revenue": 5345
+  },
+  {
+    "date": "2024-05-18",
+    "source": "licensing",
+    "revenue": 5455
+  },
+  {
+    "date": "2024-05-19",
+    "source": "subscription",
+    "revenue": 38995
+  },
+  {
+    "date": "2024-05-19",
+    "source": "advertisement",
+    "revenue": 23347
+  },
+  {
+    "date": "2024-05-19",
+    "source": "merchandise",
+    "revenue": 7834
+  },
+  {
+    "date": "2024-05-19",
+    "source": "licensing",
+    "revenue": 5468
+  },
+  {
+    "date": "2024-05-20",
+    "source": "subscription",
+    "revenue": 6433
+  },
+  {
+    "date": "2024-05-20",
+    "source": "advertisement",
+    "revenue": 3804
+  },
+  {
+    "date": "2024-05-20",
+    "source": "merchandise",
+    "revenue": 1390
+  },
+  {
+    "date": "2024-05-20",
+    "source": "licensing",
+    "revenue": 1248
+  },
+  {
+    "date": "2024-05-21",
+    "source": "subscription",
+    "revenue": 45086
+  },
+  {
+    "date": "2024-05-21",
+    "source": "advertisement",
+    "revenue": 27361
+  },
+  {
+    "date": "2024-05-21",
+    "source": "merchandise",
+    "revenue": 9772
+  },
+  {
+    "date": "2024-05-21",
+    "source": "licensing",
+    "revenue": 10297
+  },
+  {
+    "date": "2024-05-22",
+    "source": "subscription",
+    "revenue": 34310
+  },
+  {
+    "date": "2024-05-22",
+    "source": "advertisement",
+    "revenue": 20960
+  },
+  {
+    "date": "2024-05-22",
+    "source": "merchandise",
+    "revenue": 6204
+  },
+  {
+    "date": "2024-05-22",
+    "source": "licensing",
+    "revenue": 6899
+  },
+  {
+    "date": "2024-05-23",
+    "source": "subscription",
+    "revenue": 14002
+  },
+  {
+    "date": "2024-05-23",
+    "source": "advertisement",
+    "revenue": 8031
+  },
+  {
+    "date": "2024-05-23",
+    "source": "merchandise",
+    "revenue": 2346
+  },
+  {
+    "date": "2024-05-23",
+    "source": "licensing",
+    "revenue": 2874
+  },
+  {
+    "date": "2024-05-24",
+    "source": "subscription",
+    "revenue": 39274
+  },
+  {
+    "date": "2024-05-24",
+    "source": "advertisement",
+    "revenue": 23465
+  },
+  {
+    "date": "2024-05-24",
+    "source": "merchandise",
+    "revenue": 8001
+  },
+  {
+    "date": "2024-05-24",
+    "source": "licensing",
+    "revenue": 8358
+  },
+  {
+    "date": "2024-05-25",
+    "source": "subscription",
+    "revenue": 50862
+  },
+  {
+    "date": "2024-05-25",
+    "source": "advertisement",
+    "revenue": 29415
+  },
+  {
+    "date": "2024-05-25",
+    "source": "merchandise",
+    "revenue": 9793
+  },
+  {
+    "date": "2024-05-25",
+    "source": "licensing",
+    "revenue": 9688
+  },
+  {
+    "date": "2024-05-26",
+    "source": "subscription",
+    "revenue": 13639
+  },
+  {
+    "date": "2024-05-26",
+    "source": "advertisement",
+    "revenue": 8250
+  },
+  {
+    "date": "2024-05-26",
+    "source": "merchandise",
+    "revenue": 2422
+  },
+  {
+    "date": "2024-05-26",
+    "source": "licensing",
+    "revenue": 2840
+  },
+  {
+    "date": "2024-05-27",
+    "source": "subscription",
+    "revenue": 14649
+  },
+  {
+    "date": "2024-05-27",
+    "source": "advertisement",
+    "revenue": 8626
+  },
+  {
+    "date": "2024-05-27",
+    "source": "merchandise",
+    "revenue": 2605
+  },
+  {
+    "date": "2024-05-27",
+    "source": "licensing",
+    "revenue": 3046
+  },
+  {
+    "date": "2024-05-28",
+    "source": "subscription",
+    "revenue": 10912
+  },
+  {
+    "date": "2024-05-28",
+    "source": "advertisement",
+    "revenue": 6416
+  },
+  {
+    "date": "2024-05-28",
+    "source": "merchandise",
+    "revenue": 2197
+  },
+  {
+    "date": "2024-05-28",
+    "source": "licensing",
+    "revenue": 2173
+  },
+  {
+    "date": "2024-05-29",
+    "source": "subscription",
+    "revenue": 45305
+  },
+  {
+    "date": "2024-05-29",
+    "source": "advertisement",
+    "revenue": 26519
+  },
+  {
+    "date": "2024-05-29",
+    "source": "merchandise",
+    "revenue": 8885
+  },
+  {
+    "date": "2024-05-29",
+    "source": "licensing",
+    "revenue": 9064
+  },
+  {
+    "date": "2024-05-30",
+    "source": "subscription",
+    "revenue": 16687
+  },
+  {
+    "date": "2024-05-30",
+    "source": "advertisement",
+    "revenue": 9866
+  },
+  {
+    "date": "2024-05-30",
+    "source": "merchandise",
+    "revenue": 3439
+  },
+  {
+    "date": "2024-05-30",
+    "source": "licensing",
+    "revenue": 3144
+  },
+  {
+    "date": "2024-05-31",
+    "source": "subscription",
+    "revenue": 36367
+  },
+  {
+    "date": "2024-05-31",
+    "source": "advertisement",
+    "revenue": 20075
+  },
+  {
+    "date": "2024-05-31",
+    "source": "merchandise",
+    "revenue": 7027
+  },
+  {
+    "date": "2024-05-31",
+    "source": "licensing",
+    "revenue": 7258
+  },
+  {
+    "date": "2024-06-01",
+    "source": "subscription",
+    "revenue": 47661
+  },
+  {
+    "date": "2024-06-01",
+    "source": "advertisement",
+    "revenue": 28566
+  },
+  {
+    "date": "2024-06-01",
+    "source": "merchandise",
+    "revenue": 9619
+  },
+  {
+    "date": "2024-06-01",
+    "source": "licensing",
+    "revenue": 9627
+  },
+  {
+    "date": "2024-06-02",
+    "source": "subscription",
+    "revenue": 9494
+  },
+  {
+    "date": "2024-06-02",
+    "source": "advertisement",
+    "revenue": 5660
+  },
+  {
+    "date": "2024-06-02",
+    "source": "merchandise",
+    "revenue": 1975
+  },
+  {
+    "date": "2024-06-02",
+    "source": "licensing",
+    "revenue": 1713
+  },
+  {
+    "date": "2024-06-03",
+    "source": "subscription",
+    "revenue": 41097
+  },
+  {
+    "date": "2024-06-03",
+    "source": "advertisement",
+    "revenue": 23979
+  },
+  {
+    "date": "2024-06-03",
+    "source": "merchandise",
+    "revenue": 6991
+  },
+  {
+    "date": "2024-06-03",
+    "source": "licensing",
+    "revenue": 7159
+  },
+  {
+    "date": "2024-06-04",
+    "source": "subscription",
+    "revenue": 29351
+  },
+  {
+    "date": "2024-06-04",
+    "source": "advertisement",
+    "revenue": 17960
+  },
+  {
+    "date": "2024-06-04",
+    "source": "merchandise",
+    "revenue": 5231
+  },
+  {
+    "date": "2024-06-04",
+    "source": "licensing",
+    "revenue": 6158
+  },
+  {
+    "date": "2024-06-05",
+    "source": "subscription",
+    "revenue": 35509
+  },
+  {
+    "date": "2024-06-05",
+    "source": "advertisement",
+    "revenue": 21451
+  },
+  {
+    "date": "2024-06-05",
+    "source": "merchandise",
+    "revenue": 7191
+  },
+  {
+    "date": "2024-06-05",
+    "source": "licensing",
+    "revenue": 6705
+  },
+  {
+    "date": "2024-06-06",
+    "source": "subscription",
+    "revenue": 37619
+  },
+  {
+    "date": "2024-06-06",
+    "source": "advertisement",
+    "revenue": 22552
+  },
+  {
+    "date": "2024-06-06",
+    "source": "merchandise",
+    "revenue": 7252
+  },
+  {
+    "date": "2024-06-06",
+    "source": "licensing",
+    "revenue": 7864
+  },
+  {
+    "date": "2024-06-07",
+    "source": "subscription",
+    "revenue": 49113
+  },
+  {
+    "date": "2024-06-07",
+    "source": "advertisement",
+    "revenue": 28320
+  },
+  {
+    "date": "2024-06-07",
+    "source": "merchandise",
+    "revenue": 8835
+  },
+  {
+    "date": "2024-06-07",
+    "source": "licensing",
+    "revenue": 8985
+  },
+  {
+    "date": "2024-06-08",
+    "source": "subscription",
+    "revenue": 27779
+  },
+  {
+    "date": "2024-06-08",
+    "source": "advertisement",
+    "revenue": 16837
+  },
+  {
+    "date": "2024-06-08",
+    "source": "merchandise",
+    "revenue": 5305
+  },
+  {
+    "date": "2024-06-08",
+    "source": "licensing",
+    "revenue": 5603
+  },
+  {
+    "date": "2024-06-09",
+    "source": "subscription",
+    "revenue": 25952
+  },
+  {
+    "date": "2024-06-09",
+    "source": "advertisement",
+    "revenue": 15628
+  },
+  {
+    "date": "2024-06-09",
+    "source": "merchandise",
+    "revenue": 4875
+  },
+  {
+    "date": "2024-06-09",
+    "source": "licensing",
+    "revenue": 4464
+  },
+  {
+    "date": "2024-06-10",
+    "source": "subscription",
+    "revenue": 6830
+  },
+  {
+    "date": "2024-06-10",
+    "source": "advertisement",
+    "revenue": 3880
+  },
+  {
+    "date": "2024-06-10",
+    "source": "merchandise",
+    "revenue": 1365
+  },
+  {
+    "date": "2024-06-10",
+    "source": "licensing",
+    "revenue": 1605
+  },
+  {
+    "date": "2024-06-11",
+    "source": "subscription",
+    "revenue": 32757
+  },
+  {
+    "date": "2024-06-11",
+    "source": "advertisement",
+    "revenue": 18826
+  },
+  {
+    "date": "2024-06-11",
+    "source": "merchandise",
+    "revenue": 6928
+  },
+  {
+    "date": "2024-06-11",
+    "source": "licensing",
+    "revenue": 7066
+  },
+  {
+    "date": "2024-06-12",
+    "source": "subscription",
+    "revenue": 11828
+  },
+  {
+    "date": "2024-06-12",
+    "source": "advertisement",
+    "revenue": 7181
+  },
+  {
+    "date": "2024-06-12",
+    "source": "merchandise",
+    "revenue": 1984
+  },
+  {
+    "date": "2024-06-12",
+    "source": "licensing",
+    "revenue": 2295
+  },
+  {
+    "date": "2024-06-13",
+    "source": "subscription",
+    "revenue": 47152
+  },
+  {
+    "date": "2024-06-13",
+    "source": "advertisement",
+    "revenue": 26718
+  },
+  {
+    "date": "2024-06-13",
+    "source": "merchandise",
+    "revenue": 9679
+  },
+  {
+    "date": "2024-06-13",
+    "source": "licensing",
+    "revenue": 9042
+  },
+  {
+    "date": "2024-06-14",
+    "source": "subscription",
+    "revenue": 46916
+  },
+  {
+    "date": "2024-06-14",
+    "source": "advertisement",
+    "revenue": 27510
+  },
+  {
+    "date": "2024-06-14",
+    "source": "merchandise",
+    "revenue": 9888
+  },
+  {
+    "date": "2024-06-14",
+    "source": "licensing",
+    "revenue": 9115
+  },
+  {
+    "date": "2024-06-15",
+    "source": "subscription",
+    "revenue": 16813
+  },
+  {
+    "date": "2024-06-15",
+    "source": "advertisement",
+    "revenue": 9885
+  },
+  {
+    "date": "2024-06-15",
+    "source": "merchandise",
+    "revenue": 3538
+  },
+  {
+    "date": "2024-06-15",
+    "source": "licensing",
+    "revenue": 3541
+  },
+  {
+    "date": "2024-06-16",
+    "source": "subscription",
+    "revenue": 32209
+  },
+  {
+    "date": "2024-06-16",
+    "source": "advertisement",
+    "revenue": 19231
+  },
+  {
+    "date": "2024-06-16",
+    "source": "merchandise",
+    "revenue": 6605
+  },
+  {
+    "date": "2024-06-16",
+    "source": "licensing",
+    "revenue": 7587
+  },
+  {
+    "date": "2024-06-17",
+    "source": "subscription",
+    "revenue": 46333
+  },
+  {
+    "date": "2024-06-17",
+    "source": "advertisement",
+    "revenue": 27690
+  },
+  {
+    "date": "2024-06-17",
+    "source": "merchandise",
+    "revenue": 8387
+  },
+  {
+    "date": "2024-06-17",
+    "source": "licensing",
+    "revenue": 10090
+  },
+  {
+    "date": "2024-06-18",
+    "source": "subscription",
+    "revenue": 8991
+  },
+  {
+    "date": "2024-06-18",
+    "source": "advertisement",
+    "revenue": 5586
+  },
+  {
+    "date": "2024-06-18",
+    "source": "merchandise",
+    "revenue": 1868
+  },
+  {
+    "date": "2024-06-18",
+    "source": "licensing",
+    "revenue": 1781
+  },
+  {
+    "date": "2024-06-19",
+    "source": "subscription",
+    "revenue": 30210
+  },
+  {
+    "date": "2024-06-19",
+    "source": "advertisement",
+    "revenue": 17828
+  },
+  {
+    "date": "2024-06-19",
+    "source": "merchandise",
+    "revenue": 6606
+  },
+  {
+    "date": "2024-06-19",
+    "source": "licensing",
+    "revenue": 6329
+  },
+  {
+    "date": "2024-06-20",
+    "source": "subscription",
+    "revenue": 14428
+  },
+  {
+    "date": "2024-06-20",
+    "source": "advertisement",
+    "revenue": 8390
+  },
+  {
+    "date": "2024-06-20",
+    "source": "merchandise",
+    "revenue": 3013
+  },
+  {
+    "date": "2024-06-20",
+    "source": "licensing",
+    "revenue": 2339
+  },
+  {
+    "date": "2024-06-21",
+    "source": "subscription",
+    "revenue": 8982
+  },
+  {
+    "date": "2024-06-21",
+    "source": "advertisement",
+    "revenue": 5560
+  },
+  {
+    "date": "2024-06-21",
+    "source": "merchandise",
+    "revenue": 1863
+  },
+  {
+    "date": "2024-06-21",
+    "source": "licensing",
+    "revenue": 1874
+  },
+  {
+    "date": "2024-06-22",
+    "source": "subscription",
+    "revenue": 30029
+  },
+  {
+    "date": "2024-06-22",
+    "source": "advertisement",
+    "revenue": 16490
+  },
+  {
+    "date": "2024-06-22",
+    "source": "merchandise",
+    "revenue": 5797
+  },
+  {
+    "date": "2024-06-22",
+    "source": "licensing",
+    "revenue": 5529
+  },
+  {
+    "date": "2024-06-23",
+    "source": "subscription",
+    "revenue": 40895
+  },
+  {
+    "date": "2024-06-23",
+    "source": "advertisement",
+    "revenue": 24473
+  },
+  {
+    "date": "2024-06-23",
+    "source": "merchandise",
+    "revenue": 7372
+  },
+  {
+    "date": "2024-06-23",
+    "source": "licensing",
+    "revenue": 8401
+  },
+  {
+    "date": "2024-06-24",
+    "source": "subscription",
+    "revenue": 25781
+  },
+  {
+    "date": "2024-06-24",
+    "source": "advertisement",
+    "revenue": 16832
+  },
+  {
+    "date": "2024-06-24",
+    "source": "merchandise",
+    "revenue": 5670
+  },
+  {
+    "date": "2024-06-24",
+    "source": "licensing",
+    "revenue": 5131
+  },
+  {
+    "date": "2024-06-25",
+    "source": "subscription",
+    "revenue": 40252
+  },
+  {
+    "date": "2024-06-25",
+    "source": "advertisement",
+    "revenue": 25112
+  },
+  {
+    "date": "2024-06-25",
+    "source": "merchandise",
+    "revenue": 8165
+  },
+  {
+    "date": "2024-06-25",
+    "source": "licensing",
+    "revenue": 7604
+  },
+  {
+    "date": "2024-06-26",
+    "source": "subscription",
+    "revenue": 12406
+  },
+  {
+    "date": "2024-06-26",
+    "source": "advertisement",
+    "revenue": 7481
+  },
+  {
+    "date": "2024-06-26",
+    "source": "merchandise",
+    "revenue": 2699
+  },
+  {
+    "date": "2024-06-26",
+    "source": "licensing",
+    "revenue": 2811
+  },
+  {
+    "date": "2024-06-27",
+    "source": "subscription",
+    "revenue": 20603
+  },
+  {
+    "date": "2024-06-27",
+    "source": "advertisement",
+    "revenue": 12067
+  },
+  {
+    "date": "2024-06-27",
+    "source": "merchandise",
+    "revenue": 4231
+  },
+  {
+    "date": "2024-06-27",
+    "source": "licensing",
+    "revenue": 4259
+  },
+  {
+    "date": "2024-06-28",
+    "source": "subscription",
+    "revenue": 12700
+  },
+  {
+    "date": "2024-06-28",
+    "source": "advertisement",
+    "revenue": 7144
+  },
+  {
+    "date": "2024-06-28",
+    "source": "merchandise",
+    "revenue": 2454
+  },
+  {
+    "date": "2024-06-28",
+    "source": "licensing",
+    "revenue": 2814
+  },
+  {
+    "date": "2024-06-29",
+    "source": "subscription",
+    "revenue": 12047
+  },
+  {
+    "date": "2024-06-29",
+    "source": "advertisement",
+    "revenue": 7263
+  },
+  {
+    "date": "2024-06-29",
+    "source": "merchandise",
+    "revenue": 2556
+  },
+  {
+    "date": "2024-06-29",
+    "source": "licensing",
+    "revenue": 2358
+  },
+  {
+    "date": "2024-06-30",
+    "source": "subscription",
+    "revenue": 40959
+  },
+  {
+    "date": "2024-06-30",
+    "source": "advertisement",
+    "revenue": 25424
+  },
+  {
+    "date": "2024-06-30",
+    "source": "merchandise",
+    "revenue": 8819
+  },
+  {
+    "date": "2024-06-30",
+    "source": "licensing",
+    "revenue": 8238
+  },
+  {
+    "date": "2024-07-01",
+    "source": "subscription",
+    "revenue": 45162
+  },
+  {
+    "date": "2024-07-01",
+    "source": "advertisement",
+    "revenue": 26736
+  },
+  {
+    "date": "2024-07-01",
+    "source": "merchandise",
+    "revenue": 8085
+  },
+  {
+    "date": "2024-07-01",
+    "source": "licensing",
+    "revenue": 8653
+  },
+  {
+    "date": "2024-07-02",
+    "source": "subscription",
+    "revenue": 27616
+  },
+  {
+    "date": "2024-07-02",
+    "source": "advertisement",
+    "revenue": 16233
+  },
+  {
+    "date": "2024-07-02",
+    "source": "merchandise",
+    "revenue": 5373
+  },
+  {
+    "date": "2024-07-02",
+    "source": "licensing",
+    "revenue": 5170
+  },
+  {
+    "date": "2024-07-03",
+    "source": "subscription",
+    "revenue": 37013
+  },
+  {
+    "date": "2024-07-03",
+    "source": "advertisement",
+    "revenue": 22823
+  },
+  {
+    "date": "2024-07-03",
+    "source": "merchandise",
+    "revenue": 8547
+  },
+  {
+    "date": "2024-07-03",
+    "source": "licensing",
+    "revenue": 6927
+  },
+  {
+    "date": "2024-07-04",
+    "source": "subscription",
+    "revenue": 5124
+  },
+  {
+    "date": "2024-07-04",
+    "source": "advertisement",
+    "revenue": 3122
+  },
+  {
+    "date": "2024-07-04",
+    "source": "merchandise",
+    "revenue": 1021
+  },
+  {
+    "date": "2024-07-04",
+    "source": "licensing",
+    "revenue": 1004
+  },
+  {
+    "date": "2024-07-05",
+    "source": "subscription",
+    "revenue": 16573
+  },
+  {
+    "date": "2024-07-05",
+    "source": "advertisement",
+    "revenue": 10041
+  },
+  {
+    "date": "2024-07-05",
+    "source": "merchandise",
+    "revenue": 3573
+  },
+  {
+    "date": "2024-07-05",
+    "source": "licensing",
+    "revenue": 3299
+  },
+  {
+    "date": "2024-07-06",
+    "source": "subscription",
+    "revenue": 5944
+  },
+  {
+    "date": "2024-07-06",
+    "source": "advertisement",
+    "revenue": 3669
+  },
+  {
+    "date": "2024-07-06",
+    "source": "merchandise",
+    "revenue": 1145
+  },
+  {
+    "date": "2024-07-06",
+    "source": "licensing",
+    "revenue": 1210
+  },
+  {
+    "date": "2024-07-07",
+    "source": "subscription",
+    "revenue": 15354
+  },
+  {
+    "date": "2024-07-07",
+    "source": "advertisement",
+    "revenue": 9071
+  },
+  {
+    "date": "2024-07-07",
+    "source": "merchandise",
+    "revenue": 2990
+  },
+  {
+    "date": "2024-07-07",
+    "source": "licensing",
+    "revenue": 2813
+  },
+  {
+    "date": "2024-07-08",
+    "source": "subscription",
+    "revenue": 46881
+  },
+  {
+    "date": "2024-07-08",
+    "source": "advertisement",
+    "revenue": 28303
+  },
+  {
+    "date": "2024-07-08",
+    "source": "merchandise",
+    "revenue": 9242
+  },
+  {
+    "date": "2024-07-08",
+    "source": "licensing",
+    "revenue": 10909
+  },
+  {
+    "date": "2024-07-09",
+    "source": "subscription",
+    "revenue": 38657
+  },
+  {
+    "date": "2024-07-09",
+    "source": "advertisement",
+    "revenue": 22506
+  },
+  {
+    "date": "2024-07-09",
+    "source": "merchandise",
+    "revenue": 7575
+  },
+  {
+    "date": "2024-07-09",
+    "source": "licensing",
+    "revenue": 6403
+  },
+  {
+    "date": "2024-07-10",
+    "source": "subscription",
+    "revenue": 16693
+  },
+  {
+    "date": "2024-07-10",
+    "source": "advertisement",
+    "revenue": 9721
+  },
+  {
+    "date": "2024-07-10",
+    "source": "merchandise",
+    "revenue": 3268
+  },
+  {
+    "date": "2024-07-10",
+    "source": "licensing",
+    "revenue": 3083
+  },
+  {
+    "date": "2024-07-11",
+    "source": "subscription",
+    "revenue": 14946
+  },
+  {
+    "date": "2024-07-11",
+    "source": "advertisement",
+    "revenue": 8878
+  },
+  {
+    "date": "2024-07-11",
+    "source": "merchandise",
+    "revenue": 2676
+  },
+  {
+    "date": "2024-07-11",
+    "source": "licensing",
+    "revenue": 2744
+  },
+  {
+    "date": "2024-07-12",
+    "source": "subscription",
+    "revenue": 45041
+  },
+  {
+    "date": "2024-07-12",
+    "source": "advertisement",
+    "revenue": 27397
+  },
+  {
+    "date": "2024-07-12",
+    "source": "merchandise",
+    "revenue": 9600
+  },
+  {
+    "date": "2024-07-12",
+    "source": "licensing",
+    "revenue": 8527
+  },
+  {
+    "date": "2024-07-13",
+    "source": "subscription",
+    "revenue": 34974
+  },
+  {
+    "date": "2024-07-13",
+    "source": "advertisement",
+    "revenue": 20327
+  },
+  {
+    "date": "2024-07-13",
+    "source": "merchandise",
+    "revenue": 7003
+  },
+  {
+    "date": "2024-07-13",
+    "source": "licensing",
+    "revenue": 6482
+  },
+  {
+    "date": "2024-07-14",
+    "source": "subscription",
+    "revenue": 49199
+  },
+  {
+    "date": "2024-07-14",
+    "source": "advertisement",
+    "revenue": 29859
+  },
+  {
+    "date": "2024-07-14",
+    "source": "merchandise",
+    "revenue": 10006
+  },
+  {
+    "date": "2024-07-14",
+    "source": "licensing",
+    "revenue": 8426
+  },
+  {
+    "date": "2024-07-15",
+    "source": "subscription",
+    "revenue": 30916
+  },
+  {
+    "date": "2024-07-15",
+    "source": "advertisement",
+    "revenue": 18448
+  },
+  {
+    "date": "2024-07-15",
+    "source": "merchandise",
+    "revenue": 7123
+  },
+  {
+    "date": "2024-07-15",
+    "source": "licensing",
+    "revenue": 6131
+  },
+  {
+    "date": "2024-07-16",
+    "source": "subscription",
+    "revenue": 6964
+  },
+  {
+    "date": "2024-07-16",
+    "source": "advertisement",
+    "revenue": 4421
+  },
+  {
+    "date": "2024-07-16",
+    "source": "merchandise",
+    "revenue": 1364
+  },
+  {
+    "date": "2024-07-16",
+    "source": "licensing",
+    "revenue": 1297
+  },
+  {
+    "date": "2024-07-17",
+    "source": "subscription",
+    "revenue": 41078
+  },
+  {
+    "date": "2024-07-17",
+    "source": "advertisement",
+    "revenue": 25959
+  },
+  {
+    "date": "2024-07-17",
+    "source": "merchandise",
+    "revenue": 8364
+  },
+  {
+    "date": "2024-07-17",
+    "source": "licensing",
+    "revenue": 8040
+  },
+  {
+    "date": "2024-07-18",
+    "source": "subscription",
+    "revenue": 31935
+  },
+  {
+    "date": "2024-07-18",
+    "source": "advertisement",
+    "revenue": 19050
+  },
+  {
+    "date": "2024-07-18",
+    "source": "merchandise",
+    "revenue": 6241
+  },
+  {
+    "date": "2024-07-18",
+    "source": "licensing",
+    "revenue": 6642
+  },
+  {
+    "date": "2024-07-19",
+    "source": "subscription",
+    "revenue": 39743
+  },
+  {
+    "date": "2024-07-19",
+    "source": "advertisement",
+    "revenue": 23844
+  },
+  {
+    "date": "2024-07-19",
+    "source": "merchandise",
+    "revenue": 7702
+  },
+  {
+    "date": "2024-07-19",
+    "source": "licensing",
+    "revenue": 7808
+  },
+  {
+    "date": "2024-07-20",
+    "source": "subscription",
+    "revenue": 27949
+  },
+  {
+    "date": "2024-07-20",
+    "source": "advertisement",
+    "revenue": 16442
+  },
+  {
+    "date": "2024-07-20",
+    "source": "merchandise",
+    "revenue": 5794
+  },
+  {
+    "date": "2024-07-20",
+    "source": "licensing",
+    "revenue": 5042
+  },
+  {
+    "date": "2024-07-21",
+    "source": "subscription",
+    "revenue": 46707
+  },
+  {
+    "date": "2024-07-21",
+    "source": "advertisement",
+    "revenue": 28516
+  },
+  {
+    "date": "2024-07-21",
+    "source": "merchandise",
+    "revenue": 9520
+  },
+  {
+    "date": "2024-07-21",
+    "source": "licensing",
+    "revenue": 10012
+  },
+  {
+    "date": "2024-07-22",
+    "source": "subscription",
+    "revenue": 48863
+  },
+  {
+    "date": "2024-07-22",
+    "source": "advertisement",
+    "revenue": 28542
+  },
+  {
+    "date": "2024-07-22",
+    "source": "merchandise",
+    "revenue": 8490
+  },
+  {
+    "date": "2024-07-22",
+    "source": "licensing",
+    "revenue": 9736
+  },
+  {
+    "date": "2024-07-23",
+    "source": "subscription",
+    "revenue": 36669
+  },
+  {
+    "date": "2024-07-23",
+    "source": "advertisement",
+    "revenue": 22856
+  },
+  {
+    "date": "2024-07-23",
+    "source": "merchandise",
+    "revenue": 7188
+  },
+  {
+    "date": "2024-07-23",
+    "source": "licensing",
+    "revenue": 6337
+  },
+  {
+    "date": "2024-07-24",
+    "source": "subscription",
+    "revenue": 28262
+  },
+  {
+    "date": "2024-07-24",
+    "source": "advertisement",
+    "revenue": 17085
+  },
+  {
+    "date": "2024-07-24",
+    "source": "merchandise",
+    "revenue": 6355
+  },
+  {
+    "date": "2024-07-24",
+    "source": "licensing",
+    "revenue": 5777
+  },
+  {
+    "date": "2024-07-25",
+    "source": "subscription",
+    "revenue": 11478
+  },
+  {
+    "date": "2024-07-25",
+    "source": "advertisement",
+    "revenue": 6717
+  },
+  {
+    "date": "2024-07-25",
+    "source": "merchandise",
+    "revenue": 2349
+  },
+  {
+    "date": "2024-07-25",
+    "source": "licensing",
+    "revenue": 2382
+  },
+  {
+    "date": "2024-07-26",
+    "source": "subscription",
+    "revenue": 47665
+  },
+  {
+    "date": "2024-07-26",
+    "source": "advertisement",
+    "revenue": 29260
+  },
+  {
+    "date": "2024-07-26",
+    "source": "merchandise",
+    "revenue": 9436
+  },
+  {
+    "date": "2024-07-26",
+    "source": "licensing",
+    "revenue": 9394
+  },
+  {
+    "date": "2024-07-27",
+    "source": "subscription",
+    "revenue": 48871
+  },
+  {
+    "date": "2024-07-27",
+    "source": "advertisement",
+    "revenue": 30051
+  },
+  {
+    "date": "2024-07-27",
+    "source": "merchandise",
+    "revenue": 10203
+  },
+  {
+    "date": "2024-07-27",
+    "source": "licensing",
+    "revenue": 8741
+  },
+  {
+    "date": "2024-07-28",
+    "source": "subscription",
+    "revenue": 30230
+  },
+  {
+    "date": "2024-07-28",
+    "source": "advertisement",
+    "revenue": 17976
+  },
+  {
+    "date": "2024-07-28",
+    "source": "merchandise",
+    "revenue": 5505
+  },
+  {
+    "date": "2024-07-28",
+    "source": "licensing",
+    "revenue": 6426
+  },
+  {
+    "date": "2024-07-29",
+    "source": "subscription",
+    "revenue": 20079
+  },
+  {
+    "date": "2024-07-29",
+    "source": "advertisement",
+    "revenue": 11700
+  },
+  {
+    "date": "2024-07-29",
+    "source": "merchandise",
+    "revenue": 4059
+  },
+  {
+    "date": "2024-07-29",
+    "source": "licensing",
+    "revenue": 4255
+  },
+  {
+    "date": "2024-07-30",
+    "source": "subscription",
+    "revenue": 42872
+  },
+  {
+    "date": "2024-07-30",
+    "source": "advertisement",
+    "revenue": 26078
+  },
+  {
+    "date": "2024-07-30",
+    "source": "merchandise",
+    "revenue": 7596
+  },
+  {
+    "date": "2024-07-30",
+    "source": "licensing",
+    "revenue": 8210
+  },
+  {
+    "date": "2024-07-31",
+    "source": "subscription",
+    "revenue": 22389
+  },
+  {
+    "date": "2024-07-31",
+    "source": "advertisement",
+    "revenue": 13882
+  },
+  {
+    "date": "2024-07-31",
+    "source": "merchandise",
+    "revenue": 4590
+  },
+  {
+    "date": "2024-07-31",
+    "source": "licensing",
+    "revenue": 4728
+  },
+  {
+    "date": "2024-08-01",
+    "source": "subscription",
+    "revenue": 16799
+  },
+  {
+    "date": "2024-08-01",
+    "source": "advertisement",
+    "revenue": 9767
+  },
+  {
+    "date": "2024-08-01",
+    "source": "merchandise",
+    "revenue": 4084
+  },
+  {
+    "date": "2024-08-01",
+    "source": "licensing",
+    "revenue": 3304
+  },
+  {
+    "date": "2024-08-02",
+    "source": "subscription",
+    "revenue": 24853
+  },
+  {
+    "date": "2024-08-02",
+    "source": "advertisement",
+    "revenue": 14461
+  },
+  {
+    "date": "2024-08-02",
+    "source": "merchandise",
+    "revenue": 4921
+  },
+  {
+    "date": "2024-08-02",
+    "source": "licensing",
+    "revenue": 4063
+  },
+  {
+    "date": "2024-08-03",
+    "source": "subscription",
+    "revenue": 49312
+  },
+  {
+    "date": "2024-08-03",
+    "source": "advertisement",
+    "revenue": 30311
+  },
+  {
+    "date": "2024-08-03",
+    "source": "merchandise",
+    "revenue": 9914
+  },
+  {
+    "date": "2024-08-03",
+    "source": "licensing",
+    "revenue": 10135
+  },
+  {
+    "date": "2024-08-04",
+    "source": "subscription",
+    "revenue": 46810
+  },
+  {
+    "date": "2024-08-04",
+    "source": "advertisement",
+    "revenue": 29176
+  },
+  {
+    "date": "2024-08-04",
+    "source": "merchandise",
+    "revenue": 10496
+  },
+  {
+    "date": "2024-08-04",
+    "source": "licensing",
+    "revenue": 8919
+  },
+  {
+    "date": "2024-08-05",
+    "source": "subscription",
+    "revenue": 36964
+  },
+  {
+    "date": "2024-08-05",
+    "source": "advertisement",
+    "revenue": 21741
+  },
+  {
+    "date": "2024-08-05",
+    "source": "merchandise",
+    "revenue": 6277
+  },
+  {
+    "date": "2024-08-05",
+    "source": "licensing",
+    "revenue": 8198
+  },
+  {
+    "date": "2024-08-06",
+    "source": "subscription",
+    "revenue": 36582
+  },
+  {
+    "date": "2024-08-06",
+    "source": "advertisement",
+    "revenue": 21318
+  },
+  {
+    "date": "2024-08-06",
+    "source": "merchandise",
+    "revenue": 7326
+  },
+  {
+    "date": "2024-08-06",
+    "source": "licensing",
+    "revenue": 7231
+  },
+  {
+    "date": "2024-08-07",
+    "source": "subscription",
+    "revenue": 45776
+  },
+  {
+    "date": "2024-08-07",
+    "source": "advertisement",
+    "revenue": 25919
+  },
+  {
+    "date": "2024-08-07",
+    "source": "merchandise",
+    "revenue": 9029
+  },
+  {
+    "date": "2024-08-07",
+    "source": "licensing",
+    "revenue": 9131
+  },
+  {
+    "date": "2024-08-08",
+    "source": "subscription",
+    "revenue": 27277
+  },
+  {
+    "date": "2024-08-08",
+    "source": "advertisement",
+    "revenue": 16742
+  },
+  {
+    "date": "2024-08-08",
+    "source": "merchandise",
+    "revenue": 5709
+  },
+  {
+    "date": "2024-08-08",
+    "source": "licensing",
+    "revenue": 5418
+  },
+  {
+    "date": "2024-08-09",
+    "source": "subscription",
+    "revenue": 41384
+  },
+  {
+    "date": "2024-08-09",
+    "source": "advertisement",
+    "revenue": 23810
+  },
+  {
+    "date": "2024-08-09",
+    "source": "merchandise",
+    "revenue": 8560
+  },
+  {
+    "date": "2024-08-09",
+    "source": "licensing",
+    "revenue": 7637
+  },
+  {
+    "date": "2024-08-10",
+    "source": "subscription",
+    "revenue": 26978
+  },
+  {
+    "date": "2024-08-10",
+    "source": "advertisement",
+    "revenue": 16158
+  },
+  {
+    "date": "2024-08-10",
+    "source": "merchandise",
+    "revenue": 5169
+  },
+  {
+    "date": "2024-08-10",
+    "source": "licensing",
+    "revenue": 4853
+  },
+  {
+    "date": "2024-08-11",
+    "source": "subscription",
+    "revenue": 32737
+  },
+  {
+    "date": "2024-08-11",
+    "source": "advertisement",
+    "revenue": 18895
+  },
+  {
+    "date": "2024-08-11",
+    "source": "merchandise",
+    "revenue": 6257
+  },
+  {
+    "date": "2024-08-11",
+    "source": "licensing",
+    "revenue": 6312
+  },
+  {
+    "date": "2024-08-12",
+    "source": "subscription",
+    "revenue": 22841
+  },
+  {
+    "date": "2024-08-12",
+    "source": "advertisement",
+    "revenue": 12897
+  },
+  {
+    "date": "2024-08-12",
+    "source": "merchandise",
+    "revenue": 4482
+  },
+  {
+    "date": "2024-08-12",
+    "source": "licensing",
+    "revenue": 4604
+  },
+  {
+    "date": "2024-08-13",
+    "source": "subscription",
+    "revenue": 18053
+  },
+  {
+    "date": "2024-08-13",
+    "source": "advertisement",
+    "revenue": 11100
+  },
+  {
+    "date": "2024-08-13",
+    "source": "merchandise",
+    "revenue": 3886
+  },
+  {
+    "date": "2024-08-13",
+    "source": "licensing",
+    "revenue": 3271
+  },
+  {
+    "date": "2024-08-14",
+    "source": "subscription",
+    "revenue": 16018
+  },
+  {
+    "date": "2024-08-14",
+    "source": "advertisement",
+    "revenue": 10121
+  },
+  {
+    "date": "2024-08-14",
+    "source": "merchandise",
+    "revenue": 3107
+  },
+  {
+    "date": "2024-08-14",
+    "source": "licensing",
+    "revenue": 3277
+  },
+  {
+    "date": "2024-08-15",
+    "source": "subscription",
+    "revenue": 40245
+  },
+  {
+    "date": "2024-08-15",
+    "source": "advertisement",
+    "revenue": 23373
+  },
+  {
+    "date": "2024-08-15",
+    "source": "merchandise",
+    "revenue": 7830
+  },
+  {
+    "date": "2024-08-15",
+    "source": "licensing",
+    "revenue": 7861
+  },
+  {
+    "date": "2024-08-16",
+    "source": "subscription",
+    "revenue": 16734
+  },
+  {
+    "date": "2024-08-16",
+    "source": "advertisement",
+    "revenue": 10351
+  },
+  {
+    "date": "2024-08-16",
+    "source": "merchandise",
+    "revenue": 3613
+  },
+  {
+    "date": "2024-08-16",
+    "source": "licensing",
+    "revenue": 3437
+  },
+  {
+    "date": "2024-08-17",
+    "source": "subscription",
+    "revenue": 21925
+  },
+  {
+    "date": "2024-08-17",
+    "source": "advertisement",
+    "revenue": 13008
+  },
+  {
+    "date": "2024-08-17",
+    "source": "merchandise",
+    "revenue": 4989
+  },
+  {
+    "date": "2024-08-17",
+    "source": "licensing",
+    "revenue": 4633
+  },
+  {
+    "date": "2024-08-18",
+    "source": "subscription",
+    "revenue": 11787
+  },
+  {
+    "date": "2024-08-18",
+    "source": "advertisement",
+    "revenue": 7078
+  },
+  {
+    "date": "2024-08-18",
+    "source": "merchandise",
+    "revenue": 2516
+  },
+  {
+    "date": "2024-08-18",
+    "source": "licensing",
+    "revenue": 2357
+  },
+  {
+    "date": "2024-08-19",
+    "source": "subscription",
+    "revenue": 39556
+  },
+  {
+    "date": "2024-08-19",
+    "source": "advertisement",
+    "revenue": 23242
+  },
+  {
+    "date": "2024-08-19",
+    "source": "merchandise",
+    "revenue": 7486
+  },
+  {
+    "date": "2024-08-19",
+    "source": "licensing",
+    "revenue": 7772
+  },
+  {
+    "date": "2024-08-20",
+    "source": "subscription",
+    "revenue": 14123
+  },
+  {
+    "date": "2024-08-20",
+    "source": "advertisement",
+    "revenue": 8626
+  },
+  {
+    "date": "2024-08-20",
+    "source": "merchandise",
+    "revenue": 2847
+  },
+  {
+    "date": "2024-08-20",
+    "source": "licensing",
+    "revenue": 3326
+  },
+  {
+    "date": "2024-08-21",
+    "source": "subscription",
+    "revenue": 31591
+  },
+  {
+    "date": "2024-08-21",
+    "source": "advertisement",
+    "revenue": 19649
+  },
+  {
+    "date": "2024-08-21",
+    "source": "merchandise",
+    "revenue": 6876
+  },
+  {
+    "date": "2024-08-21",
+    "source": "licensing",
+    "revenue": 6938
+  },
+  {
+    "date": "2024-08-22",
+    "source": "subscription",
+    "revenue": 25018
+  },
+  {
+    "date": "2024-08-22",
+    "source": "advertisement",
+    "revenue": 14205
+  },
+  {
+    "date": "2024-08-22",
+    "source": "merchandise",
+    "revenue": 5326
+  },
+  {
+    "date": "2024-08-22",
+    "source": "licensing",
+    "revenue": 5172
+  },
+  {
+    "date": "2024-08-23",
+    "source": "subscription",
+    "revenue": 12592
+  },
+  {
+    "date": "2024-08-23",
+    "source": "advertisement",
+    "revenue": 7537
+  },
+  {
+    "date": "2024-08-23",
+    "source": "merchandise",
+    "revenue": 2679
+  },
+  {
+    "date": "2024-08-23",
+    "source": "licensing",
+    "revenue": 2391
+  },
+  {
+    "date": "2024-08-24",
+    "source": "subscription",
+    "revenue": 10188
+  },
+  {
+    "date": "2024-08-24",
+    "source": "advertisement",
+    "revenue": 6061
+  },
+  {
+    "date": "2024-08-24",
+    "source": "merchandise",
+    "revenue": 2142
+  },
+  {
+    "date": "2024-08-24",
+    "source": "licensing",
+    "revenue": 1589
+  },
+  {
+    "date": "2024-08-25",
+    "source": "subscription",
+    "revenue": 37244
+  },
+  {
+    "date": "2024-08-25",
+    "source": "advertisement",
+    "revenue": 21390
+  },
+  {
+    "date": "2024-08-25",
+    "source": "merchandise",
+    "revenue": 6724
+  },
+  {
+    "date": "2024-08-25",
+    "source": "licensing",
+    "revenue": 7372
+  },
+  {
+    "date": "2024-08-26",
+    "source": "subscription",
+    "revenue": 32309
+  },
+  {
+    "date": "2024-08-26",
+    "source": "advertisement",
+    "revenue": 19435
+  },
+  {
+    "date": "2024-08-26",
+    "source": "merchandise",
+    "revenue": 6482
+  },
+  {
+    "date": "2024-08-26",
+    "source": "licensing",
+    "revenue": 6003
+  },
+  {
+    "date": "2024-08-27",
+    "source": "subscription",
+    "revenue": 26336
+  },
+  {
+    "date": "2024-08-27",
+    "source": "advertisement",
+    "revenue": 14711
+  },
+  {
+    "date": "2024-08-27",
+    "source": "merchandise",
+    "revenue": 4910
+  },
+  {
+    "date": "2024-08-27",
+    "source": "licensing",
+    "revenue": 5120
+  },
+  {
+    "date": "2024-08-28",
+    "source": "subscription",
+    "revenue": 18657
+  },
+  {
+    "date": "2024-08-28",
+    "source": "advertisement",
+    "revenue": 10951
+  },
+  {
+    "date": "2024-08-28",
+    "source": "merchandise",
+    "revenue": 3806
+  },
+  {
+    "date": "2024-08-28",
+    "source": "licensing",
+    "revenue": 4438
+  },
+  {
+    "date": "2024-08-29",
+    "source": "subscription",
+    "revenue": 45766
+  },
+  {
+    "date": "2024-08-29",
+    "source": "advertisement",
+    "revenue": 27823
+  },
+  {
+    "date": "2024-08-29",
+    "source": "merchandise",
+    "revenue": 8809
+  },
+  {
+    "date": "2024-08-29",
+    "source": "licensing",
+    "revenue": 9749
+  },
+  {
+    "date": "2024-08-30",
+    "source": "subscription",
+    "revenue": 42629
+  },
+  {
+    "date": "2024-08-30",
+    "source": "advertisement",
+    "revenue": 24899
+  },
+  {
+    "date": "2024-08-30",
+    "source": "merchandise",
+    "revenue": 8024
+  },
+  {
+    "date": "2024-08-30",
+    "source": "licensing",
+    "revenue": 8483
+  },
+  {
+    "date": "2024-08-31",
+    "source": "subscription",
+    "revenue": 40583
+  },
+  {
+    "date": "2024-08-31",
+    "source": "advertisement",
+    "revenue": 25403
+  },
+  {
+    "date": "2024-08-31",
+    "source": "merchandise",
+    "revenue": 8005
+  },
+  {
+    "date": "2024-08-31",
+    "source": "licensing",
+    "revenue": 8251
+  },
+  {
+    "date": "2024-09-01",
+    "source": "subscription",
+    "revenue": 21437
+  },
+  {
+    "date": "2024-09-01",
+    "source": "advertisement",
+    "revenue": 12559
+  },
+  {
+    "date": "2024-09-01",
+    "source": "merchandise",
+    "revenue": 4513
+  },
+  {
+    "date": "2024-09-01",
+    "source": "licensing",
+    "revenue": 4326
+  },
+  {
+    "date": "2024-09-02",
+    "source": "subscription",
+    "revenue": 16230
+  },
+  {
+    "date": "2024-09-02",
+    "source": "advertisement",
+    "revenue": 9349
+  },
+  {
+    "date": "2024-09-02",
+    "source": "merchandise",
+    "revenue": 3224
+  },
+  {
+    "date": "2024-09-02",
+    "source": "licensing",
+    "revenue": 3392
+  },
+  {
+    "date": "2024-09-03",
+    "source": "subscription",
+    "revenue": 37161
+  },
+  {
+    "date": "2024-09-03",
+    "source": "advertisement",
+    "revenue": 23785
+  },
+  {
+    "date": "2024-09-03",
+    "source": "merchandise",
+    "revenue": 7377
+  },
+  {
+    "date": "2024-09-03",
+    "source": "licensing",
+    "revenue": 7834
+  },
+  {
+    "date": "2024-09-04",
+    "source": "subscription",
+    "revenue": 13897
+  },
+  {
+    "date": "2024-09-04",
+    "source": "advertisement",
+    "revenue": 7917
+  },
+  {
+    "date": "2024-09-04",
+    "source": "merchandise",
+    "revenue": 2662
+  },
+  {
+    "date": "2024-09-04",
+    "source": "licensing",
+    "revenue": 2643
+  },
+  {
+    "date": "2024-09-05",
+    "source": "subscription",
+    "revenue": 31649
+  },
+  {
+    "date": "2024-09-05",
+    "source": "advertisement",
+    "revenue": 18238
+  },
+  {
+    "date": "2024-09-05",
+    "source": "merchandise",
+    "revenue": 5783
+  },
+  {
+    "date": "2024-09-05",
+    "source": "licensing",
+    "revenue": 5632
+  },
+  {
+    "date": "2024-09-06",
+    "source": "subscription",
+    "revenue": 9396
+  },
+  {
+    "date": "2024-09-06",
+    "source": "advertisement",
+    "revenue": 5666
+  },
+  {
+    "date": "2024-09-06",
+    "source": "merchandise",
+    "revenue": 1795
+  },
+  {
+    "date": "2024-09-06",
+    "source": "licensing",
+    "revenue": 1532
+  },
+  {
+    "date": "2024-09-07",
+    "source": "subscription",
+    "revenue": 15478
+  },
+  {
+    "date": "2024-09-07",
+    "source": "advertisement",
+    "revenue": 8889
+  },
+  {
+    "date": "2024-09-07",
+    "source": "merchandise",
+    "revenue": 3289
+  },
+  {
+    "date": "2024-09-07",
+    "source": "licensing",
+    "revenue": 3294
+  },
+  {
+    "date": "2024-09-08",
+    "source": "subscription",
+    "revenue": 12683
+  },
+  {
+    "date": "2024-09-08",
+    "source": "advertisement",
+    "revenue": 7698
+  },
+  {
+    "date": "2024-09-08",
+    "source": "merchandise",
+    "revenue": 2488
+  },
+  {
+    "date": "2024-09-08",
+    "source": "licensing",
+    "revenue": 2087
+  },
+  {
+    "date": "2024-09-09",
+    "source": "subscription",
+    "revenue": 35058
+  },
+  {
+    "date": "2024-09-09",
+    "source": "advertisement",
+    "revenue": 21419
+  },
+  {
+    "date": "2024-09-09",
+    "source": "merchandise",
+    "revenue": 6944
+  },
+  {
+    "date": "2024-09-09",
+    "source": "licensing",
+    "revenue": 6959
+  },
+  {
+    "date": "2024-09-10",
+    "source": "subscription",
+    "revenue": 43876
+  },
+  {
+    "date": "2024-09-10",
+    "source": "advertisement",
+    "revenue": 25686
+  },
+  {
+    "date": "2024-09-10",
+    "source": "merchandise",
+    "revenue": 9764
+  },
+  {
+    "date": "2024-09-10",
+    "source": "licensing",
+    "revenue": 8293
+  },
+  {
+    "date": "2024-09-11",
+    "source": "subscription",
+    "revenue": 48451
+  },
+  {
+    "date": "2024-09-11",
+    "source": "advertisement",
+    "revenue": 27630
+  },
+  {
+    "date": "2024-09-11",
+    "source": "merchandise",
+    "revenue": 9866
+  },
+  {
+    "date": "2024-09-11",
+    "source": "licensing",
+    "revenue": 9663
+  },
+  {
+    "date": "2024-09-12",
+    "source": "subscription",
+    "revenue": 30067
+  },
+  {
+    "date": "2024-09-12",
+    "source": "advertisement",
+    "revenue": 18752
+  },
+  {
+    "date": "2024-09-12",
+    "source": "merchandise",
+    "revenue": 6020
+  },
+  {
+    "date": "2024-09-12",
+    "source": "licensing",
+    "revenue": 6109
+  },
+  {
+    "date": "2024-09-13",
+    "source": "subscription",
+    "revenue": 32799
+  },
+  {
+    "date": "2024-09-13",
+    "source": "advertisement",
+    "revenue": 20176
+  },
+  {
+    "date": "2024-09-13",
+    "source": "merchandise",
+    "revenue": 5296
+  },
+  {
+    "date": "2024-09-13",
+    "source": "licensing",
+    "revenue": 6194
+  },
+  {
+    "date": "2024-09-14",
+    "source": "subscription",
+    "revenue": 13557
+  },
+  {
+    "date": "2024-09-14",
+    "source": "advertisement",
+    "revenue": 7920
+  },
+  {
+    "date": "2024-09-14",
+    "source": "merchandise",
+    "revenue": 2462
+  },
+  {
+    "date": "2024-09-14",
+    "source": "licensing",
+    "revenue": 2705
+  },
+  {
+    "date": "2024-09-15",
+    "source": "subscription",
+    "revenue": 31744
+  },
+  {
+    "date": "2024-09-15",
+    "source": "advertisement",
+    "revenue": 20105
+  },
+  {
+    "date": "2024-09-15",
+    "source": "merchandise",
+    "revenue": 6509
+  },
+  {
+    "date": "2024-09-15",
+    "source": "licensing",
+    "revenue": 7155
+  },
+  {
+    "date": "2024-09-16",
+    "source": "subscription",
+    "revenue": 28364
+  },
+  {
+    "date": "2024-09-16",
+    "source": "advertisement",
+    "revenue": 17154
+  },
+  {
+    "date": "2024-09-16",
+    "source": "merchandise",
+    "revenue": 6219
+  },
+  {
+    "date": "2024-09-16",
+    "source": "licensing",
+    "revenue": 6753
+  },
+  {
+    "date": "2024-09-17",
+    "source": "subscription",
+    "revenue": 45567
+  },
+  {
+    "date": "2024-09-17",
+    "source": "advertisement",
+    "revenue": 26583
+  },
+  {
+    "date": "2024-09-17",
+    "source": "merchandise",
+    "revenue": 7324
+  },
+  {
+    "date": "2024-09-17",
+    "source": "licensing",
+    "revenue": 8646
+  },
+  {
+    "date": "2024-09-18",
+    "source": "subscription",
+    "revenue": 16653
+  },
+  {
+    "date": "2024-09-18",
+    "source": "advertisement",
+    "revenue": 9907
+  },
+  {
+    "date": "2024-09-18",
+    "source": "merchandise",
+    "revenue": 3320
+  },
+  {
+    "date": "2024-09-18",
+    "source": "licensing",
+    "revenue": 3071
+  },
+  {
+    "date": "2024-09-19",
+    "source": "subscription",
+    "revenue": 49997
+  },
+  {
+    "date": "2024-09-19",
+    "source": "advertisement",
+    "revenue": 30467
+  },
+  {
+    "date": "2024-09-19",
+    "source": "merchandise",
+    "revenue": 9183
+  },
+  {
+    "date": "2024-09-19",
+    "source": "licensing",
+    "revenue": 10025
+  },
+  {
+    "date": "2024-09-20",
+    "source": "subscription",
+    "revenue": 29250
+  },
+  {
+    "date": "2024-09-20",
+    "source": "advertisement",
+    "revenue": 16997
+  },
+  {
+    "date": "2024-09-20",
+    "source": "merchandise",
+    "revenue": 6558
+  },
+  {
+    "date": "2024-09-20",
+    "source": "licensing",
+    "revenue": 5843
+  },
+  {
+    "date": "2024-09-21",
+    "source": "subscription",
+    "revenue": 8598
+  },
+  {
+    "date": "2024-09-21",
+    "source": "advertisement",
+    "revenue": 5283
+  },
+  {
+    "date": "2024-09-21",
+    "source": "merchandise",
+    "revenue": 2217
+  },
+  {
+    "date": "2024-09-21",
+    "source": "licensing",
+    "revenue": 1720
+  },
+  {
+    "date": "2024-09-22",
+    "source": "subscription",
+    "revenue": 22461
+  },
+  {
+    "date": "2024-09-22",
+    "source": "advertisement",
+    "revenue": 13592
+  },
+  {
+    "date": "2024-09-22",
+    "source": "merchandise",
+    "revenue": 4406
+  },
+  {
+    "date": "2024-09-22",
+    "source": "licensing",
+    "revenue": 5092
+  },
+  {
+    "date": "2024-09-23",
+    "source": "subscription",
+    "revenue": 20531
+  },
+  {
+    "date": "2024-09-23",
+    "source": "advertisement",
+    "revenue": 12511
+  },
+  {
+    "date": "2024-09-23",
+    "source": "merchandise",
+    "revenue": 4278
+  },
+  {
+    "date": "2024-09-23",
+    "source": "licensing",
+    "revenue": 3891
+  },
+  {
+    "date": "2024-09-24",
+    "source": "subscription",
+    "revenue": 48904
+  },
+  {
+    "date": "2024-09-24",
+    "source": "advertisement",
+    "revenue": 28498
+  },
+  {
+    "date": "2024-09-24",
+    "source": "merchandise",
+    "revenue": 9117
+  },
+  {
+    "date": "2024-09-24",
+    "source": "licensing",
+    "revenue": 7511
+  },
+  {
+    "date": "2024-09-25",
+    "source": "subscription",
+    "revenue": 15919
+  },
+  {
+    "date": "2024-09-25",
+    "source": "advertisement",
+    "revenue": 9183
+  },
+  {
+    "date": "2024-09-25",
+    "source": "merchandise",
+    "revenue": 3162
+  },
+  {
+    "date": "2024-09-25",
+    "source": "licensing",
+    "revenue": 3156
+  },
+  {
+    "date": "2024-09-26",
+    "source": "subscription",
+    "revenue": 6112
+  },
+  {
+    "date": "2024-09-26",
+    "source": "advertisement",
+    "revenue": 3702
+  },
+  {
+    "date": "2024-09-26",
+    "source": "merchandise",
+    "revenue": 1148
+  },
+  {
+    "date": "2024-09-26",
+    "source": "licensing",
+    "revenue": 1187
+  },
+  {
+    "date": "2024-09-27",
+    "source": "subscription",
+    "revenue": 26529
+  },
+  {
+    "date": "2024-09-27",
+    "source": "advertisement",
+    "revenue": 15446
+  },
+  {
+    "date": "2024-09-27",
+    "source": "merchandise",
+    "revenue": 5624
+  },
+  {
+    "date": "2024-09-27",
+    "source": "licensing",
+    "revenue": 5204
+  },
+  {
+    "date": "2024-09-28",
+    "source": "subscription",
+    "revenue": 17517
+  },
+  {
+    "date": "2024-09-28",
+    "source": "advertisement",
+    "revenue": 10654
+  },
+  {
+    "date": "2024-09-28",
+    "source": "merchandise",
+    "revenue": 3530
+  },
+  {
+    "date": "2024-09-28",
+    "source": "licensing",
+    "revenue": 3563
+  },
+  {
+    "date": "2024-09-29",
+    "source": "subscription",
+    "revenue": 37767
+  },
+  {
+    "date": "2024-09-29",
+    "source": "advertisement",
+    "revenue": 21134
+  },
+  {
+    "date": "2024-09-29",
+    "source": "merchandise",
+    "revenue": 7550
+  },
+  {
+    "date": "2024-09-29",
+    "source": "licensing",
+    "revenue": 7629
+  },
+  {
+    "date": "2024-09-30",
+    "source": "subscription",
+    "revenue": 17548
+  },
+  {
+    "date": "2024-09-30",
+    "source": "advertisement",
+    "revenue": 11309
+  },
+  {
+    "date": "2024-09-30",
+    "source": "merchandise",
+    "revenue": 3591
+  },
+  {
+    "date": "2024-09-30",
+    "source": "licensing",
+    "revenue": 3634
+  },
+  {
+    "date": "2024-10-01",
+    "source": "subscription",
+    "revenue": 48437
+  },
+  {
+    "date": "2024-10-01",
+    "source": "advertisement",
+    "revenue": 29126
+  },
+  {
+    "date": "2024-10-01",
+    "source": "merchandise",
+    "revenue": 9585
+  },
+  {
+    "date": "2024-10-01",
+    "source": "licensing",
+    "revenue": 11714
+  },
+  {
+    "date": "2024-10-02",
+    "source": "subscription",
+    "revenue": 18227
+  },
+  {
+    "date": "2024-10-02",
+    "source": "advertisement",
+    "revenue": 11049
+  },
+  {
+    "date": "2024-10-02",
+    "source": "merchandise",
+    "revenue": 3753
+  },
+  {
+    "date": "2024-10-02",
+    "source": "licensing",
+    "revenue": 3983
+  },
+  {
+    "date": "2024-10-03",
+    "source": "subscription",
+    "revenue": 10120
+  },
+  {
+    "date": "2024-10-03",
+    "source": "advertisement",
+    "revenue": 6152
+  },
+  {
+    "date": "2024-10-03",
+    "source": "merchandise",
+    "revenue": 2195
+  },
+  {
+    "date": "2024-10-03",
+    "source": "licensing",
+    "revenue": 1987
+  },
+  {
+    "date": "2024-10-04",
+    "source": "subscription",
+    "revenue": 11755
+  },
+  {
+    "date": "2024-10-04",
+    "source": "advertisement",
+    "revenue": 7115
+  },
+  {
+    "date": "2024-10-04",
+    "source": "merchandise",
+    "revenue": 2104
+  },
+  {
+    "date": "2024-10-04",
+    "source": "licensing",
+    "revenue": 2470
+  },
+  {
+    "date": "2024-10-05",
+    "source": "subscription",
+    "revenue": 19322
+  },
+  {
+    "date": "2024-10-05",
+    "source": "advertisement",
+    "revenue": 11452
+  },
+  {
+    "date": "2024-10-05",
+    "source": "merchandise",
+    "revenue": 3901
+  },
+  {
+    "date": "2024-10-05",
+    "source": "licensing",
+    "revenue": 3290
+  },
+  {
+    "date": "2024-10-06",
+    "source": "subscription",
+    "revenue": 28643
+  },
+  {
+    "date": "2024-10-06",
+    "source": "advertisement",
+    "revenue": 16786
+  },
+  {
+    "date": "2024-10-06",
+    "source": "merchandise",
+    "revenue": 5541
+  },
+  {
+    "date": "2024-10-06",
+    "source": "licensing",
+    "revenue": 5663
+  },
+  {
+    "date": "2024-10-07",
+    "source": "subscription",
+    "revenue": 47152
+  },
+  {
+    "date": "2024-10-07",
+    "source": "advertisement",
+    "revenue": 27115
+  },
+  {
+    "date": "2024-10-07",
+    "source": "merchandise",
+    "revenue": 7995
+  },
+  {
+    "date": "2024-10-07",
+    "source": "licensing",
+    "revenue": 9304
+  },
+  {
+    "date": "2024-10-08",
+    "source": "subscription",
+    "revenue": 43375
+  },
+  {
+    "date": "2024-10-08",
+    "source": "advertisement",
+    "revenue": 26294
+  },
+  {
+    "date": "2024-10-08",
+    "source": "merchandise",
+    "revenue": 7726
+  },
+  {
+    "date": "2024-10-08",
+    "source": "licensing",
+    "revenue": 8314
+  },
+  {
+    "date": "2024-10-09",
+    "source": "subscription",
+    "revenue": 26557
+  },
+  {
+    "date": "2024-10-09",
+    "source": "advertisement",
+    "revenue": 15916
+  },
+  {
+    "date": "2024-10-09",
+    "source": "merchandise",
+    "revenue": 5512
+  },
+  {
+    "date": "2024-10-09",
+    "source": "licensing",
+    "revenue": 6704
+  },
+  {
+    "date": "2024-10-10",
+    "source": "subscription",
+    "revenue": 34731
+  },
+  {
+    "date": "2024-10-10",
+    "source": "advertisement",
+    "revenue": 20944
+  },
+  {
+    "date": "2024-10-10",
+    "source": "merchandise",
+    "revenue": 7208
+  },
+  {
+    "date": "2024-10-10",
+    "source": "licensing",
+    "revenue": 6636
+  },
+  {
+    "date": "2024-10-11",
+    "source": "subscription",
+    "revenue": 31915
+  },
+  {
+    "date": "2024-10-11",
+    "source": "advertisement",
+    "revenue": 18615
+  },
+  {
+    "date": "2024-10-11",
+    "source": "merchandise",
+    "revenue": 7271
+  },
+  {
+    "date": "2024-10-11",
+    "source": "licensing",
+    "revenue": 6469
+  },
+  {
+    "date": "2024-10-12",
+    "source": "subscription",
+    "revenue": 36060
+  },
+  {
+    "date": "2024-10-12",
+    "source": "advertisement",
+    "revenue": 20711
+  },
+  {
+    "date": "2024-10-12",
+    "source": "merchandise",
+    "revenue": 7998
+  },
+  {
+    "date": "2024-10-12",
+    "source": "licensing",
+    "revenue": 7303
+  },
+  {
+    "date": "2024-10-13",
+    "source": "subscription",
+    "revenue": 30310
+  },
+  {
+    "date": "2024-10-13",
+    "source": "advertisement",
+    "revenue": 18167
+  },
+  {
+    "date": "2024-10-13",
+    "source": "merchandise",
+    "revenue": 7313
+  },
+  {
+    "date": "2024-10-13",
+    "source": "licensing",
+    "revenue": 7020
+  },
+  {
+    "date": "2024-10-14",
+    "source": "subscription",
+    "revenue": 34547
+  },
+  {
+    "date": "2024-10-14",
+    "source": "advertisement",
+    "revenue": 20630
+  },
+  {
+    "date": "2024-10-14",
+    "source": "merchandise",
+    "revenue": 7503
+  },
+  {
+    "date": "2024-10-14",
+    "source": "licensing",
+    "revenue": 7114
+  },
+  {
+    "date": "2024-10-15",
+    "source": "subscription",
+    "revenue": 30201
+  },
+  {
+    "date": "2024-10-15",
+    "source": "advertisement",
+    "revenue": 18161
+  },
+  {
+    "date": "2024-10-15",
+    "source": "merchandise",
+    "revenue": 6297
+  },
+  {
+    "date": "2024-10-15",
+    "source": "licensing",
+    "revenue": 5386
+  },
+  {
+    "date": "2024-10-16",
+    "source": "subscription",
+    "revenue": 23656
+  },
+  {
+    "date": "2024-10-16",
+    "source": "advertisement",
+    "revenue": 14574
+  },
+  {
+    "date": "2024-10-16",
+    "source": "merchandise",
+    "revenue": 4912
+  },
+  {
+    "date": "2024-10-16",
+    "source": "licensing",
+    "revenue": 4732
+  },
+  {
+    "date": "2024-10-17",
+    "source": "subscription",
+    "revenue": 22454
+  },
+  {
+    "date": "2024-10-17",
+    "source": "advertisement",
+    "revenue": 13167
+  },
+  {
+    "date": "2024-10-17",
+    "source": "merchandise",
+    "revenue": 5223
+  },
+  {
+    "date": "2024-10-17",
+    "source": "licensing",
+    "revenue": 3584
+  },
+  {
+    "date": "2024-10-18",
+    "source": "subscription",
+    "revenue": 6317
+  },
+  {
+    "date": "2024-10-18",
+    "source": "advertisement",
+    "revenue": 3729
+  },
+  {
+    "date": "2024-10-18",
+    "source": "merchandise",
+    "revenue": 1243
+  },
+  {
+    "date": "2024-10-18",
+    "source": "licensing",
+    "revenue": 1174
+  },
+  {
+    "date": "2024-10-19",
+    "source": "subscription",
+    "revenue": 16487
+  },
+  {
+    "date": "2024-10-19",
+    "source": "advertisement",
+    "revenue": 9642
+  },
+  {
+    "date": "2024-10-19",
+    "source": "merchandise",
+    "revenue": 3361
+  },
+  {
+    "date": "2024-10-19",
+    "source": "licensing",
+    "revenue": 3573
+  },
+  {
+    "date": "2024-10-20",
+    "source": "subscription",
+    "revenue": 27233
+  },
+  {
+    "date": "2024-10-20",
+    "source": "advertisement",
+    "revenue": 15810
+  },
+  {
+    "date": "2024-10-20",
+    "source": "merchandise",
+    "revenue": 4747
+  },
+  {
+    "date": "2024-10-20",
+    "source": "licensing",
+    "revenue": 5198
+  },
+  {
+    "date": "2024-10-21",
+    "source": "subscription",
+    "revenue": 32259
+  },
+  {
+    "date": "2024-10-21",
+    "source": "advertisement",
+    "revenue": 19433
+  },
+  {
+    "date": "2024-10-21",
+    "source": "merchandise",
+    "revenue": 6287
+  },
+  {
+    "date": "2024-10-21",
+    "source": "licensing",
+    "revenue": 7054
+  },
+  {
+    "date": "2024-10-22",
+    "source": "subscription",
+    "revenue": 41641
+  },
+  {
+    "date": "2024-10-22",
+    "source": "advertisement",
+    "revenue": 24750
+  },
+  {
+    "date": "2024-10-22",
+    "source": "merchandise",
+    "revenue": 8125
+  },
+  {
+    "date": "2024-10-22",
+    "source": "licensing",
+    "revenue": 9442
+  },
+  {
+    "date": "2024-10-23",
+    "source": "subscription",
+    "revenue": 30777
+  },
+  {
+    "date": "2024-10-23",
+    "source": "advertisement",
+    "revenue": 18581
+  },
+  {
+    "date": "2024-10-23",
+    "source": "merchandise",
+    "revenue": 6665
+  },
+  {
+    "date": "2024-10-23",
+    "source": "licensing",
+    "revenue": 5502
+  },
+  {
+    "date": "2024-10-24",
+    "source": "subscription",
+    "revenue": 27110
+  },
+  {
+    "date": "2024-10-24",
+    "source": "advertisement",
+    "revenue": 16098
+  },
+  {
+    "date": "2024-10-24",
+    "source": "merchandise",
+    "revenue": 5059
+  },
+  {
+    "date": "2024-10-24",
+    "source": "licensing",
+    "revenue": 5538
+  },
+  {
+    "date": "2024-10-25",
+    "source": "subscription",
+    "revenue": 39818
+  },
+  {
+    "date": "2024-10-25",
+    "source": "advertisement",
+    "revenue": 25150
+  },
+  {
+    "date": "2024-10-25",
+    "source": "merchandise",
+    "revenue": 8929
+  },
+  {
+    "date": "2024-10-25",
+    "source": "licensing",
+    "revenue": 7304
+  },
+  {
+    "date": "2024-10-26",
+    "source": "subscription",
+    "revenue": 45414
+  },
+  {
+    "date": "2024-10-26",
+    "source": "advertisement",
+    "revenue": 25681
+  },
+  {
+    "date": "2024-10-26",
+    "source": "merchandise",
+    "revenue": 9457
+  },
+  {
+    "date": "2024-10-26",
+    "source": "licensing",
+    "revenue": 10140
+  },
+  {
+    "date": "2024-10-27",
+    "source": "subscription",
+    "revenue": 48280
+  },
+  {
+    "date": "2024-10-27",
+    "source": "advertisement",
+    "revenue": 28875
+  },
+  {
+    "date": "2024-10-27",
+    "source": "merchandise",
+    "revenue": 9695
+  },
+  {
+    "date": "2024-10-27",
+    "source": "licensing",
+    "revenue": 10405
+  },
+  {
+    "date": "2024-10-28",
+    "source": "subscription",
+    "revenue": 35035
+  },
+  {
+    "date": "2024-10-28",
+    "source": "advertisement",
+    "revenue": 21840
+  },
+  {
+    "date": "2024-10-28",
+    "source": "merchandise",
+    "revenue": 5855
+  },
+  {
+    "date": "2024-10-28",
+    "source": "licensing",
+    "revenue": 6944
+  },
+  {
+    "date": "2024-10-29",
+    "source": "subscription",
+    "revenue": 18687
+  },
+  {
+    "date": "2024-10-29",
+    "source": "advertisement",
+    "revenue": 11867
+  },
+  {
+    "date": "2024-10-29",
+    "source": "merchandise",
+    "revenue": 3802
+  },
+  {
+    "date": "2024-10-29",
+    "source": "licensing",
+    "revenue": 3864
+  },
+  {
+    "date": "2024-10-30",
+    "source": "subscription",
+    "revenue": 19027
+  },
+  {
+    "date": "2024-10-30",
+    "source": "advertisement",
+    "revenue": 11509
+  },
+  {
+    "date": "2024-10-30",
+    "source": "merchandise",
+    "revenue": 3967
+  },
+  {
+    "date": "2024-10-30",
+    "source": "licensing",
+    "revenue": 3415
+  },
+  {
+    "date": "2024-10-31",
+    "source": "subscription",
+    "revenue": 26367
+  },
+  {
+    "date": "2024-10-31",
+    "source": "advertisement",
+    "revenue": 16984
+  },
+  {
+    "date": "2024-10-31",
+    "source": "merchandise",
+    "revenue": 5252
+  },
+  {
+    "date": "2024-10-31",
+    "source": "licensing",
+    "revenue": 4843
+  },
+  {
+    "date": "2024-11-01",
+    "source": "subscription",
+    "revenue": 35087
+  },
+  {
+    "date": "2024-11-01",
+    "source": "advertisement",
+    "revenue": 20514
+  },
+  {
+    "date": "2024-11-01",
+    "source": "merchandise",
+    "revenue": 7229
+  },
+  {
+    "date": "2024-11-01",
+    "source": "licensing",
+    "revenue": 6928
+  },
+  {
+    "date": "2024-11-02",
+    "source": "subscription",
+    "revenue": 6797
+  },
+  {
+    "date": "2024-11-02",
+    "source": "advertisement",
+    "revenue": 4312
+  },
+  {
+    "date": "2024-11-02",
+    "source": "merchandise",
+    "revenue": 1279
+  },
+  {
+    "date": "2024-11-02",
+    "source": "licensing",
+    "revenue": 1156
+  },
+  {
+    "date": "2024-11-03",
+    "source": "subscription",
+    "revenue": 48659
+  },
+  {
+    "date": "2024-11-03",
+    "source": "advertisement",
+    "revenue": 28667
+  },
+  {
+    "date": "2024-11-03",
+    "source": "merchandise",
+    "revenue": 9307
+  },
+  {
+    "date": "2024-11-03",
+    "source": "licensing",
+    "revenue": 9587
+  },
+  {
+    "date": "2024-11-04",
+    "source": "subscription",
+    "revenue": 33604
+  },
+  {
+    "date": "2024-11-04",
+    "source": "advertisement",
+    "revenue": 20306
+  },
+  {
+    "date": "2024-11-04",
+    "source": "merchandise",
+    "revenue": 6623
+  },
+  {
+    "date": "2024-11-04",
+    "source": "licensing",
+    "revenue": 8317
+  },
+  {
+    "date": "2024-11-05",
+    "source": "subscription",
+    "revenue": 43008
+  },
+  {
+    "date": "2024-11-05",
+    "source": "advertisement",
+    "revenue": 24828
+  },
+  {
+    "date": "2024-11-05",
+    "source": "merchandise",
+    "revenue": 8367
+  },
+  {
+    "date": "2024-11-05",
+    "source": "licensing",
+    "revenue": 8399
+  },
+  {
+    "date": "2024-11-06",
+    "source": "subscription",
+    "revenue": 40826
+  },
+  {
+    "date": "2024-11-06",
+    "source": "advertisement",
+    "revenue": 25104
+  },
+  {
+    "date": "2024-11-06",
+    "source": "merchandise",
+    "revenue": 7023
+  },
+  {
+    "date": "2024-11-06",
+    "source": "licensing",
+    "revenue": 8213
+  },
+  {
+    "date": "2024-11-07",
+    "source": "subscription",
+    "revenue": 46066
+  },
+  {
+    "date": "2024-11-07",
+    "source": "advertisement",
+    "revenue": 27259
+  },
+  {
+    "date": "2024-11-07",
+    "source": "merchandise",
+    "revenue": 9649
+  },
+  {
+    "date": "2024-11-07",
+    "source": "licensing",
+    "revenue": 8228
+  },
+  {
+    "date": "2024-11-08",
+    "source": "subscription",
+    "revenue": 27529
+  },
+  {
+    "date": "2024-11-08",
+    "source": "advertisement",
+    "revenue": 16436
+  },
+  {
+    "date": "2024-11-08",
+    "source": "merchandise",
+    "revenue": 5218
+  },
+  {
+    "date": "2024-11-08",
+    "source": "licensing",
+    "revenue": 5416
+  },
+  {
+    "date": "2024-11-09",
+    "source": "subscription",
+    "revenue": 8442
+  },
+  {
+    "date": "2024-11-09",
+    "source": "advertisement",
+    "revenue": 5103
+  },
+  {
+    "date": "2024-11-09",
+    "source": "merchandise",
+    "revenue": 1715
+  },
+  {
+    "date": "2024-11-09",
+    "source": "licensing",
+    "revenue": 1554
+  },
+  {
+    "date": "2024-11-10",
+    "source": "subscription",
+    "revenue": 18639
+  },
+  {
+    "date": "2024-11-10",
+    "source": "advertisement",
+    "revenue": 11395
+  },
+  {
+    "date": "2024-11-10",
+    "source": "merchandise",
+    "revenue": 4308
+  },
+  {
+    "date": "2024-11-10",
+    "source": "licensing",
+    "revenue": 3430
+  },
+  {
+    "date": "2024-11-11",
+    "source": "subscription",
+    "revenue": 48743
+  },
+  {
+    "date": "2024-11-11",
+    "source": "advertisement",
+    "revenue": 28352
+  },
+  {
+    "date": "2024-11-11",
+    "source": "merchandise",
+    "revenue": 9637
+  },
+  {
+    "date": "2024-11-11",
+    "source": "licensing",
+    "revenue": 10116
+  },
+  {
+    "date": "2024-11-12",
+    "source": "subscription",
+    "revenue": 24159
+  },
+  {
+    "date": "2024-11-12",
+    "source": "advertisement",
+    "revenue": 14369
+  },
+  {
+    "date": "2024-11-12",
+    "source": "merchandise",
+    "revenue": 4336
+  },
+  {
+    "date": "2024-11-12",
+    "source": "licensing",
+    "revenue": 4420
+  },
+  {
+    "date": "2024-11-13",
+    "source": "subscription",
+    "revenue": 36353
+  },
+  {
+    "date": "2024-11-13",
+    "source": "advertisement",
+    "revenue": 20687
+  },
+  {
+    "date": "2024-11-13",
+    "source": "merchandise",
+    "revenue": 8046
+  },
+  {
+    "date": "2024-11-13",
+    "source": "licensing",
+    "revenue": 6731
+  },
+  {
+    "date": "2024-11-14",
+    "source": "subscription",
+    "revenue": 20644
+  },
+  {
+    "date": "2024-11-14",
+    "source": "advertisement",
+    "revenue": 12642
+  },
+  {
+    "date": "2024-11-14",
+    "source": "merchandise",
+    "revenue": 4156
+  },
+  {
+    "date": "2024-11-14",
+    "source": "licensing",
+    "revenue": 4136
+  },
+  {
+    "date": "2024-11-15",
+    "source": "subscription",
+    "revenue": 26047
+  },
+  {
+    "date": "2024-11-15",
+    "source": "advertisement",
+    "revenue": 17072
+  },
+  {
+    "date": "2024-11-15",
+    "source": "merchandise",
+    "revenue": 5131
+  },
+  {
+    "date": "2024-11-15",
+    "source": "licensing",
+    "revenue": 5071
+  },
+  {
+    "date": "2024-11-16",
+    "source": "subscription",
+    "revenue": 48108
+  },
+  {
+    "date": "2024-11-16",
+    "source": "advertisement",
+    "revenue": 26603
+  },
+  {
+    "date": "2024-11-16",
+    "source": "merchandise",
+    "revenue": 10914
+  },
+  {
+    "date": "2024-11-16",
+    "source": "licensing",
+    "revenue": 9362
+  },
+  {
+    "date": "2024-11-17",
+    "source": "subscription",
+    "revenue": 8379
+  },
+  {
+    "date": "2024-11-17",
+    "source": "advertisement",
+    "revenue": 4960
+  },
+  {
+    "date": "2024-11-17",
+    "source": "merchandise",
+    "revenue": 1915
+  },
+  {
+    "date": "2024-11-17",
+    "source": "licensing",
+    "revenue": 1658
+  },
+  {
+    "date": "2024-11-18",
+    "source": "subscription",
+    "revenue": 49219
+  },
+  {
+    "date": "2024-11-18",
+    "source": "advertisement",
+    "revenue": 28771
+  },
+  {
+    "date": "2024-11-18",
+    "source": "merchandise",
+    "revenue": 11002
+  },
+  {
+    "date": "2024-11-18",
+    "source": "licensing",
+    "revenue": 9071
+  },
+  {
+    "date": "2024-11-19",
+    "source": "subscription",
+    "revenue": 49203
+  },
+  {
+    "date": "2024-11-19",
+    "source": "advertisement",
+    "revenue": 29092
+  },
+  {
+    "date": "2024-11-19",
+    "source": "merchandise",
+    "revenue": 8921
+  },
+  {
+    "date": "2024-11-19",
+    "source": "licensing",
+    "revenue": 11142
+  },
+  {
+    "date": "2024-11-20",
+    "source": "subscription",
+    "revenue": 7526
+  },
+  {
+    "date": "2024-11-20",
+    "source": "advertisement",
+    "revenue": 4332
+  },
+  {
+    "date": "2024-11-20",
+    "source": "merchandise",
+    "revenue": 1308
+  },
+  {
+    "date": "2024-11-20",
+    "source": "licensing",
+    "revenue": 1339
+  },
+  {
+    "date": "2024-11-21",
+    "source": "subscription",
+    "revenue": 44539
+  },
+  {
+    "date": "2024-11-21",
+    "source": "advertisement",
+    "revenue": 27708
+  },
+  {
+    "date": "2024-11-21",
+    "source": "merchandise",
+    "revenue": 9796
+  },
+  {
+    "date": "2024-11-21",
+    "source": "licensing",
+    "revenue": 9133
+  },
+  {
+    "date": "2024-11-22",
+    "source": "subscription",
+    "revenue": 30432
+  },
+  {
+    "date": "2024-11-22",
+    "source": "advertisement",
+    "revenue": 16997
+  },
+  {
+    "date": "2024-11-22",
+    "source": "merchandise",
+    "revenue": 5899
+  },
+  {
+    "date": "2024-11-22",
+    "source": "licensing",
+    "revenue": 5630
+  },
+  {
+    "date": "2024-11-23",
+    "source": "subscription",
+    "revenue": 15111
+  },
+  {
+    "date": "2024-11-23",
+    "source": "advertisement",
+    "revenue": 9174
+  },
+  {
+    "date": "2024-11-23",
+    "source": "merchandise",
+    "revenue": 3046
+  },
+  {
+    "date": "2024-11-23",
+    "source": "licensing",
+    "revenue": 2982
+  },
+  {
+    "date": "2024-11-24",
+    "source": "subscription",
+    "revenue": 21348
+  },
+  {
+    "date": "2024-11-24",
+    "source": "advertisement",
+    "revenue": 13726
+  },
+  {
+    "date": "2024-11-24",
+    "source": "merchandise",
+    "revenue": 4558
+  },
+  {
+    "date": "2024-11-24",
+    "source": "licensing",
+    "revenue": 4050
+  },
+  {
+    "date": "2024-11-25",
+    "source": "subscription",
+    "revenue": 45188
+  },
+  {
+    "date": "2024-11-25",
+    "source": "advertisement",
+    "revenue": 28184
+  },
+  {
+    "date": "2024-11-25",
+    "source": "merchandise",
+    "revenue": 8210
+  },
+  {
+    "date": "2024-11-25",
+    "source": "licensing",
+    "revenue": 9141
+  },
+  {
+    "date": "2024-11-26",
+    "source": "subscription",
+    "revenue": 17059
+  },
+  {
+    "date": "2024-11-26",
+    "source": "advertisement",
+    "revenue": 10168
+  },
+  {
+    "date": "2024-11-26",
+    "source": "merchandise",
+    "revenue": 3430
+  },
+  {
+    "date": "2024-11-26",
+    "source": "licensing",
+    "revenue": 3451
+  },
+  {
+    "date": "2024-11-27",
+    "source": "subscription",
+    "revenue": 27580
+  },
+  {
+    "date": "2024-11-27",
+    "source": "advertisement",
+    "revenue": 15719
+  },
+  {
+    "date": "2024-11-27",
+    "source": "merchandise",
+    "revenue": 5576
+  },
+  {
+    "date": "2024-11-27",
+    "source": "licensing",
+    "revenue": 5340
+  },
+  {
+    "date": "2024-11-28",
+    "source": "subscription",
+    "revenue": 29151
+  },
+  {
+    "date": "2024-11-28",
+    "source": "advertisement",
+    "revenue": 17873
+  },
+  {
+    "date": "2024-11-28",
+    "source": "merchandise",
+    "revenue": 5942
+  },
+  {
+    "date": "2024-11-28",
+    "source": "licensing",
+    "revenue": 5419
+  },
+  {
+    "date": "2024-11-29",
+    "source": "subscription",
+    "revenue": 27954
+  },
+  {
+    "date": "2024-11-29",
+    "source": "advertisement",
+    "revenue": 17197
+  },
+  {
+    "date": "2024-11-29",
+    "source": "merchandise",
+    "revenue": 6005
+  },
+  {
+    "date": "2024-11-29",
+    "source": "licensing",
+    "revenue": 6421
+  },
+  {
+    "date": "2024-11-30",
+    "source": "subscription",
+    "revenue": 21784
+  },
+  {
+    "date": "2024-11-30",
+    "source": "advertisement",
+    "revenue": 13314
+  },
+  {
+    "date": "2024-11-30",
+    "source": "merchandise",
+    "revenue": 3758
+  },
+  {
+    "date": "2024-11-30",
+    "source": "licensing",
+    "revenue": 4192
+  },
+  {
+    "date": "2024-12-01",
+    "source": "subscription",
+    "revenue": 14506
+  },
+  {
+    "date": "2024-12-01",
+    "source": "advertisement",
+    "revenue": 8395
+  },
+  {
+    "date": "2024-12-01",
+    "source": "merchandise",
+    "revenue": 2622
+  },
+  {
+    "date": "2024-12-01",
+    "source": "licensing",
+    "revenue": 2522
+  },
+  {
+    "date": "2024-12-02",
+    "source": "subscription",
+    "revenue": 27856
+  },
+  {
+    "date": "2024-12-02",
+    "source": "advertisement",
+    "revenue": 17249
+  },
+  {
+    "date": "2024-12-02",
+    "source": "merchandise",
+    "revenue": 5885
+  },
+  {
+    "date": "2024-12-02",
+    "source": "licensing",
+    "revenue": 5309
+  },
+  {
+    "date": "2024-12-03",
+    "source": "subscription",
+    "revenue": 22023
+  },
+  {
+    "date": "2024-12-03",
+    "source": "advertisement",
+    "revenue": 13295
+  },
+  {
+    "date": "2024-12-03",
+    "source": "merchandise",
+    "revenue": 4898
+  },
+  {
+    "date": "2024-12-03",
+    "source": "licensing",
+    "revenue": 5062
+  },
+  {
+    "date": "2024-12-04",
+    "source": "subscription",
+    "revenue": 36258
+  },
+  {
+    "date": "2024-12-04",
+    "source": "advertisement",
+    "revenue": 21639
+  },
+  {
+    "date": "2024-12-04",
+    "source": "merchandise",
+    "revenue": 8260
+  },
+  {
+    "date": "2024-12-04",
+    "source": "licensing",
+    "revenue": 7124
+  },
+  {
+    "date": "2024-12-05",
+    "source": "subscription",
+    "revenue": 48819
+  },
+  {
+    "date": "2024-12-05",
+    "source": "advertisement",
+    "revenue": 29581
+  },
+  {
+    "date": "2024-12-05",
+    "source": "merchandise",
+    "revenue": 8678
+  },
+  {
+    "date": "2024-12-05",
+    "source": "licensing",
+    "revenue": 8579
+  },
+  {
+    "date": "2024-12-06",
+    "source": "subscription",
+    "revenue": 45995
+  },
+  {
+    "date": "2024-12-06",
+    "source": "advertisement",
+    "revenue": 27660
+  },
+  {
+    "date": "2024-12-06",
+    "source": "merchandise",
+    "revenue": 8796
+  },
+  {
+    "date": "2024-12-06",
+    "source": "licensing",
+    "revenue": 6561
+  },
+  {
+    "date": "2024-12-07",
+    "source": "subscription",
+    "revenue": 26280
+  },
+  {
+    "date": "2024-12-07",
+    "source": "advertisement",
+    "revenue": 15878
+  },
+  {
+    "date": "2024-12-07",
+    "source": "merchandise",
+    "revenue": 5251
+  },
+  {
+    "date": "2024-12-07",
+    "source": "licensing",
+    "revenue": 4393
+  },
+  {
+    "date": "2024-12-08",
+    "source": "subscription",
+    "revenue": 34804
+  },
+  {
+    "date": "2024-12-08",
+    "source": "advertisement",
+    "revenue": 21304
+  },
+  {
+    "date": "2024-12-08",
+    "source": "merchandise",
+    "revenue": 5979
+  },
+  {
+    "date": "2024-12-08",
+    "source": "licensing",
+    "revenue": 7666
+  },
+  {
+    "date": "2024-12-09",
+    "source": "subscription",
+    "revenue": 25467
+  },
+  {
+    "date": "2024-12-09",
+    "source": "advertisement",
+    "revenue": 15079
+  },
+  {
+    "date": "2024-12-09",
+    "source": "merchandise",
+    "revenue": 5522
+  },
+  {
+    "date": "2024-12-09",
+    "source": "licensing",
+    "revenue": 4309
+  },
+  {
+    "date": "2024-12-10",
+    "source": "subscription",
+    "revenue": 38080
+  },
+  {
+    "date": "2024-12-10",
+    "source": "advertisement",
+    "revenue": 21994
+  },
+  {
+    "date": "2024-12-10",
+    "source": "merchandise",
+    "revenue": 7459
+  },
+  {
+    "date": "2024-12-10",
+    "source": "licensing",
+    "revenue": 7699
+  },
+  {
+    "date": "2024-12-11",
+    "source": "subscription",
+    "revenue": 10101
+  },
+  {
+    "date": "2024-12-11",
+    "source": "advertisement",
+    "revenue": 6131
+  },
+  {
+    "date": "2024-12-11",
+    "source": "merchandise",
+    "revenue": 2320
+  },
+  {
+    "date": "2024-12-11",
+    "source": "licensing",
+    "revenue": 2056
+  },
+  {
+    "date": "2024-12-12",
+    "source": "subscription",
+    "revenue": 10827
+  },
+  {
+    "date": "2024-12-12",
+    "source": "advertisement",
+    "revenue": 6282
+  },
+  {
+    "date": "2024-12-12",
+    "source": "merchandise",
+    "revenue": 2211
+  },
+  {
+    "date": "2024-12-12",
+    "source": "licensing",
+    "revenue": 2253
+  },
+  {
+    "date": "2024-12-13",
+    "source": "subscription",
+    "revenue": 45965
+  },
+  {
+    "date": "2024-12-13",
+    "source": "advertisement",
+    "revenue": 27562
+  },
+  {
+    "date": "2024-12-13",
+    "source": "merchandise",
+    "revenue": 8417
+  },
+  {
+    "date": "2024-12-13",
+    "source": "licensing",
+    "revenue": 9007
+  },
+  {
+    "date": "2024-12-14",
+    "source": "subscription",
+    "revenue": 19037
+  },
+  {
+    "date": "2024-12-14",
+    "source": "advertisement",
+    "revenue": 12136
+  },
+  {
+    "date": "2024-12-14",
+    "source": "merchandise",
+    "revenue": 3821
+  },
+  {
+    "date": "2024-12-14",
+    "source": "licensing",
+    "revenue": 3916
+  },
+  {
+    "date": "2024-12-15",
+    "source": "subscription",
+    "revenue": 38412
+  },
+  {
+    "date": "2024-12-15",
+    "source": "advertisement",
+    "revenue": 21800
+  },
+  {
+    "date": "2024-12-15",
+    "source": "merchandise",
+    "revenue": 7473
+  },
+  {
+    "date": "2024-12-15",
+    "source": "licensing",
+    "revenue": 7954
+  },
+  {
+    "date": "2024-12-16",
+    "source": "subscription",
+    "revenue": 17631
+  },
+  {
+    "date": "2024-12-16",
+    "source": "advertisement",
+    "revenue": 11228
+  },
+  {
+    "date": "2024-12-16",
+    "source": "merchandise",
+    "revenue": 3909
+  },
+  {
+    "date": "2024-12-16",
+    "source": "licensing",
+    "revenue": 3535
+  },
+  {
+    "date": "2024-12-17",
+    "source": "subscription",
+    "revenue": 6145
+  },
+  {
+    "date": "2024-12-17",
+    "source": "advertisement",
+    "revenue": 3546
+  },
+  {
+    "date": "2024-12-17",
+    "source": "merchandise",
+    "revenue": 1307
+  },
+  {
+    "date": "2024-12-17",
+    "source": "licensing",
+    "revenue": 968
+  },
+  {
+    "date": "2024-12-18",
+    "source": "subscription",
+    "revenue": 37787
+  },
+  {
+    "date": "2024-12-18",
+    "source": "advertisement",
+    "revenue": 22382
+  },
+  {
+    "date": "2024-12-18",
+    "source": "merchandise",
+    "revenue": 8895
+  },
+  {
+    "date": "2024-12-18",
+    "source": "licensing",
+    "revenue": 6933
+  },
+  {
+    "date": "2024-12-19",
+    "source": "subscription",
+    "revenue": 10207
+  },
+  {
+    "date": "2024-12-19",
+    "source": "advertisement",
+    "revenue": 6504
+  },
+  {
+    "date": "2024-12-19",
+    "source": "merchandise",
+    "revenue": 2217
+  },
+  {
+    "date": "2024-12-19",
+    "source": "licensing",
+    "revenue": 2065
+  },
+  {
+    "date": "2024-12-20",
+    "source": "subscription",
+    "revenue": 22338
+  },
+  {
+    "date": "2024-12-20",
+    "source": "advertisement",
+    "revenue": 13371
+  },
+  {
+    "date": "2024-12-20",
+    "source": "merchandise",
+    "revenue": 4252
+  },
+  {
+    "date": "2024-12-20",
+    "source": "licensing",
+    "revenue": 4045
+  },
+  {
+    "date": "2024-12-21",
+    "source": "subscription",
+    "revenue": 10254
+  },
+  {
+    "date": "2024-12-21",
+    "source": "advertisement",
+    "revenue": 6064
+  },
+  {
+    "date": "2024-12-21",
+    "source": "merchandise",
+    "revenue": 2009
+  },
+  {
+    "date": "2024-12-21",
+    "source": "licensing",
+    "revenue": 2372
+  },
+  {
+    "date": "2024-12-22",
+    "source": "subscription",
+    "revenue": 45283
+  },
+  {
+    "date": "2024-12-22",
+    "source": "advertisement",
+    "revenue": 27856
+  },
+  {
+    "date": "2024-12-22",
+    "source": "merchandise",
+    "revenue": 8829
+  },
+  {
+    "date": "2024-12-22",
+    "source": "licensing",
+    "revenue": 8888
+  },
+  {
+    "date": "2024-12-23",
+    "source": "subscription",
+    "revenue": 47327
+  },
+  {
+    "date": "2024-12-23",
+    "source": "advertisement",
+    "revenue": 28329
+  },
+  {
+    "date": "2024-12-23",
+    "source": "merchandise",
+    "revenue": 9691
+  },
+  {
+    "date": "2024-12-23",
+    "source": "licensing",
+    "revenue": 8637
+  },
+  {
+    "date": "2024-12-24",
+    "source": "subscription",
+    "revenue": 37681
+  },
+  {
+    "date": "2024-12-24",
+    "source": "advertisement",
+    "revenue": 22325
+  },
+  {
+    "date": "2024-12-24",
+    "source": "merchandise",
+    "revenue": 8761
+  },
+  {
+    "date": "2024-12-24",
+    "source": "licensing",
+    "revenue": 7679
+  },
+  {
+    "date": "2024-12-25",
+    "source": "subscription",
+    "revenue": 7250
+  },
+  {
+    "date": "2024-12-25",
+    "source": "advertisement",
+    "revenue": 4436
+  },
+  {
+    "date": "2024-12-25",
+    "source": "merchandise",
+    "revenue": 1661
+  },
+  {
+    "date": "2024-12-25",
+    "source": "licensing",
+    "revenue": 1461
+  },
+  {
+    "date": "2024-12-26",
+    "source": "subscription",
+    "revenue": 43993
+  },
+  {
+    "date": "2024-12-26",
+    "source": "advertisement",
+    "revenue": 26454
+  },
+  {
+    "date": "2024-12-26",
+    "source": "merchandise",
+    "revenue": 8786
+  },
+  {
+    "date": "2024-12-26",
+    "source": "licensing",
+    "revenue": 7666
+  },
+  {
+    "date": "2024-12-27",
+    "source": "subscription",
+    "revenue": 26102
+  },
+  {
+    "date": "2024-12-27",
+    "source": "advertisement",
+    "revenue": 15685
+  },
+  {
+    "date": "2024-12-27",
+    "source": "merchandise",
+    "revenue": 5587
+  },
+  {
+    "date": "2024-12-27",
+    "source": "licensing",
+    "revenue": 5375
+  },
+  {
+    "date": "2024-12-28",
+    "source": "subscription",
+    "revenue": 47584
+  },
+  {
+    "date": "2024-12-28",
+    "source": "advertisement",
+    "revenue": 29300
+  },
+  {
+    "date": "2024-12-28",
+    "source": "merchandise",
+    "revenue": 9881
+  },
+  {
+    "date": "2024-12-28",
+    "source": "licensing",
+    "revenue": 9915
+  },
+  {
+    "date": "2024-12-29",
+    "source": "subscription",
+    "revenue": 18038
+  },
+  {
+    "date": "2024-12-29",
+    "source": "advertisement",
+    "revenue": 11107
+  },
+  {
+    "date": "2024-12-29",
+    "source": "merchandise",
+    "revenue": 3236
+  },
+  {
+    "date": "2024-12-29",
+    "source": "licensing",
+    "revenue": 3722
+  },
+  {
+    "date": "2024-12-30",
+    "source": "subscription",
+    "revenue": 17541
+  },
+  {
+    "date": "2024-12-30",
+    "source": "advertisement",
+    "revenue": 10308
+  },
+  {
+    "date": "2024-12-30",
+    "source": "merchandise",
+    "revenue": 3207
+  },
+  {
+    "date": "2024-12-30",
+    "source": "licensing",
+    "revenue": 3571
+  },
+  {
+    "date": "2024-12-31",
+    "source": "subscription",
+    "revenue": 8987
+  },
+  {
+    "date": "2024-12-31",
+    "source": "advertisement",
+    "revenue": 5217
+  },
+  {
+    "date": "2024-12-31",
+    "source": "merchandise",
+    "revenue": 1799
+  },
+  {
+    "date": "2024-12-31",
+    "source": "licensing",
+    "revenue": 1800
+  },
+  {
+    "date": "2025-01-01",
+    "source": "subscription",
+    "revenue": 18715
+  },
+  {
+    "date": "2025-01-01",
+    "source": "advertisement",
+    "revenue": 11133
+  },
+  {
+    "date": "2025-01-01",
+    "source": "merchandise",
+    "revenue": 3557
+  },
+  {
+    "date": "2025-01-01",
+    "source": "licensing",
+    "revenue": 3461
+  },
+  {
+    "date": "2025-01-02",
+    "source": "subscription",
+    "revenue": 9280
+  },
+  {
+    "date": "2025-01-02",
+    "source": "advertisement",
+    "revenue": 5541
+  },
+  {
+    "date": "2025-01-02",
+    "source": "merchandise",
+    "revenue": 1823
+  },
+  {
+    "date": "2025-01-02",
+    "source": "licensing",
+    "revenue": 1426
+  },
+  {
+    "date": "2025-01-03",
+    "source": "subscription",
+    "revenue": 33280
+  },
+  {
+    "date": "2025-01-03",
+    "source": "advertisement",
+    "revenue": 20034
+  },
+  {
+    "date": "2025-01-03",
+    "source": "merchandise",
+    "revenue": 6343
+  },
+  {
+    "date": "2025-01-03",
+    "source": "licensing",
+    "revenue": 6606
+  },
+  {
+    "date": "2025-01-04",
+    "source": "subscription",
+    "revenue": 12819
+  },
+  {
+    "date": "2025-01-04",
+    "source": "advertisement",
+    "revenue": 8168
+  },
+  {
+    "date": "2025-01-04",
+    "source": "merchandise",
+    "revenue": 3002
+  },
+  {
+    "date": "2025-01-04",
+    "source": "licensing",
+    "revenue": 2589
+  },
+  {
+    "date": "2025-01-05",
+    "source": "subscription",
+    "revenue": 20568
+  },
+  {
+    "date": "2025-01-05",
+    "source": "advertisement",
+    "revenue": 12608
+  },
+  {
+    "date": "2025-01-05",
+    "source": "merchandise",
+    "revenue": 4283
+  },
+  {
+    "date": "2025-01-05",
+    "source": "licensing",
+    "revenue": 3839
+  },
+  {
+    "date": "2025-01-06",
+    "source": "subscription",
+    "revenue": 28833
+  },
+  {
+    "date": "2025-01-06",
+    "source": "advertisement",
+    "revenue": 17713
+  },
+  {
+    "date": "2025-01-06",
+    "source": "merchandise",
+    "revenue": 6656
+  },
+  {
+    "date": "2025-01-06",
+    "source": "licensing",
+    "revenue": 5588
+  },
+  {
+    "date": "2025-01-07",
+    "source": "subscription",
+    "revenue": 43832
+  },
+  {
+    "date": "2025-01-07",
+    "source": "advertisement",
+    "revenue": 26298
+  },
+  {
+    "date": "2025-01-07",
+    "source": "merchandise",
+    "revenue": 9286
+  },
+  {
+    "date": "2025-01-07",
+    "source": "licensing",
+    "revenue": 11014
+  },
+  {
+    "date": "2025-01-08",
+    "source": "subscription",
+    "revenue": 49698
+  },
+  {
+    "date": "2025-01-08",
+    "source": "advertisement",
+    "revenue": 28857
+  },
+  {
+    "date": "2025-01-08",
+    "source": "merchandise",
+    "revenue": 9644
+  },
+  {
+    "date": "2025-01-08",
+    "source": "licensing",
+    "revenue": 8327
+  },
+  {
+    "date": "2025-01-09",
+    "source": "subscription",
+    "revenue": 25254
+  },
+  {
+    "date": "2025-01-09",
+    "source": "advertisement",
+    "revenue": 14937
+  },
+  {
+    "date": "2025-01-09",
+    "source": "merchandise",
+    "revenue": 5297
+  },
+  {
+    "date": "2025-01-09",
+    "source": "licensing",
+    "revenue": 5535
+  },
+  {
+    "date": "2025-01-10",
+    "source": "subscription",
+    "revenue": 37274
+  },
+  {
+    "date": "2025-01-10",
+    "source": "advertisement",
+    "revenue": 23430
+  },
+  {
+    "date": "2025-01-10",
+    "source": "merchandise",
+    "revenue": 6927
+  },
+  {
+    "date": "2025-01-10",
+    "source": "licensing",
+    "revenue": 7491
+  },
+  {
+    "date": "2025-01-11",
+    "source": "subscription",
+    "revenue": 39605
+  },
+  {
+    "date": "2025-01-11",
+    "source": "advertisement",
+    "revenue": 24107
+  },
+  {
+    "date": "2025-01-11",
+    "source": "merchandise",
+    "revenue": 8101
+  },
+  {
+    "date": "2025-01-11",
+    "source": "licensing",
+    "revenue": 5975
+  },
+  {
+    "date": "2025-01-12",
+    "source": "subscription",
+    "revenue": 34711
+  },
+  {
+    "date": "2025-01-12",
+    "source": "advertisement",
+    "revenue": 21321
+  },
+  {
+    "date": "2025-01-12",
+    "source": "merchandise",
+    "revenue": 7065
+  },
+  {
+    "date": "2025-01-12",
+    "source": "licensing",
+    "revenue": 6265
+  },
+  {
+    "date": "2025-01-13",
+    "source": "subscription",
+    "revenue": 9273
+  },
+  {
+    "date": "2025-01-13",
+    "source": "advertisement",
+    "revenue": 5603
+  },
+  {
+    "date": "2025-01-13",
+    "source": "merchandise",
+    "revenue": 1733
+  },
+  {
+    "date": "2025-01-13",
+    "source": "licensing",
+    "revenue": 1821
+  },
+  {
+    "date": "2025-01-14",
+    "source": "subscription",
+    "revenue": 20528
+  },
+  {
+    "date": "2025-01-14",
+    "source": "advertisement",
+    "revenue": 12257
+  },
+  {
+    "date": "2025-01-14",
+    "source": "merchandise",
+    "revenue": 4727
+  },
+  {
+    "date": "2025-01-14",
+    "source": "licensing",
+    "revenue": 4125
+  },
+  {
+    "date": "2025-01-15",
+    "source": "subscription",
+    "revenue": 23706
+  },
+  {
+    "date": "2025-01-15",
+    "source": "advertisement",
+    "revenue": 13919
+  },
+  {
+    "date": "2025-01-15",
+    "source": "merchandise",
+    "revenue": 4609
+  },
+  {
+    "date": "2025-01-15",
+    "source": "licensing",
+    "revenue": 4462
+  },
+  {
+    "date": "2025-01-16",
+    "source": "subscription",
+    "revenue": 30396
+  },
+  {
+    "date": "2025-01-16",
+    "source": "advertisement",
+    "revenue": 17998
+  },
+  {
+    "date": "2025-01-16",
+    "source": "merchandise",
+    "revenue": 6123
+  },
+  {
+    "date": "2025-01-16",
+    "source": "licensing",
+    "revenue": 5496
+  },
+  {
+    "date": "2025-01-17",
+    "source": "subscription",
+    "revenue": 42485
+  },
+  {
+    "date": "2025-01-17",
+    "source": "advertisement",
+    "revenue": 26002
+  },
+  {
+    "date": "2025-01-17",
+    "source": "merchandise",
+    "revenue": 7898
+  },
+  {
+    "date": "2025-01-17",
+    "source": "licensing",
+    "revenue": 8698
+  },
+  {
+    "date": "2025-01-18",
+    "source": "subscription",
+    "revenue": 16736
+  },
+  {
+    "date": "2025-01-18",
+    "source": "advertisement",
+    "revenue": 10500
+  },
+  {
+    "date": "2025-01-18",
+    "source": "merchandise",
+    "revenue": 3299
+  },
+  {
+    "date": "2025-01-18",
+    "source": "licensing",
+    "revenue": 3312
+  },
+  {
+    "date": "2025-01-19",
+    "source": "subscription",
+    "revenue": 20711
+  },
+  {
+    "date": "2025-01-19",
+    "source": "advertisement",
+    "revenue": 12489
+  },
+  {
+    "date": "2025-01-19",
+    "source": "merchandise",
+    "revenue": 4480
+  },
+  {
+    "date": "2025-01-19",
+    "source": "licensing",
+    "revenue": 4249
+  },
+  {
+    "date": "2025-01-20",
+    "source": "subscription",
+    "revenue": 6367
+  },
+  {
+    "date": "2025-01-20",
+    "source": "advertisement",
+    "revenue": 3631
+  },
+  {
+    "date": "2025-01-20",
+    "source": "merchandise",
+    "revenue": 1224
+  },
+  {
+    "date": "2025-01-20",
+    "source": "licensing",
+    "revenue": 1346
+  },
+  {
+    "date": "2025-01-21",
+    "source": "subscription",
+    "revenue": 12010
+  },
+  {
+    "date": "2025-01-21",
+    "source": "advertisement",
+    "revenue": 6811
+  },
+  {
+    "date": "2025-01-21",
+    "source": "merchandise",
+    "revenue": 2641
+  },
+  {
+    "date": "2025-01-21",
+    "source": "licensing",
+    "revenue": 2306
+  },
+  {
+    "date": "2025-01-22",
+    "source": "subscription",
+    "revenue": 14841
+  },
+  {
+    "date": "2025-01-22",
+    "source": "advertisement",
+    "revenue": 8986
+  },
+  {
+    "date": "2025-01-22",
+    "source": "merchandise",
+    "revenue": 3002
+  },
+  {
+    "date": "2025-01-22",
+    "source": "licensing",
+    "revenue": 2900
+  },
+  {
+    "date": "2025-01-23",
+    "source": "subscription",
+    "revenue": 9069
+  },
+  {
+    "date": "2025-01-23",
+    "source": "advertisement",
+    "revenue": 5573
+  },
+  {
+    "date": "2025-01-23",
+    "source": "merchandise",
+    "revenue": 1673
+  },
+  {
+    "date": "2025-01-23",
+    "source": "licensing",
+    "revenue": 1835
+  },
+  {
+    "date": "2025-01-24",
+    "source": "subscription",
+    "revenue": 13017
+  },
+  {
+    "date": "2025-01-24",
+    "source": "advertisement",
+    "revenue": 7732
+  },
+  {
+    "date": "2025-01-24",
+    "source": "merchandise",
+    "revenue": 2777
+  },
+  {
+    "date": "2025-01-24",
+    "source": "licensing",
+    "revenue": 2564
+  },
+  {
+    "date": "2025-01-25",
+    "source": "subscription",
+    "revenue": 39869
+  },
+  {
+    "date": "2025-01-25",
+    "source": "advertisement",
+    "revenue": 23432
+  },
+  {
+    "date": "2025-01-25",
+    "source": "merchandise",
+    "revenue": 8191
+  },
+  {
+    "date": "2025-01-25",
+    "source": "licensing",
+    "revenue": 7342
+  },
+  {
+    "date": "2025-01-26",
+    "source": "subscription",
+    "revenue": 49030
+  },
+  {
+    "date": "2025-01-26",
+    "source": "advertisement",
+    "revenue": 30523
+  },
+  {
+    "date": "2025-01-26",
+    "source": "merchandise",
+    "revenue": 10070
+  },
+  {
+    "date": "2025-01-26",
+    "source": "licensing",
+    "revenue": 10019
+  },
+  {
+    "date": "2025-01-27",
+    "source": "subscription",
+    "revenue": 9256
+  },
+  {
+    "date": "2025-01-27",
+    "source": "advertisement",
+    "revenue": 5584
+  },
+  {
+    "date": "2025-01-27",
+    "source": "merchandise",
+    "revenue": 1885
+  },
+  {
+    "date": "2025-01-27",
+    "source": "licensing",
+    "revenue": 1957
+  },
+  {
+    "date": "2025-01-28",
+    "source": "subscription",
+    "revenue": 41668
+  },
+  {
+    "date": "2025-01-28",
+    "source": "advertisement",
+    "revenue": 25705
+  },
+  {
+    "date": "2025-01-28",
+    "source": "merchandise",
+    "revenue": 8661
+  },
+  {
+    "date": "2025-01-28",
+    "source": "licensing",
+    "revenue": 7483
+  },
+  {
+    "date": "2025-01-29",
+    "source": "subscription",
+    "revenue": 31363
+  },
+  {
+    "date": "2025-01-29",
+    "source": "advertisement",
+    "revenue": 19832
+  },
+  {
+    "date": "2025-01-29",
+    "source": "merchandise",
+    "revenue": 6860
+  },
+  {
+    "date": "2025-01-29",
+    "source": "licensing",
+    "revenue": 6537
+  },
+  {
+    "date": "2025-01-30",
+    "source": "subscription",
+    "revenue": 30510
+  },
+  {
+    "date": "2025-01-30",
+    "source": "advertisement",
+    "revenue": 17785
+  },
+  {
+    "date": "2025-01-30",
+    "source": "merchandise",
+    "revenue": 5917
+  },
+  {
+    "date": "2025-01-30",
+    "source": "licensing",
+    "revenue": 6153
+  },
+  {
+    "date": "2025-01-31",
+    "source": "subscription",
+    "revenue": 23431
+  },
+  {
+    "date": "2025-01-31",
+    "source": "advertisement",
+    "revenue": 14518
+  },
+  {
+    "date": "2025-01-31",
+    "source": "merchandise",
+    "revenue": 5329
+  },
+  {
+    "date": "2025-01-31",
+    "source": "licensing",
+    "revenue": 5206
+  },
+  {
+    "date": "2025-02-01",
+    "source": "subscription",
+    "revenue": 44744
+  },
+  {
+    "date": "2025-02-01",
+    "source": "advertisement",
+    "revenue": 27449
+  },
+  {
+    "date": "2025-02-01",
+    "source": "merchandise",
+    "revenue": 10011
+  },
+  {
+    "date": "2025-02-01",
+    "source": "licensing",
+    "revenue": 9427
+  },
+  {
+    "date": "2025-02-02",
+    "source": "subscription",
+    "revenue": 21177
+  },
+  {
+    "date": "2025-02-02",
+    "source": "advertisement",
+    "revenue": 12627
+  },
+  {
+    "date": "2025-02-02",
+    "source": "merchandise",
+    "revenue": 4194
+  },
+  {
+    "date": "2025-02-02",
+    "source": "licensing",
+    "revenue": 4312
+  },
+  {
+    "date": "2025-02-03",
+    "source": "subscription",
+    "revenue": 30860
+  },
+  {
+    "date": "2025-02-03",
+    "source": "advertisement",
+    "revenue": 18254
+  },
+  {
+    "date": "2025-02-03",
+    "source": "merchandise",
+    "revenue": 6407
+  },
+  {
+    "date": "2025-02-03",
+    "source": "licensing",
+    "revenue": 5780
+  },
+  {
+    "date": "2025-02-04",
+    "source": "subscription",
+    "revenue": 26541
+  },
+  {
+    "date": "2025-02-04",
+    "source": "advertisement",
+    "revenue": 15701
+  },
+  {
+    "date": "2025-02-04",
+    "source": "merchandise",
+    "revenue": 6131
+  },
+  {
+    "date": "2025-02-04",
+    "source": "licensing",
+    "revenue": 4961
+  },
+  {
+    "date": "2025-02-05",
+    "source": "subscription",
+    "revenue": 11269
+  },
+  {
+    "date": "2025-02-05",
+    "source": "advertisement",
+    "revenue": 6613
+  },
+  {
+    "date": "2025-02-05",
+    "source": "merchandise",
+    "revenue": 2459
+  },
+  {
+    "date": "2025-02-05",
+    "source": "licensing",
+    "revenue": 2359
+  },
+  {
+    "date": "2025-02-06",
+    "source": "subscription",
+    "revenue": 19744
+  },
+  {
+    "date": "2025-02-06",
+    "source": "advertisement",
+    "revenue": 11350
+  },
+  {
+    "date": "2025-02-06",
+    "source": "merchandise",
+    "revenue": 3964
+  },
+  {
+    "date": "2025-02-06",
+    "source": "licensing",
+    "revenue": 4016
+  },
+  {
+    "date": "2025-02-07",
+    "source": "subscription",
+    "revenue": 40200
+  },
+  {
+    "date": "2025-02-07",
+    "source": "advertisement",
+    "revenue": 24736
+  },
+  {
+    "date": "2025-02-07",
+    "source": "merchandise",
+    "revenue": 7925
+  },
+  {
+    "date": "2025-02-07",
+    "source": "licensing",
+    "revenue": 6927
+  },
+  {
+    "date": "2025-02-08",
+    "source": "subscription",
+    "revenue": 9128
+  },
+  {
+    "date": "2025-02-08",
+    "source": "advertisement",
+    "revenue": 5486
+  },
+  {
+    "date": "2025-02-08",
+    "source": "merchandise",
+    "revenue": 1752
+  },
+  {
+    "date": "2025-02-08",
+    "source": "licensing",
+    "revenue": 1955
+  },
+  {
+    "date": "2025-02-09",
+    "source": "subscription",
+    "revenue": 34595
+  },
+  {
+    "date": "2025-02-09",
+    "source": "advertisement",
+    "revenue": 20674
+  },
+  {
+    "date": "2025-02-09",
+    "source": "merchandise",
+    "revenue": 6294
+  },
+  {
+    "date": "2025-02-09",
+    "source": "licensing",
+    "revenue": 6971
+  },
+  {
+    "date": "2025-02-10",
+    "source": "subscription",
+    "revenue": 28814
+  },
+  {
+    "date": "2025-02-10",
+    "source": "advertisement",
+    "revenue": 17381
+  },
+  {
+    "date": "2025-02-10",
+    "source": "merchandise",
+    "revenue": 5095
+  },
+  {
+    "date": "2025-02-10",
+    "source": "licensing",
+    "revenue": 5767
+  },
+  {
+    "date": "2025-02-11",
+    "source": "subscription",
+    "revenue": 46173
+  },
+  {
+    "date": "2025-02-11",
+    "source": "advertisement",
+    "revenue": 27482
+  },
+  {
+    "date": "2025-02-11",
+    "source": "merchandise",
+    "revenue": 9044
+  },
+  {
+    "date": "2025-02-11",
+    "source": "licensing",
+    "revenue": 9212
+  },
+  {
+    "date": "2025-02-12",
+    "source": "subscription",
+    "revenue": 45734
+  },
+  {
+    "date": "2025-02-12",
+    "source": "advertisement",
+    "revenue": 27539
+  },
+  {
+    "date": "2025-02-12",
+    "source": "merchandise",
+    "revenue": 8570
+  },
+  {
+    "date": "2025-02-12",
+    "source": "licensing",
+    "revenue": 9121
+  },
+  {
+    "date": "2025-02-13",
+    "source": "subscription",
+    "revenue": 48035
+  },
+  {
+    "date": "2025-02-13",
+    "source": "advertisement",
+    "revenue": 29666
+  },
+  {
+    "date": "2025-02-13",
+    "source": "merchandise",
+    "revenue": 10373
+  },
+  {
+    "date": "2025-02-13",
+    "source": "licensing",
+    "revenue": 9175
+  },
+  {
+    "date": "2025-02-14",
+    "source": "subscription",
+    "revenue": 11062
+  },
+  {
+    "date": "2025-02-14",
+    "source": "advertisement",
+    "revenue": 6631
+  },
+  {
+    "date": "2025-02-14",
+    "source": "merchandise",
+    "revenue": 2050
+  },
+  {
+    "date": "2025-02-14",
+    "source": "licensing",
+    "revenue": 2215
+  },
+  {
+    "date": "2025-02-15",
+    "source": "subscription",
+    "revenue": 28430
+  },
+  {
+    "date": "2025-02-15",
+    "source": "advertisement",
+    "revenue": 17693
+  },
+  {
+    "date": "2025-02-15",
+    "source": "merchandise",
+    "revenue": 5623
+  },
+  {
+    "date": "2025-02-15",
+    "source": "licensing",
+    "revenue": 5605
+  },
+  {
+    "date": "2025-02-16",
+    "source": "subscription",
+    "revenue": 26999
+  },
+  {
+    "date": "2025-02-16",
+    "source": "advertisement",
+    "revenue": 17339
+  },
+  {
+    "date": "2025-02-16",
+    "source": "merchandise",
+    "revenue": 5831
+  },
+  {
+    "date": "2025-02-16",
+    "source": "licensing",
+    "revenue": 5668
+  },
+  {
+    "date": "2025-02-17",
+    "source": "subscription",
+    "revenue": 37432
+  },
+  {
+    "date": "2025-02-17",
+    "source": "advertisement",
+    "revenue": 22771
+  },
+  {
+    "date": "2025-02-17",
+    "source": "merchandise",
+    "revenue": 7370
+  },
+  {
+    "date": "2025-02-17",
+    "source": "licensing",
+    "revenue": 7446
+  },
+  {
+    "date": "2025-02-18",
+    "source": "subscription",
+    "revenue": 47993
+  },
+  {
+    "date": "2025-02-18",
+    "source": "advertisement",
+    "revenue": 28357
+  },
+  {
+    "date": "2025-02-18",
+    "source": "merchandise",
+    "revenue": 9421
+  },
+  {
+    "date": "2025-02-18",
+    "source": "licensing",
+    "revenue": 8722
+  },
+  {
+    "date": "2025-02-19",
+    "source": "subscription",
+    "revenue": 48145
+  },
+  {
+    "date": "2025-02-19",
+    "source": "advertisement",
+    "revenue": 28521
+  },
+  {
+    "date": "2025-02-19",
+    "source": "merchandise",
+    "revenue": 8922
+  },
+  {
+    "date": "2025-02-19",
+    "source": "licensing",
+    "revenue": 8168
+  },
+  {
+    "date": "2025-02-20",
+    "source": "subscription",
+    "revenue": 44276
+  },
+  {
+    "date": "2025-02-20",
+    "source": "advertisement",
+    "revenue": 26232
+  },
+  {
+    "date": "2025-02-20",
+    "source": "merchandise",
+    "revenue": 8528
+  },
+  {
+    "date": "2025-02-20",
+    "source": "licensing",
+    "revenue": 7883
+  },
+  {
+    "date": "2025-02-21",
+    "source": "subscription",
+    "revenue": 24214
+  },
+  {
+    "date": "2025-02-21",
+    "source": "advertisement",
+    "revenue": 14995
+  },
+  {
+    "date": "2025-02-21",
+    "source": "merchandise",
+    "revenue": 4575
+  },
+  {
+    "date": "2025-02-21",
+    "source": "licensing",
+    "revenue": 4592
+  },
+  {
+    "date": "2025-02-22",
+    "source": "subscription",
+    "revenue": 17634
+  },
+  {
+    "date": "2025-02-22",
+    "source": "advertisement",
+    "revenue": 10441
+  },
+  {
+    "date": "2025-02-22",
+    "source": "merchandise",
+    "revenue": 3328
+  },
+  {
+    "date": "2025-02-22",
+    "source": "licensing",
+    "revenue": 3673
+  },
+  {
+    "date": "2025-02-23",
+    "source": "subscription",
+    "revenue": 51129
+  },
+  {
+    "date": "2025-02-23",
+    "source": "advertisement",
+    "revenue": 30005
+  },
+  {
+    "date": "2025-02-23",
+    "source": "merchandise",
+    "revenue": 8040
+  },
+  {
+    "date": "2025-02-23",
+    "source": "licensing",
+    "revenue": 9758
+  },
+  {
+    "date": "2025-02-24",
+    "source": "subscription",
+    "revenue": 39500
+  },
+  {
+    "date": "2025-02-24",
+    "source": "advertisement",
+    "revenue": 24051
+  },
+  {
+    "date": "2025-02-24",
+    "source": "merchandise",
+    "revenue": 8293
+  },
+  {
+    "date": "2025-02-24",
+    "source": "licensing",
+    "revenue": 8891
+  },
+  {
+    "date": "2025-02-25",
+    "source": "subscription",
+    "revenue": 31380
+  },
+  {
+    "date": "2025-02-25",
+    "source": "advertisement",
+    "revenue": 19303
+  },
+  {
+    "date": "2025-02-25",
+    "source": "merchandise",
+    "revenue": 6398
+  },
+  {
+    "date": "2025-02-25",
+    "source": "licensing",
+    "revenue": 6215
+  },
+  {
+    "date": "2025-02-26",
+    "source": "subscription",
+    "revenue": 36916
+  },
+  {
+    "date": "2025-02-26",
+    "source": "advertisement",
+    "revenue": 21078
+  },
+  {
+    "date": "2025-02-26",
+    "source": "merchandise",
+    "revenue": 6716
+  },
+  {
+    "date": "2025-02-26",
+    "source": "licensing",
+    "revenue": 7082
+  },
+  {
+    "date": "2025-02-27",
+    "source": "subscription",
+    "revenue": 16088
+  },
+  {
+    "date": "2025-02-27",
+    "source": "advertisement",
+    "revenue": 9846
+  },
+  {
+    "date": "2025-02-27",
+    "source": "merchandise",
+    "revenue": 3659
+  },
+  {
+    "date": "2025-02-27",
+    "source": "licensing",
+    "revenue": 3400
+  },
+  {
+    "date": "2025-02-28",
+    "source": "subscription",
+    "revenue": 28108
+  },
+  {
+    "date": "2025-02-28",
+    "source": "advertisement",
+    "revenue": 17768
+  },
+  {
+    "date": "2025-02-28",
+    "source": "merchandise",
+    "revenue": 5502
+  },
+  {
+    "date": "2025-02-28",
+    "source": "licensing",
+    "revenue": 5584
+  }
+]
