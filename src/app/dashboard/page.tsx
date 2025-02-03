@@ -4,6 +4,7 @@ import { TopStreamsChart } from "@/components/charts/top-streams-chart";
 import { UsersChart } from "@/components/charts/users-chart";
 import { DataTable } from "@/components/data-table";
 import { CalendarDateRangePicker } from "@/components/date-range-picker";
+import { MetricsList, MetricsListSkeleton } from "@/components/metrices";
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -17,52 +18,8 @@ import {
   SidebarProvider,
   SidebarTrigger,
 } from "@/components/ui/sidebar";
-import { useSuspenseQuery } from "@tanstack/react-query";
 import { ColumnDef } from "@tanstack/react-table";
-import { Users } from "lucide-react";
 import { Suspense } from "react";
-
-const API_BASE_URL = "https://mock.example.com/api";
-
-const MetricsCardSkeleton = () => {
-  return (
-    <Card>
-      <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-        <CardTitle className="text-sm font-medium text-transparent bg-slate-300 animate-pulse rounded">
-          Total Users
-        </CardTitle>
-        <div className="p-1 text-transparent bg-slate-300 animate-pulse rounded-full">
-          <Users className="h-4 w-4" />
-        </div>
-      </CardHeader>
-      <CardContent>
-        <div className="text-2xl font-bold text-transparent bg-slate-300 animate-pulse rounded">
-          1,234,567
-        </div>
-        <p className="text-xs mt-0.5 text-transparent bg-slate-300 animate-pulse rounded">
-          Registered users
-        </p>
-      </CardContent>
-    </Card>
-  );
-};
-
-const MetricsCard = () => {
-  return (
-    <Card>
-      <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-        <CardTitle className="text-sm font-medium">Total Users</CardTitle>
-        <div className="p-1 text-muted-foreground">
-          <Users className="h-4 w-4" />
-        </div>
-      </CardHeader>
-      <CardContent>
-        <div className="text-2xl font-bold">1,234,567</div>
-        <p className="text-xs mt-0.5 text-muted-foreground">Registered users</p>
-      </CardContent>
-    </Card>
-  );
-};
 
 type Stream = {
   id: string;
@@ -181,38 +138,6 @@ const TopStreamsTable = () => {
   ];
 
   return <DataTable columns={columns} data={data} />;
-};
-
-const fetchMetrices = async () => {
-  const response = await fetch(
-    `${API_BASE_URL}/overview/metrices?startDate=2024-01-01&endDate=2025-02-02`
-  );
-  if (!response.ok) {
-    throw new Error("Network response was not ok");
-  }
-  return await response.json();
-};
-
-const MetricsList = () => {
-  // Wrap your fetching logic with the `use` hook
-  const { data: metrices } = useSuspenseQuery({
-    queryKey: ["metrices"],
-    queryFn: fetchMetrices,
-  });
-
-  return (
-    <>
-      {Object.keys(metrices).map((key) => (
-        <MetricsCard key={key} />
-      ))}
-    </>
-  );
-};
-
-const MetricsListSkeleton = () => {
-  return Array.from({ length: 5 }).map((_, index) => (
-    <MetricsCardSkeleton key={index} />
-  ));
 };
 
 export default function Page() {

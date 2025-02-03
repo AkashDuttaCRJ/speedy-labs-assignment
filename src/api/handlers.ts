@@ -1,3 +1,4 @@
+import { MetricesAPIResponse } from "@/types/api-response";
 import { http, HttpResponse } from "msw";
 import activeUsersJson from "./data/active_users.json";
 import topArtistsJson from "./data/top_artists.json";
@@ -78,13 +79,60 @@ const handlers = [
 
     await new Promise((resolve) => setTimeout(resolve, 2000));
 
-    return HttpResponse.json({
-      totalUsers,
-      activeUsers,
-      totalStreams,
-      totalRevenues,
-      topArtist,
-    });
+    return HttpResponse.json([
+      {
+        title: "Total Users",
+        icon: "users",
+        value: Intl.NumberFormat("en-US", {
+          notation: "compact",
+          compactDisplay: "short",
+          maximumFractionDigits: 1,
+        }).format(totalUsers),
+        description: "registered users",
+      },
+      {
+        title: "Active Users",
+        icon: "headphones",
+        value: Intl.NumberFormat("en-US", {
+          notation: "compact",
+          compactDisplay: "short",
+          maximumFractionDigits: 1,
+        }).format(activeUsers),
+        description: "users are active with atleast one stream",
+      },
+      {
+        title: "Total Streams",
+        icon: "music",
+        value: Intl.NumberFormat("en-US", {
+          notation: "compact",
+          compactDisplay: "short",
+          maximumFractionDigits: 2,
+        }).format(totalStreams),
+        description: "songs were streamed",
+      },
+      {
+        title: "Total Revenues",
+        icon: "dollar-sign",
+        value: Intl.NumberFormat("en-US", {
+          style: "currency",
+          currency: "USD",
+          notation: "compact",
+          compactDisplay: "short",
+          maximumFractionDigits: 2,
+        }).format(totalRevenues),
+        description: "revenues from multiple sources",
+      },
+      {
+        title: "Top Artist",
+        icon: "trending-up",
+        value: topArtist.artist,
+        description: `with ${Intl.NumberFormat("en-US", {
+          notation: "compact",
+          compactDisplay: "short",
+          maximumFractionDigits: 0,
+        }).format(topArtist.playbacks)} playbacks`,
+      },
+    ] satisfies MetricesAPIResponse);
   }),
 ];
 
