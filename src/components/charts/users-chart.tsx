@@ -1,11 +1,9 @@
-import { TrendingUp } from "lucide-react";
 import { CartesianGrid, Line, LineChart, XAxis } from "recharts";
 
 import {
   Card,
   CardContent,
   CardDescription,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
@@ -15,24 +13,20 @@ import {
   ChartTooltip,
   ChartTooltipContent,
 } from "@/components/ui/chart";
+import { axios } from "@/lib/axios";
+import { useStore } from "@/lib/store";
 import { cn } from "@/lib/utils";
-
-const chartData = [
-  { month: "January", desktop: 186, mobile: 80 },
-  { month: "February", desktop: 305, mobile: 200 },
-  { month: "March", desktop: 237, mobile: 120 },
-  { month: "April", desktop: 73, mobile: 190 },
-  { month: "May", desktop: 209, mobile: 130 },
-  { month: "June", desktop: 214, mobile: 140 },
-];
+import { useSuspenseQuery } from "@tanstack/react-query";
+import { format } from "date-fns";
+import { Suspense } from "react";
 
 const chartConfig = {
-  desktop: {
-    label: "Desktop",
+  total: {
+    label: "Total Users",
     color: "hsl(var(--chart-1))",
   },
-  mobile: {
-    label: "Mobile",
+  active: {
+    label: "Active Users",
     color: "hsl(var(--chart-2))",
   },
 } satisfies ChartConfig;
@@ -41,12 +35,39 @@ interface UsersChartProps {
   className?: string;
 }
 
-export function UsersChart({ className }: UsersChartProps) {
+function UsersChartUI({ className }: UsersChartProps) {
+  const { dateRange } = useStore();
+
+  const { data: chartData } = useSuspenseQuery<
+    {
+      date: string;
+      total: number;
+      active: number;
+    }[]
+  >({
+    queryKey: ["user-growth", dateRange],
+    queryFn: async () => {
+      const response = await axios.get("/overview/user-growth", {
+        params: {
+          startDate: dateRange.from.toISOString(),
+          endDate: dateRange.to.toISOString(),
+        },
+      });
+
+      return response.data;
+    },
+  });
+
   return (
     <Card className={cn("w-full", className)}>
       <CardHeader>
-        <CardTitle>Line Chart - Multiple</CardTitle>
-        <CardDescription>January - June 2024</CardDescription>
+        <CardTitle>User Growth Chart</CardTitle>
+        <CardDescription>
+          {`${format(dateRange.from, "MMMM yyyy")} - ${format(
+            dateRange.to,
+            "MMMM yyyy"
+          )}`}
+        </CardDescription>
       </CardHeader>
       <CardContent>
         <ChartContainer config={chartConfig}>
@@ -68,34 +89,53 @@ export function UsersChart({ className }: UsersChartProps) {
             />
             <ChartTooltip cursor={false} content={<ChartTooltipContent />} />
             <Line
-              dataKey="desktop"
+              dataKey="total"
               type="monotone"
-              stroke="var(--color-desktop)"
+              stroke="var(--color-total)"
               strokeWidth={2}
               dot={false}
             />
             <Line
-              dataKey="mobile"
+              dataKey="active"
               type="monotone"
-              stroke="var(--color-mobile)"
+              stroke="var(--color-active)"
               strokeWidth={2}
               dot={false}
             />
           </LineChart>
         </ChartContainer>
       </CardContent>
-      <CardFooter>
-        <div className="flex w-full items-start gap-2 text-sm">
-          <div className="grid gap-2">
-            <div className="flex items-center gap-2 font-medium leading-none">
-              Trending up by 5.2% this month <TrendingUp className="h-4 w-4" />
-            </div>
-            <div className="flex items-center gap-2 leading-none text-muted-foreground">
-              Showing total visitors for the last 6 months
-            </div>
-          </div>
-        </div>
-      </CardFooter>
     </Card>
+  );
+}
+
+function UsersChartFallback({ className }: UsersChartProps) {
+  return (
+    <Card className={cn("w-full", className)}>
+      <CardHeader>
+        <CardTitle className="text-transparent bg-slate-200 rounded w-fit animate-pulse">
+          User Growth Chart
+        </CardTitle>
+        <CardDescription className="text-transparent bg-slate-200 rounded w-fit animate-pulse">
+          January - June 2024
+        </CardDescription>
+      </CardHeader>
+      <CardContent>
+        <ChartContainer
+          config={chartConfig}
+          className="bg-slate-200 rounded-md animate-pulse"
+        >
+          <></>
+        </ChartContainer>
+      </CardContent>
+    </Card>
+  );
+}
+
+export function UsersChart({ className }: UsersChartProps) {
+  return (
+    <Suspense fallback={<UsersChartFallback className={className} />}>
+      <UsersChartUI className={className} />
+    </Suspense>
   );
 }

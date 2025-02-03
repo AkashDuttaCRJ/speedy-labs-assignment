@@ -1,6 +1,3 @@
-"use client";
-
-import { TrendingUp } from "lucide-react";
 import * as React from "react";
 import { Label, Pie, PieChart } from "recharts";
 
@@ -8,7 +5,6 @@ import {
   Card,
   CardContent,
   CardDescription,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
@@ -18,39 +14,31 @@ import {
   ChartTooltip,
   ChartTooltipContent,
 } from "@/components/ui/chart";
+import { axios } from "@/lib/axios";
+import { useStore } from "@/lib/store";
 import { cn } from "@/lib/utils";
-
-const chartData = [
-  { browser: "chrome", visitors: 275, fill: "var(--color-chrome)" },
-  { browser: "safari", visitors: 200, fill: "var(--color-safari)" },
-  { browser: "firefox", visitors: 287, fill: "var(--color-firefox)" },
-  { browser: "edge", visitors: 173, fill: "var(--color-edge)" },
-  { browser: "other", visitors: 190, fill: "var(--color-other)" },
-];
+import { useSuspenseQuery } from "@tanstack/react-query";
+import { format } from "date-fns";
 
 const chartConfig = {
-  visitors: {
-    label: "Visitors",
+  revenue: {
+    label: "Revenue",
   },
-  chrome: {
-    label: "Chrome",
+  subscription: {
+    label: "Subscription",
     color: "hsl(var(--chart-1))",
   },
-  safari: {
-    label: "Safari",
+  advertisement: {
+    label: "Advertisement",
     color: "hsl(var(--chart-2))",
   },
-  firefox: {
-    label: "Firefox",
+  merchandise: {
+    label: "Merchandise",
     color: "hsl(var(--chart-3))",
   },
-  edge: {
-    label: "Edge",
+  licensing: {
+    label: "Licensing",
     color: "hsl(var(--chart-4))",
-  },
-  other: {
-    label: "Other",
-    color: "hsl(var(--chart-5))",
   },
 } satisfies ChartConfig;
 
@@ -58,21 +46,45 @@ interface RevenueChartProps {
   className?: string;
 }
 
-export function RevenueChart({ className }: RevenueChartProps) {
-  const totalVisitors = React.useMemo(() => {
-    return chartData.reduce((acc, curr) => acc + curr.visitors, 0);
-  }, []);
+function RevenueChartUI({ className }: RevenueChartProps) {
+  const { dateRange } = useStore();
+
+  const { data: revenueChartData } = useSuspenseQuery<{
+    totalRevenue: number;
+    revenueBySource: {
+      source: string;
+      revenue: number;
+      fill: string;
+    }[];
+  }>({
+    queryKey: ["revenue", dateRange],
+    queryFn: async () => {
+      const response = await axios.get("/overview/revenue", {
+        params: {
+          startDate: dateRange.from.toISOString(),
+          endDate: dateRange.to.toISOString(),
+        },
+      });
+
+      return response.data;
+    },
+  });
 
   return (
     <Card className={cn("w-full flex flex-col", className)}>
       <CardHeader className="items-start pb-0">
-        <CardTitle>Pie Chart - Donut with Text</CardTitle>
-        <CardDescription>January - June 2024</CardDescription>
+        <CardTitle>Revenue Distribution</CardTitle>
+        <CardDescription>
+          {`${format(dateRange.from, "MMMM yyyy")} - ${format(
+            dateRange.to,
+            "MMMM yyyy"
+          )}`}
+        </CardDescription>
       </CardHeader>
       <CardContent className="flex-1 pb-0 flex items-center justify-center">
         <ChartContainer
           config={chartConfig}
-          className="mx-auto aspect-square max-h-[350px] w-full h-full"
+          className="mx-auto max-h-[350px] w-full h-full"
         >
           <PieChart>
             <ChartTooltip
@@ -80,10 +92,10 @@ export function RevenueChart({ className }: RevenueChartProps) {
               content={<ChartTooltipContent hideLabel />}
             />
             <Pie
-              data={chartData}
-              dataKey="visitors"
-              nameKey="browser"
-              innerRadius={60}
+              data={revenueChartData.revenueBySource}
+              dataKey="revenue"
+              nameKey="source"
+              innerRadius={65}
               strokeWidth={5}
             >
               <Label
@@ -101,14 +113,14 @@ export function RevenueChart({ className }: RevenueChartProps) {
                           y={viewBox.cy}
                           className="fill-foreground text-3xl font-bold"
                         >
-                          {totalVisitors.toLocaleString()}
+                          {revenueChartData.totalRevenue}
                         </tspan>
                         <tspan
                           x={viewBox.cx}
                           y={(viewBox.cy || 0) + 24}
                           className="fill-muted-foreground"
                         >
-                          Visitors
+                          Total Revenue
                         </tspan>
                       </text>
                     );
@@ -119,18 +131,37 @@ export function RevenueChart({ className }: RevenueChartProps) {
           </PieChart>
         </ChartContainer>
       </CardContent>
-      <CardFooter>
-        <div className="flex w-full items-start gap-2 text-sm">
-          <div className="grid gap-2">
-            <div className="flex items-center gap-2 font-medium leading-none">
-              Trending up by 5.2% this month <TrendingUp className="h-4 w-4" />
-            </div>
-            <div className="flex items-center gap-2 leading-none text-muted-foreground">
-              Showing total visitors for the last 6 months
-            </div>
-          </div>
-        </div>
-      </CardFooter>
     </Card>
+  );
+}
+
+function RevenueChartFallback({ className }: RevenueChartProps) {
+  return (
+    <Card className={cn("w-full flex flex-col", className)}>
+      <CardHeader>
+        <CardTitle className="text-transparent bg-slate-200 rounded w-fit animate-pulse">
+          Revenue Distribution
+        </CardTitle>
+        <CardDescription className="text-transparent bg-slate-200 rounded w-fit animate-pulse">
+          January - June 2024
+        </CardDescription>
+      </CardHeader>
+      <CardContent>
+        <ChartContainer
+          config={chartConfig}
+          className="bg-slate-200 rounded-md animate-pulse"
+        >
+          <></>
+        </ChartContainer>
+      </CardContent>
+    </Card>
+  );
+}
+
+export function RevenueChart({ className }: RevenueChartProps) {
+  return (
+    <React.Suspense fallback={<RevenueChartFallback className={className} />}>
+      <RevenueChartUI className={className} />
+    </React.Suspense>
   );
 }

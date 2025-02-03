@@ -1,6 +1,3 @@
-"use client";
-
-import { TrendingUp } from "lucide-react";
 import {
   Bar,
   BarChart,
@@ -14,7 +11,6 @@ import {
   Card,
   CardContent,
   CardDescription,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
@@ -24,27 +20,19 @@ import {
   ChartTooltip,
   ChartTooltipContent,
 } from "@/components/ui/chart";
+import { axios } from "@/lib/axios";
+import { useStore } from "@/lib/store";
 import { cn } from "@/lib/utils";
-
-const chartData = [
-  { month: "January", desktop: 186, mobile: 80 },
-  { month: "February", desktop: 305, mobile: 200 },
-  { month: "March", desktop: 237, mobile: 120 },
-  { month: "April", desktop: 73, mobile: 190 },
-  { month: "May", desktop: 209, mobile: 130 },
-  { month: "June", desktop: 214, mobile: 140 },
-];
+import { useSuspenseQuery } from "@tanstack/react-query";
+import { format } from "date-fns";
+import { Suspense } from "react";
 
 const chartConfig = {
-  desktop: {
-    label: "Desktop",
+  count: {
+    label: "Playbacks",
     color: "hsl(var(--chart-1))",
   },
-  mobile: {
-    label: "Mobile",
-    color: "hsl(var(--chart-2))",
-  },
-  label: {
+  name: {
     color: "hsl(var(--background))",
   },
 } satisfies ChartConfig;
@@ -53,18 +41,44 @@ interface TopStreamsChartProps {
   className?: string;
 }
 
-export function TopStreamsChart({ className }: TopStreamsChartProps) {
+function TopStreamsChartUI({ className }: TopStreamsChartProps) {
+  const { dateRange } = useStore();
+
+  const { data: streamsChartData } = useSuspenseQuery<
+    {
+      name: string;
+      count: number;
+    }[]
+  >({
+    queryKey: ["top-streams", dateRange],
+    queryFn: async () => {
+      const response = await axios.get("/overview/top-streams", {
+        params: {
+          startDate: dateRange.from.toISOString(),
+          endDate: dateRange.to.toISOString(),
+        },
+      });
+
+      return response.data;
+    },
+  });
+
   return (
     <Card className={cn("w-full", className)}>
       <CardHeader>
-        <CardTitle>Bar Chart - Custom Label</CardTitle>
-        <CardDescription>January - June 2024</CardDescription>
+        <CardTitle>Top Streams</CardTitle>
+        <CardDescription>
+          {`${format(dateRange.from, "MMMM yyyy")} - ${format(
+            dateRange.to,
+            "MMMM yyyy"
+          )}`}
+        </CardDescription>
       </CardHeader>
       <CardContent>
         <ChartContainer config={chartConfig}>
           <BarChart
             accessibilityLayer
-            data={chartData}
+            data={streamsChartData}
             layout="vertical"
             margin={{
               right: 16,
@@ -72,7 +86,7 @@ export function TopStreamsChart({ className }: TopStreamsChartProps) {
           >
             <CartesianGrid horizontal={false} />
             <YAxis
-              dataKey="month"
+              dataKey="name"
               type="category"
               tickLine={false}
               tickMargin={10}
@@ -80,26 +94,26 @@ export function TopStreamsChart({ className }: TopStreamsChartProps) {
               tickFormatter={(value) => value.slice(0, 3)}
               hide
             />
-            <XAxis dataKey="desktop" type="number" hide />
+            <XAxis dataKey="count" type="number" hide />
             <ChartTooltip
               cursor={false}
               content={<ChartTooltipContent indicator="line" />}
             />
             <Bar
-              dataKey="desktop"
+              dataKey="count"
               layout="vertical"
-              fill="var(--color-desktop)"
+              fill="var(--color-count)"
               radius={4}
             >
               <LabelList
-                dataKey="month"
+                dataKey="name"
                 position="insideLeft"
                 offset={8}
-                className="fill-[--color-label]"
+                className="fill-[--color-name]"
                 fontSize={12}
               />
               <LabelList
-                dataKey="desktop"
+                dataKey="count"
                 position="right"
                 offset={8}
                 className="fill-foreground"
@@ -109,14 +123,37 @@ export function TopStreamsChart({ className }: TopStreamsChartProps) {
           </BarChart>
         </ChartContainer>
       </CardContent>
-      <CardFooter className="flex-col items-start gap-2 text-sm">
-        <div className="flex gap-2 font-medium leading-none">
-          Trending up by 5.2% this month <TrendingUp className="h-4 w-4" />
-        </div>
-        <div className="leading-none text-muted-foreground">
-          Showing total visitors for the last 6 months
-        </div>
-      </CardFooter>
     </Card>
+  );
+}
+
+function TopStreamsChartFallback({ className }: TopStreamsChartProps) {
+  return (
+    <Card className={cn("w-full", className)}>
+      <CardHeader>
+        <CardTitle className="text-transparent bg-slate-200 rounded w-fit animate-pulse">
+          Top Streams
+        </CardTitle>
+        <CardDescription className="text-transparent bg-slate-200 rounded w-fit animate-pulse">
+          January - June 2024
+        </CardDescription>
+      </CardHeader>
+      <CardContent>
+        <ChartContainer
+          config={chartConfig}
+          className="bg-slate-200 rounded-md animate-pulse"
+        >
+          <></>
+        </ChartContainer>
+      </CardContent>
+    </Card>
+  );
+}
+
+export function TopStreamsChart({ className }: TopStreamsChartProps) {
+  return (
+    <Suspense fallback={<TopStreamsChartFallback className={className} />}>
+      <TopStreamsChartUI className={className} />
+    </Suspense>
   );
 }
