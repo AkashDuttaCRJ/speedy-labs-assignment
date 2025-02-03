@@ -76,6 +76,8 @@ const handlers = [
       }
     }
 
+    await new Promise((resolve) => setTimeout(resolve, 2000));
+
     return HttpResponse.json({
       totalUsers,
       activeUsers,
