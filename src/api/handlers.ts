@@ -80,7 +80,7 @@ const handlers = [
       }
     }
 
-    await delay(2000);
+    await delay(200);
 
     return HttpResponse.json([
       {
@@ -156,7 +156,7 @@ const handlers = [
       active: activeUsers[index].count,
     }));
 
-    await delay(2000);
+    await delay(200);
 
     return HttpResponse.json(mergedUsers);
   }),
@@ -184,7 +184,7 @@ const handlers = [
       return acc;
     }, {} as Record<string, number>);
 
-    await delay(2000);
+    await delay(200);
 
     return HttpResponse.json({
       totalRevenue,
@@ -221,7 +221,7 @@ const handlers = [
         return acc;
       }, [] as { name: string; count: number }[]);
 
-    await delay(2000);
+    await delay(200);
 
     return HttpResponse.json(sortedStreams);
   }),
@@ -246,7 +246,7 @@ const handlers = [
 
     const filteredStreams = filterByDateRange(streamsJson, startDate, endDate);
 
-    await delay(2000);
+    await delay(200);
 
     return HttpResponse.json({
       total: filteredStreams.length,

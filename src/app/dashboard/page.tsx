@@ -18,9 +18,12 @@ import {
   SidebarProvider,
   SidebarTrigger,
 } from "@/components/ui/sidebar";
+import { useStore } from "@/lib/store";
 import { Suspense } from "react";
 
 export default function Page() {
+  const { dateRange, setDateRange } = useStore();
+
   return (
     <SidebarProvider>
       <AppSidebar />
@@ -39,12 +42,14 @@ export default function Page() {
               </BreadcrumbList>
             </Breadcrumb>
           </div>
-          <div className="ml-auto px-3">{/* TODO: Add User Avatar */}</div>
         </header>
         <div className="flex flex-1 flex-col gap-4 p-4">
           <div className="flex items-center justify-between">
             <h2 className="text-3xl font-bold tracking-tight">Overview</h2>
-            <CalendarDateRangePicker />
+            <CalendarDateRangePicker
+              date={dateRange}
+              setDate={(range) => setDateRange(range)}
+            />
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
             <Suspense fallback={<MetricsListSkeleton />}>
@@ -59,7 +64,7 @@ export default function Page() {
           <div className="grid grid-cols-1">
             <Card>
               <CardHeader>
-                <CardTitle>Top Streams</CardTitle>
+                <CardTitle>Recent Streams</CardTitle>
               </CardHeader>
               <CardContent>
                 <StreamsTable />
